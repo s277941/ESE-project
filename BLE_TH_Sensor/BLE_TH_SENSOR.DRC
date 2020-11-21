@@ -1,0 +1,182 @@
+Date and Time : 11/24/18 01:09:03
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    SCHEMATIC1, Power  (2.10, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict SW2,B  Bidirectional Connected to Power
+                    SCHEMATIC1, Peripherals  (3.40, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict A1,Feed  Bidirectional Connected to Power
+                    SCHEMATIC1, Microcontroller  (8.30, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VSS  Power Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 5.10) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,B  Bidirectional Connected to Power
+                    SCHEMATIC1, Microcontroller  (6.70, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,D  Bidirectional Connected to Power
+                    SCHEMATIC1, Microcontroller  (6.90, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_9  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (3.60, 1.50) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_9  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_9  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict JTAG_TMSC  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (6.60, 2.30) 
+WARNING(ORCAP-1829): Possible pin type conflict JTAG_TMSC  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,JTAG_TMSC  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_6  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (6.60, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_6  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_6  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.50) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_0  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (2.00, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_0  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_0  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_5  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (6.60, 1.90) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_5  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_5  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.40) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_11  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (3.60, 1.90) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_11  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_11  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_1  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (2.00, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_1  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_1  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_10  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (3.60, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_10  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_10  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.90) 
+WARNING(ORCAP-1829): Possible pin type conflict JTAG_TCKC  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (6.60, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict JTAG_TCKC  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,JTAG_TCKC  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_2  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Peripherals  (2.00, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_2  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_2  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.10) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_12  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_12  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_7  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_7  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.60) 
+WARNING(ORCAP-1829): Possible pin type conflict X32K_Q2  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 4.30) 
+WARNING(ORCAP-1829): Possible pin type conflict X32K_Q2  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (8.20, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,X32K_Q2  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 4.30) 
+WARNING(ORCAP-1829): Possible pin type conflict Y1,B  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (8.10, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_13  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_13  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.20) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_14  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 4.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_14  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 4.30) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_4  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_4  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.30) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_3  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_3  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.20) 
+WARNING(ORCAP-1829): Possible pin type conflict RF_N  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (6.20, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict RF_N  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 3.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,RF_N  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 3.90) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Output
+                    SCHEMATIC1, Microcontroller  (1.60, 1.00) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Power
+                    SCHEMATIC1, Microcontroller  (1.60, 1.00) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Output
+                    SCHEMATIC1, Microcontroller  (4.50, 2.80) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Power
+                    SCHEMATIC1, Microcontroller  (4.50, 2.80) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Output
+                    SCHEMATIC1, Microcontroller  (0.90, 4.00) 
+ERROR(ORCAP-1628): Possible pin type conflict VDDS  Input Port Connected to Power
+                    SCHEMATIC1, Microcontroller  (0.90, 4.00) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS_DCDC  Power Connected to Output
+                    SCHEMATIC1, Microcontroller  (4.40, 3.10) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS_DCDC  Power Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 3.10) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS2  Power Connected to Output
+                    SCHEMATIC1, Microcontroller  (4.40, 3.00) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS2  Power Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 3.00) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS  Power Connected to Output
+                    SCHEMATIC1, Microcontroller  (4.40, 2.90) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,VDDS  Power Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 2.90) 
+ERROR(ORCAP-1628): Possible pin type conflict FL1,B  Output Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (1.30, 1.10) 
+ERROR(ORCAP-1628): Possible pin type conflict FL1,B  Output Connected to Power
+                    SCHEMATIC1, Microcontroller  (1.30, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict DIO_8  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (2.10, 3.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_8  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (2.10, 3.70) 
+WARNING(ORCAP-1829): Possible pin type conflict X32K_Q1  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 4.40) 
+WARNING(ORCAP-1829): Possible pin type conflict X32K_Q1  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (7.60, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,X32K_Q1  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 4.40) 
+WARNING(ORCAP-1829): Possible pin type conflict Y1,A  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (7.70, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict RF_P  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict RF_P  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (6.20, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,RF_P  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 4.00) 
+WARNING(ORCAP-1829): Possible pin type conflict X24M_N  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (7.10, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict X24M_N  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,X24M_N  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 4.60) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,C  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (7.00, 3.00) 
+WARNING(ORCAP-1829): Possible pin type conflict X24M_P  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (6.50, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict X24M_P  Input Port Connected to Bidirectional
+                    SCHEMATIC1, Microcontroller  (4.40, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,X24M_P  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (4.40, 4.70) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,A  Bidirectional Connected to Input Port
+                    SCHEMATIC1, Microcontroller  (6.60, 3.00) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

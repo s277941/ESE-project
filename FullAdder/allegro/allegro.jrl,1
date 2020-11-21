@@ -1,0 +1,116 @@
+\t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Nov 19 09:24:49 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=16932 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession Andreaa C:\USERS\ANDREAA\ESE\FULLADDER\allegro\FULLADDER.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged FULLADDER
+\d (00:00:06) Design opened: C:/USERS/ANDREAA/ESE/FULLADDER/allegro/FULLADDER.brd
+\i (00:00:06) trapsize 8564
+\i (00:00:06) trapsize 8816
+\i (00:00:06) trapsize 8564
+\i (00:00:06) trapsize 6917
+\i (00:00:06) trapsize 11905
+\i (00:00:07) generaledit 
+\i (00:00:11) done 
+\i (00:00:11) place manual 
+\i (00:00:11) FORM plc_manual placement_list 
+\i (00:00:11) FORM plc_manual categories Components by refdes 
+\i (00:00:11) trapsize 11905
+\i (00:00:13) setwindow form.plc_manual
+\i (00:00:13) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\t (00:00:13) Placing U4 / 74AC08_DIP14_3_74AC08_0 / DIP14_3 on Top.
+\i (00:00:13) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:00:13) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\t (00:00:13) Placing U3 / 74AC04_DIP14_3_74AC04_0 / DIP14_3 on Top.
+\i (00:00:13) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:14) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\t (00:00:14) Placing U2 / 74AC32_DIP14_3_74AC32_0 / DIP14_3 on Top.
+\i (00:00:14) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:00:15) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (00:00:15) Placing U1 / 74AC08_DIP14_3_74AC08_0 / DIP14_3 on Top.
+\i (00:00:15) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:15) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\t (00:00:15) Placing J3 / CON3_JUMPER3_CON3 / JUMPER3 on Top.
+\i (00:00:15) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:00:20) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:00:20) Placing J2 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:20) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:00:20) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (00:00:20) Placing J1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:20) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) pick grid 7309.52 12071.43
+\t (00:00:25) last pick:  7300.00 12100.00
+\t (00:00:25) Placing J2 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 8095.24 12142.86
+\i (00:00:26) trapsize 5952
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 8738.09 12130.95
+\i (00:00:26) trapsize 2976
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 8851.19 12119.05
+\i (00:00:26) trapsize 1488
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7812.50 12110.12
+\i (00:00:27) trapsize 2976
+\i (00:00:28) setwindow form.plc_manual
+\i (00:00:28) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick grid 8443.45 12110.12
+\t (00:00:29) last pick:  8400.00 12100.00
+\t (00:00:29) Placing J3 / CON3_JUMPER3_CON3 / JUMPER3 on Top.
+\i (00:00:30) setwindow form.plc_manual
+\i (00:00:30) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) pick grid 7348.21 11372.03
+\t (00:00:32) last pick:  7300.00 11400.00
+\t (00:00:32) Placing U1 / 74AC08_DIP14_3_74AC08_0 / DIP14_3 on Top.
+\i (00:00:34) setwindow form.plc_manual
+\i (00:00:34) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick grid 8741.07 11413.69
+\t (00:00:35) last pick:  8700.00 11400.00
+\t (00:00:35) Placing U2 / 74AC32_DIP14_3_74AC32_0 / DIP14_3 on Top.
+\i (00:00:36) setwindow form.plc_manual
+\i (00:00:36) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) pick grid 9949.40 11395.84
+\t (00:00:37) last pick:  9900.00 11400.00
+\t (00:00:37) Placing U3 / 74AC04_DIP14_3_74AC04_0 / DIP14_3 on Top.
+\i (00:00:38) setwindow form.plc_manual
+\i (00:00:38) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) pick grid 11086.31 11354.17
+\t (00:00:39) last pick:  11100.00 11400.00
+\t (00:00:39) Placing U4 / 74AC08_DIP14_3_74AC08_0 / DIP14_3 on Top.
+\i (00:00:40) setwindow form.plc_manual
+\i (00:00:40) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid 12026.79 11360.12
+\t (00:00:42) last pick:  12000.00 11400.00
+\i (00:00:44) setwindow form.plc_manual
+\i (00:00:44) FORM plc_manual done  
+\i (00:00:45) setwindow pcb
+\i (00:00:45) generaledit 
+\i (00:00:51) done 
+\i (00:00:51) place manual 
+\i (00:00:51) FORM plc_manual placement_list 
+\i (00:00:51) FORM plc_manual categories Components by refdes 
+\i (00:00:51) trapsize 2976
+\i (00:00:52) setwindow form.plc_manual
+\i (00:00:52) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:00) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:03) FORM plc_manual done  
+\i (00:01:03) setwindow pcb
+\i (00:01:03) generaledit 
+\i (00:01:10) exit 
+\e (00:01:10) Do you want to save the changes you made to FULLADDER.brd?
+\i (00:01:12) fillin no 
+\t (00:01:12)     Journal end - Thu Nov 19 09:25:59 2020

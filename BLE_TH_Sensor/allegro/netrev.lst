@@ -1,0 +1,79 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Tesis_minimum_size_v2.brd                     )
+(    Software Version : 17.2S048                                      )
+(    Date/Time        : Tue Nov 27 11:00:38 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\LEZIONI CADENCE PASERO\BLE_TH_SENSOR\allegro'
+Design Directory:            'D:/Lezioni Cadence Pasero/BLE_TH_Sensor'
+Old design name:             'D:/Lezioni Cadence Pasero/BLE_TH_Sensor/Tesis_minimum_size_v2.brd'
+New design name:             'D:/Lezioni Cadence Pasero/BLE_TH_Sensor/Tesis_minimum_size_v3.brd'
+
+CmdLine: netrev.exe -y 1 -i D:\LEZIONI CADENCE PASERO\BLE_TH_SENSOR\allegro D:\Lezioni Cadence Pasero\BLE_TH_Sensor\Tesis_minimum_size_v2.brd D:\Lezioni Cadence Pasero\BLE_TH_Sensor\Tesis_minimum_size_v3.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstchip.dat 
+   Finished reading D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstchip.dat (00:00:00.04)
+Starting to read D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstxprt.dat 
+   Finished reading D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstxnet.dat 
+   Finished reading D:/LEZIONI CADENCE PASERO/BLE_TH_SENSOR/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+
+PADPATH =  C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 27 11:00:38 2018
+   DESIGN NAME : 'BLE_TH_SENSOR'
+   PACKAGING ON Sep 30 2018 09:40:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:39
+elapsed time  0:00:01
+

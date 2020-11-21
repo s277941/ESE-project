@@ -1,0 +1,85 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Oct 29 11:16:19 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=10468 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra
+\i (00:00:06) trapsize 267
+\i (00:00:07) trapsize 273
+\i (00:00:07) trapsize 273
+\i (00:00:07) trapsize 272
+\i (00:00:07) generaledit 
+\i (00:00:10) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
+\i (00:00:12) color -globvis off 
+\i (00:00:12) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:12) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:12) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:12) trapsize 272
+\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLY TOP"
+\i (00:00:12) generaledit 
+\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:17) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
+\i (00:00:33) color -globvis off 
+\i (00:00:34) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:34) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:00:34) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:34) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:34) trapsize 272
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKT"
+\i (00:00:34) generaledit 
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKB"
+\i (00:00:37) color -globvis off 
+\i (00:00:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:37) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:37) color -vis PIN/SOLDERMASK_BOTTOM 
+\i (00:00:37) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:00:37) trapsize 272
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKB"
+\i (00:00:37) generaledit 
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
+\i (00:00:39) color -globvis off 
+\i (00:00:39) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:39) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
+\i (00:00:39) color -vis PIN/SOLDERMASK_TOP 
+\i (00:00:39) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
+\i (00:00:39) trapsize 272
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKT"
+\i (00:00:39) generaledit 
+\i (00:00:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: PASTEMASKT"
+\i (00:00:42) color -globvis off 
+\i (00:00:43) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:43) color -vis 'DRC ERROR CLASS/PASTEMASK_TOP' 
+\i (00:00:43) color -vis PIN/PASTEMASK_TOP 
+\i (00:00:43) color -vis 'VIA CLASS/PASTEMASK_TOP' 
+\i (00:00:43) trapsize 272
+\i (00:00:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: PASTEMASKT"
+\i (00:00:43) generaledit 
+\i (00:00:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ETCHT"
+\i (00:00:54) color -globvis off 
+\i (00:00:54) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:54) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:00:54) color -vis ETCH/TOP 
+\i (00:00:54) color -vis PIN/TOP 
+\i (00:00:55) color -vis 'VIA CLASS/TOP' 
+\i (00:00:55) color -vis 'ANTI ETCH/TOP' 
+\i (00:00:55) color -vis BOUNDARY/TOP 
+\i (00:00:55) color -vis CAVITY/TOP 
+\i (00:00:55) trapsize 272
+\i (00:00:55) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ETCHT"
+\i (00:00:55) generaledit 
+\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
+\i (00:00:59) color -globvis off 
+\i (00:00:59) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:59) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:00:59) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:00:59) trapsize 272
+\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLY TOP"
+\i (00:00:59) generaledit 
+\i (00:01:01) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:07:52) exit 
+\t (00:07:53)     Journal end - Thu Oct 29 11:24:08 2020

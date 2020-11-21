@@ -1,0 +1,42 @@
+Microcontroller  Revised: Monday, April 23, 2018
+BLE Temperature and Humidity sensor          Revision: 1
+
+
+
+
+
+
+
+Bill Of Materials            May 23,2018      9:37:03	Page1
+
+
+
+.Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	A1	Anteena
+2	1	CON1	FTSH-105-01-F-DV
+3	1	CON2	M50-3530242
+4	3	C3,C4,C7	12 pF
+5	2	C5,C6	1.2 pF
+6	8	C8,C10,C11,C13,C17,C18,	100 nF
+		C20,C21
+7	2	C9,C19	10 uF
+8	1	FL1	BLM18HE152SN1
+9	1	LED1	green led
+10	1	LED2	red led
+11	1	L1	2 nH
+12	1	L2	15 nH
+13	1	L3	10 uH
+14	1	R1	100 k
+15	2	R3,R4	10 k
+16	1	R5	0
+17	1	R6	680
+18	1	R7	150
+19	1	R9	270
+20	1	SW2	KSS341GLFS
+21	1	U1	CC2650
+22	1	U6	HDC2010
+23	1	U7	S8421-45R
+24	1	Y1	32.768kHz
+25	1	Y2	24 MHZ

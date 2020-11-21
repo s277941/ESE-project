@@ -1,0 +1,380 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-28-2018 at 20:53:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BLE_TH_SENSOR';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTEENA_AN043_FLIP_ANTEENA':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS2744@ESE_PROJECT_LIB.ANTEENA.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins2744@ese_project_lib.\anteena.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins2744@ese_project_lib.\anteena.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS5016@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins5016@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins5016@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS5032@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins5032@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins5032@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS7150@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins7150@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins7150@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS10066@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins10066@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins10066@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS10082@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins10082@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins10082@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR_MF_0402_SMD_CAPACIT_1':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS10098@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins10098@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins10098@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS10729@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins10729@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins10729@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48277@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48277@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48277@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_MF_0402_SMD_CAPACIT_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3381@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3381@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3381@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_MF_0402_SMD_CAPACIT_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3397@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3397@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3397@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_MF_0402_SMD_CAPACIT_3':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3413@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3413@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3413@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_MF_0402_SMD_CAPACIT_3':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3429@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3429@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3429@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_MF_0402_SMD_CAPACIT_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3445@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3445@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3445@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_MF_0402_SMD_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS4532@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins4532@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins4532@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_MF_0402_SMD_CAPACIT_1':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS5000@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins5000@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins5000@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON1 'FTSH-105-01-F-DV_FTSH-105-01-F-':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS61615@ESE_PROJECT_LIB.FTSH-105-01-F-DV.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins61615@ese_project_lib.\ftsh-105-01-f-dv.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins61615@ese_project_lib.\ftsh-105-01-f-dv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON2 'M50-3530242_M50-3530242_M50-353':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS65276@ESE_PROJECT_LIB.M50-3530242.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins65276@ese_project_lib.\m50-3530242.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins65276@ese_project_lib.\m50-3530242.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL1 'BLM18HE152SN1_MF_0603_SMD_FILTE':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS10025@ESE_PROJECT_LIB.BLM18HE152SN1.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins10025@ese_project_lib.\blm18he152sn1.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins10025@ese_project_lib.\blm18he152sn1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_MF_0402_SMD_INDUCTOR_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3479@ESE_PROJECT_LIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3479@ese_project_lib.\inductor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3479@ese_project_lib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_MF_0402_SMD_INDUCTOR_1':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3495@ESE_PROJECT_LIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3495@ese_project_lib.\inductor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3495@ese_project_lib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_MF_0603_SMD_INDUCTOR_1':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS5073@ESE_PROJECT_LIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins5073@ese_project_lib.\inductor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins5073@ese_project_lib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_MF_0603_SMD_LED_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48355@ESE_PROJECT_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48355@ese_project_lib.\led.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48355@ese_project_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_MF_0603_SMD_LED_RED LED':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48417@ESE_PROJECT_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48417@ese_project_lib.\led.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48417@ese_project_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_MF_0402_SMD_RESISTOR_1':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS7369@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins7369@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins7369@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_MF_0402_SMD_RESISTOR_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48161@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48161@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48161@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_MF_0402_SMD_RESISTOR_2':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48137@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48137@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48137@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_MF_0402_SMD_RESISTOR_0':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS29243@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins29243@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins29243@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_MF_0402_SMD_RESISTOR_6':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48371@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48371@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48371@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_MF_0402_SMD_RESISTOR_3':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS48433@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins48433@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins48433@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_MF_0402_SMD_RESISTOR_4':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS53205@ESE_PROJECT_LIB.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins53205@ese_project_lib.\resistor.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins53205@ese_project_lib.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCHBUTTON_KSS341GLFS_KSS341G':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS53334@ESE_PROJECT_LIB.SWITCHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins53334@ese_project_lib.\switchbutton.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins53334@ese_project_lib.\switchbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CC2650_SMD_CC2650_32_CC2650':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS3582@ESE_PROJECT_LIB.CC2650.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins3582@ese_project_lib.\cc2650.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins3582@ese_project_lib.\cc2650.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'HDC2010_HDC2010_HDC2010':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS60126@ESE_PROJECT_LIB.HDC2010.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins60126@ese_project_lib.\hdc2010.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins60126@ese_project_lib.\hdc2010.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'S8421-45R_S8421-45R_S8421-45R':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS63921@ESE_PROJECT_LIB.S8421-45R.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins63921@ese_project_lib.\s8421-45r.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins63921@ese_project_lib.\s8421-45r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'FC-135R_C-135R_32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS1578@ESE_PROJECT_LIB.FC-135R.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins1578@ese_project_lib.\fc-135r.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins1578@ese_project_lib.\fc-135r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'TXS-3225_TSX-3225_24MHZ_24 MHZ':;
+
+SECTION_NUMBER 1
+ '@BLE_TH_SENSOR.SCHEMATIC1(SCH_1):INS66271@ESE_PROJECT_LIB.TXS-3225.NORMAL(CHIPS)':
+ C_PATH='@ble_th_sensor.schematic1(sch_1):ins66271@ese_project_lib.\txs-3225.normal\(chips)',
+ P_PATH='@ble_th_sensor.schematic1(sch_1):page1_ins66271@ese_project_lib.\txs-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

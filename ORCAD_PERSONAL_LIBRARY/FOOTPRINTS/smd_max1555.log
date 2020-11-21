@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : smd_MAX1555.dra                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Oct 29 11:16:08 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = smd_max1555.psm
+    User      = Andreaa
+    Machine   = PORTATILE-HP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

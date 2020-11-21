@@ -1,0 +1,208 @@
+(ExpressProject "ese_project"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\ble_th_sensor.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\ble_th_sensor.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\Users\mferrev\Desktop\BLE_Sensor_Miguel_Ferre\BLE_Sensor.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File "C:\COURSE_PROJECT\ESE_PROJECT.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "D:\Lezioni Cadence Pasero\BLE_TH_Sensor\Tesis_minimum_size_v3.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "D:\Lezioni Cadence Pasero\BLE_TH_Sensor\Tesis_minimum_size_v2.brd")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "D:\LEZIONI CADENCE PASERO\ORCAD\BLE_TH_SENSOR.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
+  (Folder "Outputs"
+    (File ".\ese_project.bom"
+      (Type "Report")
+      (DisplayName ".\ese_project.bom"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "c:\course_project\ese_project.bom"
+      (Type "Report"))
+    (File ".\ble_sensor.bom"
+      (Type "Report"))
+    (File ".\ble_th_sensor.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TXS-3225
+      (FullPartName "TXS-3225.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (M50-3530242
+      (FullPartName "M50-3530242.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (62200421121
+      (FullPartName "62200421121.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (S8421-45R
+      (FullPartName "S8421-45R.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (FTSH-105-01-F-DV
+      (FullPartName "FTSH-105-01-F-DV.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (Port
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\NAVARETTI_LIB.OLB")
+      (DeviceIndex "0"))
+    (HDC2010
+      (FullPartName "HDC2010.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Port_IN
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\NAVARETTI_LIB.OLB")
+      (DeviceIndex "0"))
+    (SwitchButton
+      (FullPartName "SwitchButton.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (JtagConnector
+      (FullPartName "JtagConnector.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (Resistor
+      (FullPartName "Resistor.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\NAVARETTI_LIB.OLB")
+      (DeviceIndex "0"))
+    (Transistor
+      (FullPartName "Transistor.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (CMT-5023S-SMT
+      (FullPartName "CMT-5023S-SMT.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (PIN
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (Conector4Pin
+      (FullPartName "Conector4Pin.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (led
+      (FullPartName "led.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (BAT-HLD-001
+      (FullPartName "BAT-HLD-001.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (slide_switch
+      (FullPartName "slide_switch.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ESE_PROJECT_LIB.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\ORCAD_PERSONAL_LIBRARY")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ble_th_sensor.dsn")
+      (Path "Design Resources" ".\ble_th_sensor.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\ble_th_sensor.dsn" "Design Cache")
+      (Path "Outputs")
+      (Select "Design Resources" ".\ble_th_sensor.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 292"))
+      (Tab 0)))
+  (MPSSessionName "d041562")
+  (ISPCBBASICLICENSE "false"))

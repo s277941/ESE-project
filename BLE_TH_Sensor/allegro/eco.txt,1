@@ -1,0 +1,64 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/mferrev/Desktop/Thesis/PCB/Cadence/Tesis_minimum_size_v1.brd       |
+|                                                    Mon May 28 20:53:36 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DIO_6        pins MOVED FROM this net (to net name listed on right)
+                                 CON1.9          -7.2350 -22.060
+                                                                      JTAG_TCKC
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins DELETED FROM this net (pin now not on any net)
+                                 CON1.2          -9.7750 -17.990
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins MOVED FROM this net (to net name listed on right)
+                                 CON1.5          -5.9650 -17.990
+                                                                            VDD
+                                 U1.30            0.6300 -28.975
+                                                                         X24M_N
+                                 U1.31            1.1300 -28.975
+                                                                         X24M_P
+                                 Y2.1            -7.0750 -30.850
+                                                                         X24M_P
+                                 Y2.3            -4.8750 -29.250
+                                                                         X24M_N
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 CON1.4          -7.2350 -17.990
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TCKC    pins MOVED FROM this net (to net name listed on right)
+                                 CON1.7          -9.7750 -22.060
+                                                                          DIO_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TMSC    pins MOVED FROM this net (to net name listed on right)
+                                 CON1.6          -11.045 -22.060
+                                                                        RESET_N
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET_N      pins MOVED FROM this net (to net name listed on right)
+                                 CON1.10         -5.9650 -22.060
+                                                                      JTAG_TMSC
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD          pins MOVED FROM this net (to net name listed on right)
+                                 CON1.1          -11.045 -17.990
+                                                                            GND
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/mferrev/Desktop/Thesis/PCB/Cadence/Tesis_minimum_size_v1.brd       |
+|                                                    Mon May 28 20:53:36 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      12                                        |
+|------------------------------------------------------------------------------|

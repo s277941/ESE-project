@@ -1,0 +1,1281 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<IPC-2581 revision="B" xmlns="http://webstds.ipc.org/2581" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Content roleRef="Owner">
+    <FunctionMode mode="ASSEMBLY" level="3"/>
+    <StepRef name="FULLADDER"/>
+    <LayerRef name="IPC2581DRILL_1-2"/>
+    <BomRef name="BOM_FULLADDER"/>
+    <DictionaryColor>
+      <EntryColor id="COLOR_IPC2581DRILL_1-2">
+        <Color r="99" g="139" b="58"/>
+        </EntryColor>
+      </DictionaryColor>
+    <DictionaryLineDesc units="INCH">
+      <EntryLineDesc id="ROUND_0">
+        <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+        </EntryLineDesc>
+      </DictionaryLineDesc>
+    <DictionaryFillDesc units="INCH">
+      <EntryFillDesc id="SOLID_FILL">
+        <FillDesc fillProperty="FILL"/>
+        </EntryFillDesc>
+      </DictionaryFillDesc>
+    <DictionaryStandard units="INCH">
+      <EntryStandard id="CIRCLE_1">
+        <Circle diameter="0.06000">
+          <Xform rotation="90.000"/>
+          <FillDescRef id="SOLID_FILL"/>
+          </Circle>
+        </EntryStandard>
+      <EntryStandard id="CIRCLE_2">
+        <Circle diameter="0.06000">
+          <FillDescRef id="SOLID_FILL"/>
+          </Circle>
+        </EntryStandard>
+      <EntryStandard id="CIRCLE_3">
+        <Circle diameter="0.06000">
+          <Xform rotation="270.000"/>
+          <FillDescRef id="SOLID_FILL"/>
+          </Circle>
+        </EntryStandard>
+      <EntryStandard id="RECTCENTER_1">
+        <RectCenter width="0.06000" height="0.06000">
+          <Xform rotation="270.000"/>
+          <FillDescRef id="SOLID_FILL"/>
+          </RectCenter>
+        </EntryStandard>
+      <EntryStandard id="RECTCENTER_2">
+        <RectCenter width="0.06000" height="0.06000">
+          <FillDescRef id="SOLID_FILL"/>
+          </RectCenter>
+        </EntryStandard>
+      <EntryStandard id="RECTCENTER_3">
+        <RectCenter width="0.06000" height="0.06000">
+          <Xform rotation="90.000"/>
+          <FillDescRef id="SOLID_FILL"/>
+          </RectCenter>
+        </EntryStandard>
+      <EntryStandard id="CIRCLE_4">
+        <Circle diameter="0.02400">
+          <FillDescRef id="SOLID_FILL"/>
+          </Circle>
+        </EntryStandard>
+      </DictionaryStandard>
+    <DictionaryUser units="INCH">
+      </DictionaryUser>
+    </Content>
+  <LogisticHeader>
+    <Role id="Owner" roleFunction="SENDER"/>
+    <Enterprise id="UNKNOWN" code="UNKNOWN"/>
+    <Person name="d041562" enterpriseRef="UNKNOWN" roleRef="Owner"/>
+    </LogisticHeader>
+  <HistoryRecord number="1" origination="2018-10-08T16:32:15" software="allegro_17.2P028(3/31/2016)" lastChange="2018-10-08T16:32:13">
+    <FileRevision fileRevisionId="1" comment="No Comment">
+      <SoftwarePackage name="Allegro" revision="allegro_17.2P028(3/31/2016)" vendor="Cadence">
+        <Certification certificationStatus="CERTIFIED"/>
+        </SoftwarePackage>
+      </FileRevision>
+    </HistoryRecord>
+  <Bom name="BOM_FULLADDER">
+    <BomHeader assembly="FULLADDER" revision="1.0">
+      <StepRef name="FULLADDER"/>
+      </BomHeader>
+    <BomItem OEMDesignNumberRef="CON3_JUMPER3_CON3" quantity="1" pinCount="3" category="ELECTRICAL">
+      <RefDes name="J3" packageRef="JUMPER3" populate="true" layerRef="TOP"/>
+      <Characteristics category="ELECTRICAL">
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="DEVICE_TYPE" textualCharacteristicValue="CON3_JUMPER3_CON3"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_CLASS" textualCharacteristicValue="IC"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_VALUE" textualCharacteristicValue="CON3"/>
+        </Characteristics>
+      </BomItem>
+    <BomItem OEMDesignNumberRef="CON2_JUMPER2_CON2" quantity="2" pinCount="2" category="ELECTRICAL">
+      <RefDes name="J2" packageRef="JUMPER2" populate="true" layerRef="TOP"/>
+      <RefDes name="J1" packageRef="JUMPER2" populate="true" layerRef="TOP"/>
+      <Characteristics category="ELECTRICAL">
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="DEVICE_TYPE" textualCharacteristicValue="CON2_JUMPER2_CON2"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_CLASS" textualCharacteristicValue="IC"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_VALUE" textualCharacteristicValue="CON2"/>
+        </Characteristics>
+      </BomItem>
+    <BomItem OEMDesignNumberRef="74AC08_DIP14_3_74AC08_0" quantity="2" pinCount="14" category="ELECTRICAL">
+      <RefDes name="U4" packageRef="DIP14_3" populate="true" layerRef="TOP"/>
+      <RefDes name="U1" packageRef="DIP14_3" populate="true" layerRef="TOP"/>
+      <Characteristics category="ELECTRICAL">
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="DEVICE_TYPE" textualCharacteristicValue="74AC08_DIP14_3_74AC08_0"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_CLASS" textualCharacteristicValue="IC"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_VALUE" textualCharacteristicValue="74AC08"/>
+        </Characteristics>
+      </BomItem>
+    <BomItem OEMDesignNumberRef="74AC04_DIP14_3_74AC04_0" quantity="1" pinCount="14" category="ELECTRICAL">
+      <RefDes name="U3" packageRef="DIP14_3" populate="true" layerRef="TOP"/>
+      <Characteristics category="ELECTRICAL">
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="DEVICE_TYPE" textualCharacteristicValue="74AC04_DIP14_3_74AC04_0"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_CLASS" textualCharacteristicValue="IC"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_VALUE" textualCharacteristicValue="74AC04"/>
+        </Characteristics>
+      </BomItem>
+    <BomItem OEMDesignNumberRef="74AC32_DIP14_3_74AC32_0" quantity="1" pinCount="14" category="ELECTRICAL">
+      <RefDes name="U2" packageRef="DIP14_3" populate="true" layerRef="TOP"/>
+      <Characteristics category="ELECTRICAL">
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="DEVICE_TYPE" textualCharacteristicValue="74AC32_DIP14_3_74AC32_0"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_CLASS" textualCharacteristicValue="IC"/>
+        <Textual definitionSource="ALLEGRO" textualCharacteristicName="COMP_VALUE" textualCharacteristicValue="74AC32"/>
+        </Characteristics>
+      </BomItem>
+    </Bom>
+  <Ecad name="Design">
+    <CadHeader units="INCH">
+      </CadHeader>
+    <CadData>
+      <Layer name="IPC2581DRILL_1-2" layerFunction="DRILL" side="ALL" polarity="POSITIVE">
+        </Layer>
+      <Step name="FULLADDER">
+        <Datum x="0.0" y="0.0"/>
+        <Profile>
+          </Profile>
+        <Package name="JUMPER3" type="OTHER" pinOne="1" pinOneOrientation="OTHER" height="0.50000">
+          <Outline>
+            <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+            <Polygon>
+              <PolyBegin x="-0.05000" y="-0.05000"/>
+              <PolyStepSegment x="0.25000" y="-0.05000"/>
+              <PolyStepSegment x="0.25000" y="0.05000"/>
+              <PolyStepSegment x="-0.05000" y="0.05000"/>
+              <PolyStepSegment x="-0.05000" y="-0.05000"/>
+              </Polygon>
+            </Outline>
+          <PickupPoint x="0.10000" y="0.0"/>
+          <AssemblyDrawing>
+            <Outline>
+              <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+              <Polygon>
+                <PolyBegin x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                </Polygon>
+              </Outline>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </AssemblyDrawing>
+          <SilkScreen>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="-0.05000"/>
+                <PolyStepSegment x="0.25000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </SilkScreen>
+          <LandPattern>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.20000" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="3"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.10000" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="2"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="1"/>
+              </Pad>
+            </LandPattern>
+          <Pin number="3" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.20000" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="2" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.10000" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="1" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          </Package>
+        <Package name="JUMPER2" type="OTHER" pinOne="1" pinOneOrientation="OTHER" height="0.50000">
+          <Outline>
+            <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+            <Polygon>
+              <PolyBegin x="-0.05000" y="-0.05000"/>
+              <PolyStepSegment x="0.15000" y="-0.05000"/>
+              <PolyStepSegment x="0.15000" y="0.05000"/>
+              <PolyStepSegment x="-0.05000" y="0.05000"/>
+              <PolyStepSegment x="-0.05000" y="-0.05000"/>
+              </Polygon>
+            </Outline>
+          <PickupPoint x="0.05000" y="0.0"/>
+          <AssemblyDrawing>
+            <Outline>
+              <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+              <Polygon>
+                <PolyBegin x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                </Polygon>
+              </Outline>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </AssemblyDrawing>
+          <SilkScreen>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="-0.05000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="-0.05000"/>
+                <PolyStepSegment x="0.15000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="0.05000"/>
+                <PolyStepSegment x="-0.05000" y="-0.05000"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </SilkScreen>
+          <LandPattern>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.10000" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="2"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="1"/>
+              </Pad>
+            </LandPattern>
+          <Pin number="2" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.10000" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="1" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          </Package>
+        <Package name="DIP14_3" type="OTHER" pinOne="1" pinOneOrientation="OTHER" height="0.21000">
+          <Outline>
+            <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+            <Polygon>
+              <PolyBegin x="-0.05000" y="-0.67500"/>
+              <PolyStepSegment x="0.35000" y="-0.67500"/>
+              <PolyStepSegment x="0.35000" y="0.07500"/>
+              <PolyStepSegment x="-0.05000" y="0.07500"/>
+              <PolyStepSegment x="-0.05000" y="-0.67500"/>
+              </Polygon>
+            </Outline>
+          <PickupPoint x="0.15000" y="-0.30000"/>
+          <AssemblyDrawing>
+            <Outline>
+              <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+              <Polygon>
+                <PolyBegin x="0.10000" y="0.07500"/>
+                <PolyStepSegment x="0.12500" y="0.05000"/>
+                <PolyStepSegment x="0.17500" y="0.05000"/>
+                <PolyStepSegment x="0.20000" y="0.07500"/>
+                <PolyStepSegment x="0.27500" y="0.07500"/>
+                <PolyStepSegment x="0.27500" y="-0.67500"/>
+                <PolyStepSegment x="0.02500" y="-0.67500"/>
+                <PolyStepSegment x="0.02500" y="0.07500"/>
+                <PolyStepSegment x="0.10000" y="0.07500"/>
+                </Polygon>
+              </Outline>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="0.02500" y="0.07500"/>
+                <PolyStepSegment x="0.02500" y="-0.67500"/>
+                <PolyStepSegment x="0.27500" y="-0.67500"/>
+                <PolyStepSegment x="0.27500" y="0.07500"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="0.02500" y="0.07500"/>
+                <PolyStepSegment x="0.10000" y="0.07500"/>
+                <PolyStepSegment x="0.12500" y="0.05000"/>
+                <PolyStepSegment x="0.17500" y="0.05000"/>
+                <PolyStepSegment x="0.20000" y="0.07500"/>
+                <PolyStepSegment x="0.27500" y="0.07500"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </AssemblyDrawing>
+          <SilkScreen>
+            <Marking markingUsage="NONE">
+              <Location x="0.0" y="0.0"/>
+              <Polyline>
+                <PolyBegin x="0.04000" y="0.07500"/>
+                <PolyStepSegment x="0.04000" y="-0.67500"/>
+                <PolyStepSegment x="0.26000" y="-0.67500"/>
+                <PolyStepSegment x="0.26000" y="0.07500"/>
+                <PolyStepSegment x="0.20000" y="0.07500"/>
+                <PolyStepSegment x="0.17500" y="0.05000"/>
+                <PolyStepSegment x="0.12500" y="0.05000"/>
+                <PolyStepSegment x="0.10000" y="0.07500"/>
+                <PolyStepSegment x="0.04000" y="0.07500"/>
+                <LineDesc lineEnd="ROUND" lineWidth="0.000000"/>
+                </Polyline>
+              </Marking>
+            </SilkScreen>
+          <LandPattern>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.60000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="8"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.50000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="9"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.40000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="10"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.30000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="11"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.20000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="12"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="-0.10000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="13"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.30000" y="0.0"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="14"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.60000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="7"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.50000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="6"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.40000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="5"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.30000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="4"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.20000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="3"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60CIR36D">
+              <Location x="0.0" y="-0.10000"/>
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              <PinRef pin="2"/>
+              </Pad>
+            <Pad padstackDefRef="PAD60SQ36D">
+              <Location x="0.0" y="0.0"/>
+              <StandardPrimitiveRef id="RECTCENTER_2"/>
+              <PinRef pin="1"/>
+              </Pad>
+            </LandPattern>
+          <Pin number="8" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.60000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="9" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.50000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="10" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.40000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="11" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.30000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="12" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.20000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="13" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="-0.10000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="14" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.30000" y="0.0"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="7" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.60000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="6" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.50000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="5" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.40000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="4" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.30000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="3" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.20000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="2" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="-0.10000"/>
+            <StandardPrimitiveRef id="CIRCLE_2"/>
+            </Pin>
+          <Pin number="1" type="THRU" electricalType="ELECTRICAL">
+            <Location x="0.0" y="0.0"/>
+            <StandardPrimitiveRef id="RECTCENTER_2"/>
+            </Pin>
+          </Package>
+        <Component refDes="J3" packageRef="JUMPER3" layerRef="TOP" part="CON3_JUMPER3_CON3" mountType="THMT" standoff="0.0" height="0.50000">
+          <NonstandardAttribute name="VALUE" value="CON3" type="STRING"/>
+          <Xform rotation="270.000"/>
+          <Location x="10.10000" y="9.80000"/>
+          </Component>
+        <Component refDes="J2" packageRef="JUMPER2" layerRef="TOP" part="CON2_JUMPER2_CON2" mountType="THMT" standoff="0.0" height="0.50000">
+          <NonstandardAttribute name="VALUE" value="CON2" type="STRING"/>
+          <Location x="9.90000" y="9.00000"/>
+          </Component>
+        <Component refDes="J1" packageRef="JUMPER2" layerRef="TOP" part="CON2_JUMPER2_CON2" mountType="THMT" standoff="0.0" height="0.50000">
+          <NonstandardAttribute name="VALUE" value="CON2" type="STRING"/>
+          <Location x="7.60000" y="8.40000"/>
+          </Component>
+        <Component refDes="U4" packageRef="DIP14_3" layerRef="TOP" part="74AC08_DIP14_3_74AC08_0" mountType="THMT" standoff="0.0" height="0.21000">
+          <NonstandardAttribute name="VALUE" value="74AC08" type="STRING"/>
+          <Xform rotation="270.000"/>
+          <Location x="9.30000" y="9.50000"/>
+          </Component>
+        <Component refDes="U3" packageRef="DIP14_3" layerRef="TOP" part="74AC04_DIP14_3_74AC04_0" mountType="THMT" standoff="0.0" height="0.21000">
+          <NonstandardAttribute name="VALUE" value="74AC04" type="STRING"/>
+          <Location x="9.30000" y="10.60000"/>
+          </Component>
+        <Component refDes="U2" packageRef="DIP14_3" layerRef="TOP" part="74AC32_DIP14_3_74AC32_0" mountType="THMT" standoff="0.0" height="0.21000">
+          <NonstandardAttribute name="VALUE" value="74AC32" type="STRING"/>
+          <Xform rotation="90.000"/>
+          <Location x="7.50000" y="9.50000"/>
+          </Component>
+        <Component refDes="U1" packageRef="DIP14_3" layerRef="TOP" part="74AC08_DIP14_3_74AC08_0" mountType="THMT" standoff="0.0" height="0.21000">
+          <NonstandardAttribute name="VALUE" value="74AC08" type="STRING"/>
+          <Location x="8.30000" y="11.30000"/>
+          </Component>
+        <LogicalNet name="CARRY_OUT">
+          <PinRef pin="6" componentRef="U2"/>
+          <PinRef pin="2" componentRef="J1"/>
+          </LogicalNet>
+        <LogicalNet name="SUM">
+          <PinRef pin="3" componentRef="U2"/>
+          <PinRef pin="1" componentRef="J1"/>
+          </LogicalNet>
+        <LogicalNet name="Y">
+          <PinRef pin="5" componentRef="U4"/>
+          <PinRef pin="9" componentRef="U3"/>
+          <PinRef pin="1" componentRef="U4"/>
+          <PinRef pin="1" componentRef="J3"/>
+          </LogicalNet>
+        <LogicalNet name="X">
+          <PinRef pin="5" componentRef="U3"/>
+          <PinRef pin="3" componentRef="J3"/>
+          <PinRef pin="4" componentRef="U4"/>
+          <PinRef pin="12" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="CARRY">
+          <PinRef pin="1" componentRef="U1"/>
+          <PinRef pin="9" componentRef="U1"/>
+          <PinRef pin="2" componentRef="J3"/>
+          <PinRef pin="1" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="N02983">
+          <PinRef pin="3" componentRef="U4"/>
+          <PinRef pin="10" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="N03079">
+          <PinRef pin="6" componentRef="U4"/>
+          <PinRef pin="5" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="N02897">
+          <PinRef pin="9" componentRef="U2"/>
+          <PinRef pin="11" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="N02991">
+          <PinRef pin="6" componentRef="U3"/>
+          <PinRef pin="2" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="N02905">
+          <PinRef pin="8" componentRef="U3"/>
+          <PinRef pin="13" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="N00443">
+          <PinRef pin="4" componentRef="U3"/>
+          <PinRef pin="2" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="N00377">
+          <PinRef pin="5" componentRef="U1"/>
+          <PinRef pin="2" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="N00353">
+          <PinRef pin="8" componentRef="U2"/>
+          <PinRef pin="10" componentRef="U1"/>
+          <PinRef pin="4" componentRef="U1"/>
+          <PinRef pin="3" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="N00345">
+          <PinRef pin="4" componentRef="U2"/>
+          <PinRef pin="8" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="N00329">
+          <PinRef pin="6" componentRef="U1"/>
+          <PinRef pin="2" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="N00314">
+          <PinRef pin="1" componentRef="U2"/>
+          <PinRef pin="3" componentRef="U1"/>
+          </LogicalNet>
+        <LogicalNet name="VCC">
+          <PinRef pin="1" componentRef="J2"/>
+          <PinRef pin="14" componentRef="U4"/>
+          <PinRef pin="14" componentRef="U3"/>
+          <PinRef pin="14" componentRef="U1"/>
+          <PinRef pin="14" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="0">
+          <PinRef pin="7" componentRef="U2"/>
+          <PinRef pin="7" componentRef="U1"/>
+          <PinRef pin="7" componentRef="U3"/>
+          <PinRef pin="7" componentRef="U4"/>
+          <PinRef pin="2" componentRef="J2"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972B70">
+          <PinRef pin="12" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972BD8">
+          <PinRef pin="13" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972C40">
+          <PinRef pin="10" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972CA8">
+          <PinRef pin="11" componentRef="U3"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972D10">
+          <PinRef pin="11" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972D78">
+          <PinRef pin="13" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972DE0">
+          <PinRef pin="12" componentRef="U2"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972E48">
+          <PinRef pin="11" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972EB0">
+          <PinRef pin="13" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972F18">
+          <PinRef pin="12" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972F80">
+          <PinRef pin="8" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4972FE8">
+          <PinRef pin="10" componentRef="U4"/>
+          </LogicalNet>
+        <LogicalNet name="Unused_00000231B4973050">
+          <PinRef pin="9" componentRef="U4"/>
+          </LogicalNet>
+        <PhyNetGroup name="AllPhyNets">
+          <PhyNet name="CARRY_OUT">
+            <PhyNetPoint x="8.00000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.00000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.70000" y="8.40000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.70000" y="8.40000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="SUM">
+            <PhyNetPoint x="7.70000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.70000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.60000" y="8.40000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.60000" y="8.40000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Y">
+            <PhyNetPoint x="8.90000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.90000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.10000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.10000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="9.50000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="9.50000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="X">
+            <PhyNetPoint x="9.30000" y="10.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.60000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.60000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.00000" y="9.50000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.00000" y="9.50000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.10000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.10000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="CARRY">
+            <PhyNetPoint x="8.30000" y="11.30000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.30000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.80000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.80000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.70000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.10000" y="9.70000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.60000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.60000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N02983">
+            <PhyNetPoint x="9.10000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.10000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.90000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.90000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N03079">
+            <PhyNetPoint x="8.80000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.80000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.90000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.90000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N02897">
+            <PhyNetPoint x="8.00000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.00000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.00000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.00000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N02991">
+            <PhyNetPoint x="9.30000" y="10.10000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.10000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.20000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.20000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N02905">
+            <PhyNetPoint x="9.60000" y="10.00000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.00000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00443">
+            <PhyNetPoint x="9.30000" y="10.30000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.30000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00377">
+            <PhyNetPoint x="8.30000" y="10.90000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="10.90000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00353">
+            <PhyNetPoint x="8.10000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.10000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.90000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.90000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.00000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.00000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.40000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.40000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00345">
+            <PhyNetPoint x="7.80000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.80000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.70000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="10.70000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00329">
+            <PhyNetPoint x="8.30000" y="10.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="10.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.60000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.60000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="N00314">
+            <PhyNetPoint x="7.50000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.50000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="RECTCENTER_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.10000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="11.10000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="VCC">
+            <PhyNetPoint x="9.29999" y="9.82800" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="true">
+              <StandardPrimitiveRef id="CIRCLE_4"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.29999" y="9.82800" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="true">
+              <StandardPrimitiveRef id="CIRCLE_4"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.90000" y="9.00000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.90000" y="9.00000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="9.20000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="9.20000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.60000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.60000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.30000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.60000" y="11.30000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.50000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.50000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="0">
+            <PhyNetPoint x="8.10000" y="9.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.10000" y="9.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="10.70000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.30000" y="10.70000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.00000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.30000" y="10.00000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.70000" y="9.50000" layerRef="TOP" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.70000" y="9.50000" layerRef="BOTTOM" netNode="MIDDLE" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.00000" y="9.00000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="10.00000" y="9.00000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972B70">
+            <PhyNetPoint x="9.60000" y="10.40000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.40000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972BD8">
+            <PhyNetPoint x="9.60000" y="10.50000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.50000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972C40">
+            <PhyNetPoint x="9.60000" y="10.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972CA8">
+            <PhyNetPoint x="9.60000" y="10.30000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.60000" y="10.30000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_2"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972D10">
+            <PhyNetPoint x="7.80000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.80000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972D78">
+            <PhyNetPoint x="7.60000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.60000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972DE0">
+            <PhyNetPoint x="7.70000" y="9.80000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="7.70000" y="9.80000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_1"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972E48">
+            <PhyNetPoint x="9.00000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.00000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972EB0">
+            <PhyNetPoint x="9.20000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.20000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972F18">
+            <PhyNetPoint x="9.10000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="9.10000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972F80">
+            <PhyNetPoint x="8.70000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.70000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4972FE8">
+            <PhyNetPoint x="8.90000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.90000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          <PhyNet name="Unused_00000231B4973050">
+            <PhyNetPoint x="8.80000" y="9.20000" layerRef="TOP" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            <PhyNetPoint x="8.80000" y="9.20000" layerRef="BOTTOM" netNode="END" exposure="EXPOSED" via="false">
+              <StandardPrimitiveRef id="CIRCLE_3"/>
+              </PhyNetPoint>
+            </PhyNet>
+          </PhyNetGroup>
+        <LayerFeature layerRef="IPC2581DRILL_1-2">
+          <Set geometry="VIA" componentRef="">
+            <ColorRef id="COLOR_IPC2581DRILL_1-2"/>
+            <Hole name="H1" diameter="0.01300" platingStatus="VIA" plusTol="0.0" minusTol="0.0" x="9.29999" y="9.82800"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J3">
+            <Hole name="H2" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="10.10000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J3">
+            <Hole name="H3" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="10.10000" y="9.70000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J3">
+            <Hole name="H4" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="10.10000" y="9.60000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J2">
+            <Hole name="H5" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.90000" y="9.00000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J2">
+            <Hole name="H6" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="10.00000" y="9.00000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J1">
+            <Hole name="H7" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.60000" y="8.40000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="J1">
+            <Hole name="H8" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.70000" y="8.40000"/>
+            </Set>
+          <Set geometry="PAD60SQ36D" componentRef="U4">
+            <Hole name="H9" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H10" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.20000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H11" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.10000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H12" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.00000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H13" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.90000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H14" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.80000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H15" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.70000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H16" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H17" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.20000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H18" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.10000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H19" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.00000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H20" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.90000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H21" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.80000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U4">
+            <Hole name="H22" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.70000" y="9.20000"/>
+            </Set>
+          <Set geometry="PAD60SQ36D" componentRef="U3">
+            <Hole name="H23" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.60000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H24" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H25" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.40000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H26" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.30000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H27" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H28" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.10000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H29" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.30000" y="10.00000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H30" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.60000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H31" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H32" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.40000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H33" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.30000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H34" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H35" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.10000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U3">
+            <Hole name="H36" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="9.60000" y="10.00000"/>
+            </Set>
+          <Set geometry="PAD60SQ36D" componentRef="U2">
+            <Hole name="H37" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.50000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H38" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.60000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H39" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.70000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H40" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.80000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H41" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.90000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H42" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.00000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H43" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.10000" y="9.50000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H44" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.50000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H45" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.60000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H46" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.70000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H47" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.80000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H48" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="7.90000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H49" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.00000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U2">
+            <Hole name="H50" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.10000" y="9.80000"/>
+            </Set>
+          <Set geometry="PAD60SQ36D" componentRef="U1">
+            <Hole name="H51" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="11.30000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H52" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="11.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H53" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="11.10000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H54" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="11.00000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H55" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="10.90000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H56" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="10.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H57" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.30000" y="10.70000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H58" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="11.30000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H59" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="11.20000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H60" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="11.10000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H61" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="11.00000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H62" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="10.90000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H63" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="10.80000"/>
+            </Set>
+          <Set geometry="PAD60CIR36D" componentRef="U1">
+            <Hole name="H64" diameter="0.03600" platingStatus="PLATED" plusTol="0.0" minusTol="0.0" x="8.60000" y="10.70000"/>
+            </Set>
+          </LayerFeature>
+        </Step>
+      </CadData>
+    </Ecad>
+  </IPC-2581>
