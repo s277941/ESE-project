@@ -193,16 +193,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ble_th_sensor.dsn")
-      (Path "Design Resources" ".\ble_th_sensor.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\ble_th_sensor.dsn" "Design Cache")
+      (Path "Design Resources"
+         "C:\Users\Andreaa\ESE\BLE_TH_Sensor\ble_th_sensor.dsn")
+      (Path "Design Resources"
+         "C:\Users\Andreaa\ESE\BLE_TH_Sensor\ble_th_sensor.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\Andreaa\ESE\BLE_TH_Sensor\ble_th_sensor.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources" ".\ble_th_sensor.dsn"))
+      (Select "Design Resources"
+         "C:\Users\Andreaa\ESE\BLE_TH_Sensor\ble_th_sensor.dsn" "SCHEMATIC1"
+         "Microcontroller"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 292"))
       (Tab 0)))
-  (MPSSessionName "d041562")
+  (MPSSessionName "Andreaa")
   (ISPCBBASICLICENSE "false"))
