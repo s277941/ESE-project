@@ -13,8 +13,7 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb"))
+      (Path "Design Resources" ".\orcad_my_library.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
