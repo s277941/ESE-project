@@ -13,8 +13,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\ese-project\orcad_personal_library\orcad_my_library.olb"))
+      (Path "Design Resources" ".\orcad_my_library.olb")
+      (Select "Design Resources" ".\orcad_my_library.olb" "SMLP34"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -24,8 +24,8 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1356 26 347"))
-      (Path "C:\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "AT42QT2160")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1356 52 387"))
+      (Path "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "SMLP34")
       (PartType "1")))
-  (MPSSessionName "Gianmarco"))
+  (MPSSessionName "Andreaa"))
