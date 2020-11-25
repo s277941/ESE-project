@@ -5,19 +5,19 @@
 # ===============================================================================
 # 
 # Software licensed for sale by Cadence Design Systems, Inc.
-# Current time = Sun Nov 22 09:50:15 2020
+# Current time = Thu Nov 19 10:26:09 2020
 # 
 # Allegro PCB Router v17-2-51 made 2020/07/07 at 11:25:37
-# Running on: laptop-t9m6d8ud, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Running on: portatile-hp, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
 # Licensing: The program will not obey any unlicensed rules
 # No graphics will be displayed.
-# Design Name C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
+# Design Name C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
 # Batch File Name: pasde.do
-# Did File Name: C:/ESE-PROJECT/FULLADDER/allegro/specctra.did
-# Current time = Sun Nov 22 09:50:15 2020
-# PCB C:/ESE-PROJECT/FULLADDER/allegro
+# Did File Name: C:/USERS/ANDREAA/ESE/FULLADDER/allegro/specctra.did
+# Current time = Thu Nov 19 10:26:09 2020
+# PCB C:/USERS/ANDREAA/ESE/FULLADDER/allegro
 # Master Unit set up as: MIL 1000
-# PCB Limits xlo=3533.7500 ylo=12913.7500 xhi=8291.2500 yhi=15911.2500
+# PCB Limits xlo=3557.5000 ylo=9952.5000 xhi=7242.5000 yhi=11547.5000
 # Total 4 Images Consolidated.
 # Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
 # 
@@ -26,13 +26,14 @@
 #    TOP  ------   VIA  
 # BOTTOM   VIA    ------
 # 
-# Wires Processed 1, Vias Processed 0
+# Wires Processed 2, Vias Processed 2
+# Using colormap in design file.
 # Layers Processed: Signal Layers 2
 # Components Placed 7, Images Processed 10, Padstacks Processed 3
-# Nets Processed 18, Net Terminals 50
-# PCB Area=11785625.000  EIC=4  Area/EIC=2946406.250  SMDs=0
+# Nets Processed 19, Net Terminals 52
+# PCB Area=4857500.000  EIC=4  Area/EIC=1214375.000  SMDs=0
 # Total Pin Count: 63
-# Signal Connections Created 32
+# Signal Connections Created 31
 # 
 # Design Rules --------------------------------------------
 # Via Grid 0.0100 with offset 0.0000
@@ -40,21 +41,21 @@
 # Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # 
-# Wiring Statistics ----------------- C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
-# Nets 18 Connections 32 Unroutes 32
+# Wiring Statistics ----------------- C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
+# Nets 19 Connections 32 Unroutes 31
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 1, at vias 0 Total Vias 0
-# Percent Connected    0.00
-# Manhattan Length 57400.0000 Horizontal 35250.9590 Vertical 22149.0410
-# Routed Length 762.1320 Horizontal 700.0000 Vertical 150.0000
-# Ratio Actual / Manhattan   0.0133
-# Unconnected Length 56000.0000 Horizontal 35600.0000 Vertical 20400.0000
+# Wire Junctions 1, at vias 1 Total Vias 2
+# Percent Connected    3.13
+# Manhattan Length 44845.0000 Horizontal 33159.0970 Vertical 11685.9030
+# Routed Length 1175.0000 Horizontal 775.0000 Vertical 400.0000
+# Ratio Actual / Manhattan   0.0262
+# Unconnected Length 43670.0000 Horizontal 32912.5000 Vertical 10757.5000
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Loading Do File pasde.do ...
-# Loading Do File C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER_rules.do ...
+# Loading Do File C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER_rules.do ...
 # Colormap Written to File _notify.std
-# Enter command <# Loading Do File C:/Users/GIANMA~1/AppData/Local/Temp/#Taaaaag04408.tmp ...
+# Enter command <# Loading Do File C:/Users/Andreaa/AppData/Local/Temp/#Taaaaal19312.tmp ...
 # All Components Unselected.
 # All Nets Unselected.
 set route_diagonal 0
@@ -90,7 +91,7 @@ route 25 1
 # Command route detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command route will ignore pcb layer rule(s), mcm via rule(s)
-# Current time = Sun Nov 22 09:50:33 2020
+# Current time = Thu Nov 19 10:26:10 2020
 # 
 #    VIA     TOP  BOTTOM
 # 
@@ -103,50 +104,50 @@ route 25 1
 # Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
 # Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
 # 
-# Wiring Statistics ----------------- C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
-# Nets 18 Connections 32 Unroutes 32
+# Wiring Statistics ----------------- C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
+# Nets 19 Connections 32 Unroutes 31
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 1, at vias 0 Total Vias 0
-# Percent Connected    0.00
-# Manhattan Length 57400.0000 Horizontal 35250.9590 Vertical 22149.0410
-# Routed Length 762.1320 Horizontal 700.0000 Vertical 150.0000
-# Ratio Actual / Manhattan   0.0133
-# Unconnected Length 56000.0000 Horizontal 35600.0000 Vertical 20400.0000
+# Wire Junctions 1, at vias 1 Total Vias 2
+# Percent Connected    3.13
+# Manhattan Length 44845.0000 Horizontal 33159.0970 Vertical 11685.9030
+# Routed Length 1175.0000 Horizontal 775.0000 Vertical 400.0000
+# Ratio Actual / Manhattan   0.0262
+# Unconnected Length 43670.0000 Horizontal 32912.5000 Vertical 10757.5000
 # Start Route Pass 1 of 25
-# Routing 30 wires.
-# Total Conflicts: 14 (Cross: 13, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 30 Successes 30 Failures 0 Vias 2
+# Routing 24 wires.
+# Total Conflicts: 16 (Cross: 16, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 9
+# Attempts 24 Successes 24 Failures 0 Vias 4
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # End Pass 1 of 25
 # Start Route Pass 2 of 25
-# Routing 35 wires.
+# Routing 26 wires.
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
-# Total Conflicts: 4 (Cross: 4, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 32 Successes 32 Failures 0 Vias 3
+# Total Conflicts: 9 (Cross: 9, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 9
+# Attempts 26 Successes 26 Failures 0 Vias 4
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
-# Conflict Reduction  0.7143
+# Conflict Reduction  0.4375
 # End Pass 2 of 25
 # 17 bend points have been removed.
 # 0 bend points have been removed.
 # 0 bend points have been removed.
 # Start Route Pass 3 of 25
-# Routing 6 wires.
+# Routing 15 wires.
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 6 Successes 6 Failures 0 Vias 5
+# Total Unroutes: 9
+# Attempts 15 Successes 15 Failures 0 Vias 6
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
@@ -158,8 +159,8 @@ route 25 1
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 0 Successes 0 Failures 0 Vias 5
+# Total Unroutes: 9
+# Attempts 0 Successes 0 Failures 0 Vias 6
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
@@ -178,10 +179,10 @@ route 25 1
 #     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
 #   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
 #----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
-# Route    |  1|    13|     1|   0|    3|    2|    0|   0|  0|  0:00:00|  0:00:00|
-# Route    |  2|     4|     0|   0|    3|    3|    0|   0| 71|  0:00:00|  0:00:00|
-# Route    |  3|     0|     0|   0|    3|    5|    0|   0|100|  0:00:00|  0:00:00|
-# Route    |  4|     0|     0|   0|    3|    5|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  1|    16|     0|   0|    9|    4|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     9|     0|   0|    9|    4|    0|   0| 43|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    9|    6|    0|   0|100|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    9|    6|    0|   0|  0|  0:00:00|  0:00:00|
 # Conflicts between polygon wires and fixed objects:   0
 # Stub Violations:   0
 # Net Order Violations:   0
@@ -191,20 +192,20 @@ route 25 1
 # Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
 # Overall Routing Time: 0:00:00
 # 
-# Wiring Statistics ----------------- C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
-# Nets 18 Connections 32 Unroutes 3
+# Wiring Statistics ----------------- C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
+# Nets 19 Connections 32 Unroutes 9
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 6, at vias 4 Total Vias 5
-# Percent Connected   90.63
-# Manhattan Length 56823.0000 Horizontal 34771.6430 Vertical 22051.3570
-# Routed Length 50157.0000 Horizontal 31904.5000 Vertical 18252.5000
-# Ratio Actual / Manhattan   0.8827
-# Unconnected Length 6800.0000 Horizontal 3900.0000 Vertical 2900.0000
+# Wire Junctions 6, at vias 3 Total Vias 6
+# Percent Connected   71.88
+# Manhattan Length 44181.5100 Horizontal 32589.3830 Vertical 11592.1270
+# Routed Length 33441.5100 Horizontal 22331.0000 Vertical 11110.5100
+# Ratio Actual / Manhattan   0.7569
+# Unconnected Length 12400.0000 Horizontal 10700.0000 Vertical 1700.0000
 clean 2
 # Command clean detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command clean will ignore pcb layer rule(s), mcm via rule(s)
-# Current time = Sun Nov 22 09:50:33 2020
+# Current time = Thu Nov 19 10:26:10 2020
 # 
 #    VIA     TOP  BOTTOM
 # 
@@ -217,30 +218,30 @@ clean 2
 # Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
 # Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 5.0000, Clearance= 5.0000
 # 
-# Wiring Statistics ----------------- C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
-# Nets 18 Connections 32 Unroutes 3
+# Wiring Statistics ----------------- C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
+# Nets 19 Connections 32 Unroutes 9
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 6, at vias 4 Total Vias 5
-# Percent Connected   90.63
-# Manhattan Length 56823.0000 Horizontal 34771.6430 Vertical 22051.3570
-# Routed Length 50157.0000 Horizontal 31904.5000 Vertical 18252.5000
-# Ratio Actual / Manhattan   0.8827
-# Unconnected Length 6800.0000 Horizontal 3900.0000 Vertical 2900.0000
+# Wire Junctions 6, at vias 3 Total Vias 6
+# Percent Connected   71.88
+# Manhattan Length 44181.5100 Horizontal 32589.3830 Vertical 11592.1270
+# Routed Length 33441.5100 Horizontal 22331.0000 Vertical 11110.5100
+# Ratio Actual / Manhattan   0.7569
+# Unconnected Length 12400.0000 Horizontal 10700.0000 Vertical 1700.0000
 # Start Clean Pass 1 of 2
-# Routing 37 wires.
+# Routing 33 wires.
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 34 Successes 34 Failures 0 Vias 5
+# Total Unroutes: 9
+# Attempts 28 Successes 28 Failures 0 Vias 6
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # End Pass 1 of 2
 # Start Clean Pass 2 of 2
-# Routing 37 wires.
+# Routing 33 wires.
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
@@ -248,14 +249,14 @@ clean 2
 # 0 bend points have been removed.
 # 0 bend points have been removed.
 # Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
-# Total Unroutes: 3
-# Attempts 34 Successes 34 Failures 0 Vias 5
+# Total Unroutes: 9
+# Attempts 31 Successes 31 Failures 0 Vias 5
 # Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
 # All unlicensed rules are being ignored.
 # Command check will ignore pcb layer rule(s), mcm via rule(s)
 # End Pass 2 of 2
-# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
 # 
 # Design Rules --------------------------------------------
 # Via Grid 0.0100 with offset 0.0000
@@ -268,12 +269,12 @@ clean 2
 #     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
 #   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
 #----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
-# Route    |  1|    13|     1|   0|    3|    2|    0|   0|  0|  0:00:00|  0:00:00|
-# Route    |  2|     4|     0|   0|    3|    3|    0|   0| 71|  0:00:00|  0:00:00|
-# Route    |  3|     0|     0|   0|    3|    5|    0|   0|100|  0:00:00|  0:00:00|
-# Route    |  4|     0|     0|   0|    3|    5|    0|   0|  0|  0:00:00|  0:00:00|
-# Clean    |  5|     0|     0|   0|    3|    5|    0|   0|   |  0:00:00|  0:00:00|
-# Clean    |  6|     0|     0|   0|    3|    5|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    16|     0|   0|    9|    4|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     9|     0|   0|    9|    4|    0|   0| 43|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    9|    6|    0|   0|100|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    9|    6|    0|   0|  0|  0:00:00|  0:00:00|
+# Clean    |  5|     0|     0|   0|    9|    6|    0|   0|   |  0:00:00|  0:00:00|
+# Clean    |  6|     0|     0|   0|    9|    5|    0|   0|   |  0:00:00|  0:00:00|
 # Conflicts between polygon wires and fixed objects:   0
 # Stub Violations:   0
 # Net Order Violations:   0
@@ -283,15 +284,15 @@ clean 2
 # Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
 # Overall Routing Time: 0:00:00
 # 
-# Wiring Statistics ----------------- C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn
-# Nets 18 Connections 32 Unroutes 3
+# Wiring Statistics ----------------- C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn
+# Nets 19 Connections 32 Unroutes 9
 # Signal Layers 2 Power Layers 0
-# Wire Junctions 5, at vias 4 Total Vias 5
-# Percent Connected   90.63
-# Manhattan Length 56370.5000 Horizontal 34655.2860 Vertical 21715.2140
-# Routed Length 50052.0000 Horizontal 31867.0000 Vertical 18185.0000
-# Ratio Actual / Manhattan   0.8879
-# Unconnected Length 6800.0000 Horizontal 3900.0000 Vertical 2900.0000
-write routes (changed_only) (reset_changed) C:/Users/GIANMA~1/AppData/Local/Temp/#Taaaaah04408.tmp
-# Routing Written to File C:/Users/GIANMA~1/AppData/Local/Temp/#Taaaaah04408.tmp
+# Wire Junctions 8, at vias 3 Total Vias 5
+# Percent Connected   71.88
+# Manhattan Length 44386.5100 Horizontal 32777.0670 Vertical 11609.4430
+# Routed Length 33205.5100 Horizontal 22158.5000 Vertical 11047.0100
+# Ratio Actual / Manhattan   0.7481
+# Unconnected Length 12400.0000 Horizontal 10700.0000 Vertical 1700.0000
+write routes (changed_only) (reset_changed) C:/Users/Andreaa/AppData/Local/Temp/#Taaaaam19312.tmp
+# Routing Written to File C:/Users/Andreaa/AppData/Local/Temp/#Taaaaam19312.tmp
 quit

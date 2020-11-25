@@ -1,19 +1,19 @@
 #Allegro PCB Router v17-2-51 made 2020/07/07 at 11:25:37
 #Host 
-#ROUTING STATUS <<< C:/USERS/ANDREAA/ESE/FULLADDER/allegro\FULLADDER.dsn >>>
-Start  Time: Report Time: Thu Nov 19 10:26:10 2020
+#ROUTING STATUS <<< C:/ESE-PROJECT/FULLADDER/allegro\FULLADDER.dsn >>>
+Start  Time: Report Time: Sun Nov 22 09:50:33 2020
 
-Nets         =       19   Connections         =       32
-Current Wire =       31   Reroute wires       =       31
-Completion   =   71.88%   Unconnections       =        9
+Nets         =       18   Connections         =       32
+Current Wire =       34   Reroute wires       =       34
+Completion   =   90.63%   Unconnections       =        3
 | ROUTING HISTORY ================================================================
 |     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
 |   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
 |----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
-| Route    |  1|    16|     0|   0|    9|    4|    0|   0|  0|  0:00:00|  0:00:00|
-| Route    |  2|     9|     0|   0|    9|    4|    0|   0| 43|  0:00:00|  0:00:00|
-| Route    |  3|     0|     0|   0|    9|    6|    0|   0|100|  0:00:00|  0:00:00|
-| Route    |  4|     0|     0|   0|    9|    6|    0|   0|  0|  0:00:00|  0:00:00|
-| Clean    |  5|     0|     0|   0|    9|    6|    0|   0|   |  0:00:00|  0:00:00|
-| Clean    |  6|     0|     0|   0|    9|    5|    0|   0|   |  0:00:00|  0:00:00|
+| Route    |  1|    13|     1|   0|    3|    2|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  2|     4|     0|   0|    3|    3|    0|   0| 71|  0:00:00|  0:00:00|
+| Route    |  3|     0|     0|   0|    3|    5|    0|   0|100|  0:00:00|  0:00:00|
+| Route    |  4|     0|     0|   0|    3|    5|    0|   0|  0|  0:00:00|  0:00:00|
+| Clean    |  5|     0|     0|   0|    3|    5|    0|   0|   |  0:00:00|  0:00:00|
+| Clean    |  6|     0|     0|   0|    3|    5|    0|   0|   |  0:00:00|  0:00:00|
 | Conflicts between polygon wires and fixed objects:   0

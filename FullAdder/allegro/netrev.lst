@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : FULLADDER.brd                                 )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Thu Nov 19 09:28:09 2020                      )
+(    Date/Time        : Sun Nov 22 09:33:45 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\USERS\ANDREAA\ESE\FULLADDER\allegro'
-Design Directory:            'C:/USERS/ANDREAA/ESE/FULLADDER/allegro'
-Old design name:             'C:/USERS/ANDREAA/ESE/FULLADDER/allegro/FULLADDER.brd'
-New design name:             'C:/USERS/ANDREAA/ESE/FULLADDER/allegro/FULLADDER.brd'
+Schematic directory:         'C:\ESE-PROJECT\FULLADDER\allegro'
+Design Directory:            'C:/ESE-PROJECT/FULLADDER/allegro'
+Old design name:             'C:/ESE-PROJECT/FULLADDER/allegro/FULLADDER.brd'
+New design name:             'C:/ESE-PROJECT/FULLADDER/allegro/FULLADDER.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\USERS\ANDREAA\ESE\FULLADDER\allegro C:\USERS\ANDREAA\ESE\FULLADDER\allegro\FULLADDER.brd C:\USERS\ANDREAA\ESE\FULLADDER\allegro\FULLADDER.brd
+CmdLine: netrev.exe -y 1 -n -i C:\ESE-PROJECT\FULLADDER\allegro C:\ESE-PROJECT\FULLADDER\allegro\FULLADDER.brd C:\ESE-PROJECT\FULLADDER\allegro\FULLADDER.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstchip.dat 
-   Finished reading C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstchip.dat (00:00:00.03)
-Starting to read C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstxprt.dat 
-   Finished reading C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstxnet.dat 
-   Finished reading C:/USERS/ANDREAA/ESE/FULLADDER/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/ESE-PROJECT/FULLADDER/allegro/pstchip.dat 
+   Finished reading C:/ESE-PROJECT/FULLADDER/allegro/pstchip.dat (00:00:00.05)
+Starting to read C:/ESE-PROJECT/FULLADDER/allegro/pstxprt.dat 
+   Finished reading C:/ESE-PROJECT/FULLADDER/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/ESE-PROJECT/FULLADDER/allegro/pstxnet.dat 
+   Finished reading C:/ESE-PROJECT/FULLADDER/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -47,7 +47,6 @@ PSMPATH =  .
            C:/Cadence/SPB_17.2/share/local/pcb/symbols 
            C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
-           C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
 
 PADPATH =  . 
            symbols 
@@ -56,13 +55,12 @@ PADPATH =  .
            C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
            C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
-           C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Nov 19 9:28:09 2020
+netrev run on Nov 22 9:33:45 2020
    DESIGN NAME : 'FULLADDER'
    PACKAGING ON Sep 27 2020 03:58:55
 
@@ -87,6 +85,6 @@ netrev run on Nov 19 9:28:09 2020
  No oversight detected
  No warning detected
 
-cpu time      0:00:32
+cpu time      0:00:47
 elapsed time  0:00:00
 

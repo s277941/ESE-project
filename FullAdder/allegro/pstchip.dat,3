@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Nov-19-2020 at 09:24:45}
+{ Using PSTWRITER 17.2.0 d001Nov-22-2020 at 09:30:22}
 primitive 'CON2_JUMPER2_CON2';
   pin
     '1':
