@@ -26,13 +26,38 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (MAX1759
+      (FullPartName "MAX1759.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (TI-CC2640
+      (FullPartName "TI-CC2640.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" "C:\Users\Andreaa\ESE\Launchpad\launchpad.dsn")
       (Path "Design Resources" "C:\Users\Andreaa\ESE\Launchpad\launchpad.dsn"
-         "Launchpad"))
+         "Launchpad")
+      (Path "Design Resources" "C:\Users\Andreaa\ESE\Launchpad\launchpad.dsn"
+         "Design Cache")
+      (Select "Design Resources" "C:\Users\Andreaa\ESE\Launchpad\launchpad.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -43,10 +68,20 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1356 52 387")
-        (Scroll "-17 430")
+        (Scroll "-17 199")
         (Zoom "126")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Microcontroller")))
+      (Page "Microcontroller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1088 78 413")
+        (Scroll "0 170")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Power")))
   (MPSSessionName "Andreaa"))
