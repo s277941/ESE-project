@@ -14,7 +14,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb" "MAX1759"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "AT42QT2160"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

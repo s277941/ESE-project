@@ -27,8 +27,23 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (GND_SIGNAL
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AT42QT2160
+      (FullPartName "AT42QT2160.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (AT42QT2160-MMUR
+      (FullPartName "AT42QT2160-MMUR.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\AT42QT2160-MMUR.OLB")
       (DeviceIndex "0"))
     (MAX17048
       (FullPartName "MAX17048.Normal")
@@ -37,11 +52,6 @@
     (SMLP34
       (FullPartName "SMLP34.Normal")
       (LibraryName "C:\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
     (1051640001
       (FullPartName "1051640001.Normal")
@@ -76,18 +86,19 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\launchpad.dsn")
-      (Path "Design Resources" ".\launchpad.dsn" "Launchpad"))
+      (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
+      (Path "Design Resources" ".\launchpad.dsn" "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1356 52 387")
-        (Scroll "-17 438")
+        (Scroll "-17 397")
         (Zoom "126")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
@@ -97,11 +108,21 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1382 78 413")
-        (Scroll "-143 30")
+        (Scroll "-143 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Microcontroller")))
+      (Page "Microcontroller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1036 26 361")
+        (Scroll "61 36")
+        (Zoom "136")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Touch-sensor")))
   (MPSSessionName "Andreaa")
-  (LastUsedLibraryBrowseDirectory "C:\ESE-project\ORCAD_PERSONAL_LIBRARY"))
+  (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))
