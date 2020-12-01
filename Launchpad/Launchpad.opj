@@ -30,15 +30,40 @@
     (GND_SIGNAL
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (SC20S-7PF20PPM
+      (FullPartName "SC20S-7PF20PPM.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\SC20S-7PF20PPM.OLB")
+      (DeviceIndex "0"))
+    (TSX-3225240000MF15X-AC3
+      (FullPartName "TSX-3225240000MF15X-AC3.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\TSX-3225240000MF15X-AC3.OLB")
+      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName
          "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
+    (TI-CC2640
+      (FullPartName "TI-CC2640.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
       (LibraryName
          "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (BLM18HE152SN1D
+      (FullPartName "BLM18HE152SN1D.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\BLM18HE152SN1D.OLB")
       (DeviceIndex "0"))
     (AT42QT2160
       (FullPartName "AT42QT2160.Normal")
@@ -76,11 +101,6 @@
       (FullPartName "MAX1759.Normal")
       (LibraryName
          "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (TI-CC2640
-      (FullPartName "TI-CC2640.Normal")
-      (LibraryName
-         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -92,13 +112,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1356 52 387")
-        (Scroll "-17 13")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1356 52 387")
+        (Scroll "0 416")
         (Zoom "126")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
@@ -108,21 +128,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1382 78 413")
-        (Scroll "-143 0")
-        (Zoom "100")
+        (Scroll "-17 247")
+        (Zoom "126")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Microcontroller"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1036 26 361")
-        (Scroll "0 216")
-        (Zoom "136")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Touch-sensor")))
+      (Page "Microcontroller")))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))
