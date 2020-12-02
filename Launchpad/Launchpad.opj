@@ -15,7 +15,8 @@
     (File ".\launchpad.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -27,6 +28,12 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (GND_SIGNAL
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -113,7 +120,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
+      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Power"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -123,32 +130,32 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 373")
-        (Scroll "-78 310")
-        (Zoom "116")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1408 104 439")
+        (Scroll "-17 68")
+        (Zoom "126")
         (Occurrence "/"))
-      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1062 26 347")
-        (Scroll "-9 101")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
       (Page "Microcontroller"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1088 52 373")
-        (Scroll "-82 110")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1382 78 413")
+        (Scroll "186 490")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Touch-sensor")))
-  (MPSSessionName "Gianmarco")
+      (Page "Touch-sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1330 26 361")
+        (Scroll "-17 195")
+        (Zoom "126")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Power")))
+  (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))
