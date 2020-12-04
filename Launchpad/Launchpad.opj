@@ -28,14 +28,19 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
-    (GND_SIGNAL
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (FTSH-105-01-L-D-RA-K
+      (FullPartName "FTSH-105-01-L-D-RA-K.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\FTSH-105-01-L-D-RA-K.OLB")
       (DeviceIndex "0"))
     (SMLP36
       (FullPartName "SMLP36.Normal")
@@ -120,7 +125,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
+      (Select "Design Resources" ".\launchpad.dsn" "Design Cache" "1051640001"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -131,7 +136,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1408 104 439")
-        (Scroll "-143 0")
+        (Scroll "-143 260")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
@@ -151,7 +156,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1304 0 335")
-        (Scroll "118 512")
+        (Scroll "225 352")
         (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
