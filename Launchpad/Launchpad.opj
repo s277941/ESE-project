@@ -136,12 +136,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 373")
-        (Scroll "30 100")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1356 52 387")
+        (Scroll "-229 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
       (Page "Microcontroller")))
-  (MPSSessionName "Gianmarco")
+  (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))

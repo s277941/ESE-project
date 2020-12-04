@@ -1,85 +1,45 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Oct 29 11:16:19 2020
-\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=10468 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Dec 04 23:28:29 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=77548 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\ps_r109_129_d250.dra
 \t (00:00:03) 
    (00:00:03) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra
-\i (00:00:06) trapsize 267
-\i (00:00:07) trapsize 273
-\i (00:00:07) trapsize 273
-\i (00:00:07) trapsize 272
-\i (00:00:07) generaledit 
-\i (00:00:10) QtSignal ColorVisibilityPane CVPViewDropdown activated
-\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
-\i (00:00:12) color -globvis off 
-\i (00:00:12) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:12) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
-\i (00:00:12) color -vis 'REF DES/ASSEMBLY_TOP' 
-\i (00:00:12) trapsize 272
-\i (00:00:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLY TOP"
-\i (00:00:12) generaledit 
-\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
-\i (00:00:15) QtSignal ColorVisibilityPane CVPViewDropdown activated
-\i (00:00:17) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
-\i (00:00:33) color -globvis off 
-\i (00:00:34) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:34) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
-\i (00:00:34) color -vis PIN/SOLDERMASK_TOP 
-\i (00:00:34) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
-\i (00:00:34) trapsize 272
-\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKT"
-\i (00:00:34) generaledit 
-\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKB"
-\i (00:00:37) color -globvis off 
-\i (00:00:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:37) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:00:37) color -vis PIN/SOLDERMASK_BOTTOM 
-\i (00:00:37) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:00:37) trapsize 272
-\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKB"
-\i (00:00:37) generaledit 
-\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
-\i (00:00:39) color -globvis off 
-\i (00:00:39) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:39) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
-\i (00:00:39) color -vis PIN/SOLDERMASK_TOP 
-\i (00:00:39) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
-\i (00:00:39) trapsize 272
-\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: SOLDERMASKT"
-\i (00:00:39) generaledit 
-\i (00:00:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: PASTEMASKT"
-\i (00:00:42) color -globvis off 
-\i (00:00:43) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:43) color -vis 'DRC ERROR CLASS/PASTEMASK_TOP' 
-\i (00:00:43) color -vis PIN/PASTEMASK_TOP 
-\i (00:00:43) color -vis 'VIA CLASS/PASTEMASK_TOP' 
-\i (00:00:43) trapsize 272
-\i (00:00:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: PASTEMASKT"
-\i (00:00:43) generaledit 
-\i (00:00:54) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ETCHT"
-\i (00:00:54) color -globvis off 
-\i (00:00:54) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:54) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:00:54) color -vis ETCH/TOP 
-\i (00:00:54) color -vis PIN/TOP 
-\i (00:00:55) color -vis 'VIA CLASS/TOP' 
-\i (00:00:55) color -vis 'ANTI ETCH/TOP' 
-\i (00:00:55) color -vis BOUNDARY/TOP 
-\i (00:00:55) color -vis CAVITY/TOP 
-\i (00:00:55) trapsize 272
-\i (00:00:55) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ETCHT"
-\i (00:00:55) generaledit 
-\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
-\i (00:00:59) color -globvis off 
-\i (00:00:59) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:59) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
-\i (00:00:59) color -vis 'REF DES/ASSEMBLY_TOP' 
-\i (00:00:59) trapsize 272
-\i (00:00:59) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: ASSEMBLY TOP"
-\i (00:00:59) generaledit 
-\i (00:01:01) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:07:52) exit 
-\t (00:07:53)     Journal end - Thu Oct 29 11:24:08 2020
+\t (00:00:05) Opening existing design...
+\i (00:00:21) fillin yes 
+\i (00:00:21) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ps_r109_129_d250
+\d (00:00:21) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ps_r109_129_d250.dra
+\i (00:00:22) trapsize 820
+\i (00:00:22) trapsize 851
+\i (00:00:22) trapsize 885
+\i (00:00:22) trapsize 851
+\i (00:00:22) trapsize 706
+\i (00:00:22) trapsize 1050
+\i (00:00:22) generaledit 
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1.1555 -0.4832
+\i (00:00:23) trapsize 525
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -3.3719 -0.5882
+\i (00:00:23) trapsize 263
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -0.1785 0.0525
+\i (00:00:24) trapsize 131
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -0.1733 0.0525
+\i (00:00:24) trapsize 66
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -0.0314 0.0460
+\i (00:00:25) trapsize 131
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 0.0316 0.0459
+\i (00:00:25) trapsize 263
+\i (00:00:32) exit 
+\e (00:00:32) Do you want to save the changes you made to ps_r109_129_d250.dra?
+\i (00:00:33) fillin no 
+\t (00:00:33)     Journal end - Fri Dec 04 23:28:59 2020
