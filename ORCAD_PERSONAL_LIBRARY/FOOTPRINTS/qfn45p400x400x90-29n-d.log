@@ -1,18 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : QFN45P400X400X90-29N-D.dra                    )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Sat Dec 05 22:13:58 2020                      )
+(    Date/Time        : Sat Dec 05 23:21:27 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = qfn45p400x400x90-29n-d.psm
+    User      = Andreaa
+    Machine   = PORTATILE-HP
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:00
 
-0 warnings, 0 errors detected, 0 errors  fixed.
+Create symbol started.
+ 
+
+Create symbol completed.
+
