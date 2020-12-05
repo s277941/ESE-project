@@ -124,9 +124,7 @@
       (Path "Design Resources" ".\launchpad.dsn")
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
-      (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad"
-         "Microcontroller"))
+      (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
