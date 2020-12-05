@@ -1,45 +1,74 @@
 \t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Dec 04 23:28:29 2020
-\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=77548 CPUs=4
-\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\ps_r109_129_d250.dra
+\t (00:00:03)     Journal start - Sat Dec 05 16:31:03 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=12960 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\smd_MAX1555.dra
 \t (00:00:03) 
    (00:00:03) Loading axlcore.cxt 
 \t (00:00:05) Opening existing design...
-\i (00:00:21) fillin yes 
-\i (00:00:21) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ps_r109_129_d250
-\d (00:00:21) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ps_r109_129_d250.dra
-\i (00:00:22) trapsize 820
-\i (00:00:22) trapsize 851
-\i (00:00:22) trapsize 885
-\i (00:00:22) trapsize 851
-\i (00:00:22) trapsize 706
-\i (00:00:22) trapsize 1050
-\i (00:00:22) generaledit 
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in 1.1555 -0.4832
-\i (00:00:23) trapsize 525
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -3.3719 -0.5882
-\i (00:00:23) trapsize 263
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -0.1785 0.0525
-\i (00:00:24) trapsize 131
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -0.1733 0.0525
-\i (00:00:24) trapsize 66
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out -0.0314 0.0460
-\i (00:00:25) trapsize 131
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 0.0316 0.0459
-\i (00:00:25) trapsize 263
-\i (00:00:32) exit 
-\e (00:00:32) Do you want to save the changes you made to ps_r109_129_d250.dra?
-\i (00:00:33) fillin no 
-\t (00:00:33)     Journal end - Fri Dec 04 23:28:59 2020
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged smd_MAX1555
+\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra
+\i (00:00:05) trapsize 325
+\i (00:00:06) trapsize 335
+\i (00:00:06) trapsize 325
+\i (00:00:06) trapsize 270
+\i (00:00:06) trapsize 294
+\i (00:00:06) generaledit 
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 2.9231 0.8965
+\i (00:00:26) trapsize 588
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 8.2500 0.8965
+\t (00:00:26) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:26) trapsize 700
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 10.7423 1.3305
+\i (00:00:26) trapsize 700
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 10.6863 1.3165
+\i (00:00:26) trapsize 700
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -1.8627 -0.9384
+\i (00:00:28) trapsize 350
+\i (00:00:37) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:00:37) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:41) roam y -96 
+\i (00:00:41) roam y -96
+\i (00:00:41) roam y -96 
+\i (00:00:41) roam y -96
+\i (00:00:41) roam y 96 
+\i (00:00:41) roam y 96
+\i (00:00:42) roam y 96 
+\i (00:00:42) roam y 96
+\i (00:00:43) roam y -96 
+\i (00:00:43) roam y -96
+\i (00:00:55) dbdoctor 
+\i (00:00:56) setwindow form.dbdoctor_allegro
+\i (00:00:56) FORM dbdoctor_allegro drc YES 
+\i (00:00:57) FORM dbdoctor_allegro shapes YES 
+\i (00:00:57) FORM dbdoctor_allegro execute  
+\t (00:00:57) Dbdoctor in progress - wait...
+\t (00:00:57) Checking db records
+\t (00:00:57)     checking for orphans...
+\t (00:00:58)     Checked 100 percent
+\t (00:00:58) Regenerating DRC
+\t (00:00:58)   Original DRC errors: 0
+\t (00:00:58) Performing DRC...
+\t (00:00:58) No DRC errors detected.
+\t (00:00:58)   Updated DRC errors:  0
+\t (00:00:58) Done dbdoctor.
+\t (00:00:58) Dbdoctor completed.
+\i (00:01:00) FORM dbdoctor_allegro close  
+\i (00:01:00) setwindow pcb
+\i (00:01:00) generaledit 
+\i (00:01:02) save 
+\i (00:01:05) fillin yes 
+   (00:01:05) Loading signal.cxt 
+\t (00:01:05) Symbol 'smd_max1555.psm' created.
+\i (00:01:06) generaledit 
+\i (00:01:21) exit 
+\t (00:01:21)     Journal end - Sat Dec 05 16:32:21 2020

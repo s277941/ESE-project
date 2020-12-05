@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : smd_MAX1555.dra                               )
+(    Drawing          : smd_cc2640r2f_rgz_48.dra                      )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Sat Dec 05 16:32:06 2020                      )
+(    Date/Time        : Sat Dec 05 16:30:05 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
-    Name      = smd_max1555.psm
+    Name      = smd_cc2640r2f_rgz_48.psm
     User      = Andreaa
     Machine   = PORTATILE-HP
 
