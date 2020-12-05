@@ -131,17 +131,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1356 52 387")
-        (Scroll "-229 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Microcontroller")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
+      (Tab 0)))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))
