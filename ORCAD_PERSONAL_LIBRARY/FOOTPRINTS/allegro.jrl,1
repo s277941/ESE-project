@@ -1,43 +1,223 @@
-\t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Dec 07 11:22:51 2020
-\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=16064 CPUs=4
-\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\smd_TSX-3225240000MF15X-AC3.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged smd_TSX-3225240000MF15X-AC3
-\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_TSX-3225240000MF15X-AC3.dra
-\i (00:00:05) trapsize 546
-\i (00:00:05) trapsize 568
-\i (00:00:05) trapsize 590
-\i (00:00:05) trapsize 568
-\i (00:00:05) trapsize 470
-\t (00:00:05) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:05) trapsize 700
-\i (00:00:06) generaledit 
-\i (00:00:09) dbdoctor 
-\i (00:00:11) setwindow form.dbdoctor_allegro
-\i (00:00:11) FORM dbdoctor_allegro drc YES 
-\i (00:00:11) FORM dbdoctor_allegro shapes YES 
-\i (00:00:11) FORM dbdoctor_allegro execute  
-\t (00:00:11) Dbdoctor in progress - wait...
-\t (00:00:11) Checking db records
-\t (00:00:11)     checking for orphans...
-\t (00:00:11)     Checked 100 percent
-\t (00:00:11) Regenerating DRC
-\t (00:00:11)   Original DRC errors: 0
-\t (00:00:11) Performing DRC...
-\t (00:00:11) No DRC errors detected.
-\t (00:00:11)   Updated DRC errors:  0
-\t (00:00:11) Done dbdoctor.
-\t (00:00:12) Dbdoctor completed.
-\i (00:00:13) FORM dbdoctor_allegro close  
-\i (00:00:13) setwindow pcb
-\i (00:00:13) generaledit 
-\i (00:00:15) save 
-\i (00:00:16) fillin yes 
-   (00:00:16) Loading signal.cxt 
-\t (00:00:16) Symbol 'smd_tsx-3225240000mf15x-ac3.psm' created.
-\i (00:00:16) generaledit 
-\i (00:00:18) exit 
-\t (00:00:18)     Journal end - Mon Dec 07 11:23:07 2020
+\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Dec 07 23:53:13 2020
+\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=12072 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\SW_PCM12SMTR.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:09) fillin yes 
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SW_PCM12SMTR
+\d (00:00:09) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SW_PCM12SMTR.dra
+\i (00:00:09) trapsize 3279
+\i (00:00:09) trapsize 3375
+\i (00:00:09) trapsize 3329
+\i (00:00:09) trapsize 3279
+\i (00:00:09) trapsize 2718
+\i (00:00:09) trapsize 3950
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.1731 -8.7345
+\i (00:00:10) trapsize 1975
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -6.9915 0.3101
+\i (00:00:11) trapsize 987
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -6.9915 0.3101
+\i (00:00:11) trapsize 494
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -4.7501 0.0337
+\i (00:00:12) trapsize 987
+\i (00:00:24) prmed 
+\i (00:00:27) setwindow form.prmedit
+\i (00:00:27) FORM prmedit display_plated_holes YES 
+\i (00:00:27) FORM prmedit display_backdrill_holes YES 
+\i (00:00:27) FORM prmedit display_non_plated_holes YES 
+\i (00:00:29) FORM prmedit display_grid YES 
+\i (00:00:30) FORM prmedit view_grids_button  
+\t (00:00:30) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:34) setwindow form.grid
+\i (00:00:34) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:00:35) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:00:36) FORM grid all_etch all_etch_x_grids 0.05 
+\i (00:00:37) FORM grid all_etch all_etch_y_grids 0.05 
+\i (00:00:38) FORM grid top subclass_x_grids 0.0500 
+\i (00:00:38) FORM grid done  
+\t (00:00:38) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:39) setwindow form.prmedit
+\i (00:00:39) FORM prmedit apply  
+\i (00:00:40) FORM prmedit done  
+\i (00:00:40) setwindow pcb
+\i (00:00:40) generaledit 
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 0.0882 -0.9143
+\i (00:00:40) trapsize 494
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -0.0993 -0.4601
+\i (00:00:41) trapsize 247
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -0.1042 -0.4551
+\i (00:00:41) trapsize 123
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -0.1042 -0.4551
+\i (00:00:41) trapsize 62
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -0.1079 -0.4526
+\i (00:00:42) trapsize 123
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -0.1079 -0.4525
+\i (00:00:42) trapsize 247
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -0.1078 -0.4525
+\i (00:00:42) trapsize 494
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -0.1078 -0.4526
+\i (00:00:42) trapsize 987
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -0.1079 -0.4525
+\t (00:00:42) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:42) trapsize 1975
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -2.0827 3.1811
+\t (00:00:43) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:43) trapsize 987
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -1.9444 4.1487
+\t (00:00:44) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:44) trapsize 1975
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -1.8261 4.1883
+\t (00:00:44) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:44) trapsize 3950
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 20.8924 18.4387
+\i (00:00:44) trapsize 3950
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 21.1294 18.4387
+\i (00:00:44) trapsize 3950
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 21.1294 18.4387
+\i (00:00:44) trapsize 3950
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 21.1294 18.4387
+\i (00:00:44) trapsize 3950
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -0.5143 0.2706
+\t (00:00:45) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:45) trapsize 1975
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -0.5537 0.2706
+\t (00:00:45) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:45) trapsize 987
+\i (00:00:46) roam x -96 
+\i (00:00:46) roam x -96
+\i (00:00:47) roam y 96 
+\i (00:00:47) roam y 96
+\i (00:00:47) roam y 96 
+\i (00:00:47) roam y 96
+\i (00:00:47) roam x -96 
+\i (00:00:47) roam x -96
+\i (00:00:47) roam y -96 
+\i (00:00:47) roam y -96
+\i (00:00:48) roam x -96 
+\i (00:00:48) roam x -96
+\i (00:02:21) pick grid -5.4316 4.6151
+\t (00:02:21) last pick:  -5.4500 4.6000
+\i (00:02:22) delete 
+\i (00:02:23) generaledit 
+\i (00:02:24) pick grid -5.1551 4.3583
+\t (00:02:24) last pick:  -5.1500 4.3500
+\i (00:02:25) delete 
+\i (00:02:25) generaledit 
+\i (00:02:30) label refdes 
+\t (00:02:30) Pick text location.
+\i (00:02:37) pick grid 0.0386 0.0336
+\t (00:02:37) last pick:  0.0500 0.0500
+\t (00:02:37) Enter text string.
+\i (00:02:40) setwindow pcb
+\i (00:02:40) pick 0.0500 0.0500
+\i (00:02:43) move 
+\t (00:02:43) Select element(s) to move.
+\i (00:02:43) pick grid 0.3546 0.7050
+\t (00:02:43) last pick:  0.3500 0.7000
+\t (00:02:43) last pick:  0.0500 0.0500
+\t (00:02:43) Pick new location for the element(s).
+\i (00:02:50) pick grid -2.6669 3.2327
+\t (00:02:50) last pick:  -2.6500 3.2500
+\i (00:02:57) label refdes 
+\t (00:02:57) Pick text location.
+\i (00:03:00) setwindow form.mini
+\i (00:03:00) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) pick grid -0.0009 0.0138
+\t (00:03:01) last pick:  0.0000 0.0000
+\t (00:03:01) Enter text string.
+\i (00:03:03) setwindow pcb
+\i (00:03:03) pick 0.0000 0.0000
+\i (00:03:05) move 
+\t (00:03:05) Select element(s) to move.
+\i (00:03:06) pick grid -1.0080 0.7247
+\t (00:03:06) last pick:  -1.0000 0.7000
+\t (00:03:06) last pick:  0.0000 0.0000
+\t (00:03:06) Pick new location for the element(s).
+\i (00:03:13) pick grid -2.6274 3.2722
+\t (00:03:13) last pick:  -2.6500 3.2500
+\i (00:03:19) pick grid -4.9971 -4.8442
+\t (00:03:19) last pick:  -5.0000 -4.8500
+\t (00:03:19) last pick:  -5.0800 -5.0800
+\t (00:03:19) Pick new location for the element(s).
+\i (00:03:21) pick grid -4.9379 -4.0937
+\t (00:03:21) last pick:  -4.9500 -4.1000
+\i (00:03:22) delete 
+\i (00:03:23) pick grid -5.1748 -3.6198
+\t (00:03:23) last pick:  -5.1500 -3.6000
+\t (00:03:23) Text "Dev"
+\i (00:03:24) pick grid -5.0959 -3.5606
+\t (00:03:24) last pick:  -5.1000 -3.5500
+\i (00:03:31) dbdoctor 
+\i (00:03:33) setwindow form.dbdoctor_allegro
+\i (00:03:33) FORM dbdoctor_allegro shapes YES 
+\i (00:03:33) FORM dbdoctor_allegro drc YES 
+\i (00:03:34) FORM dbdoctor_allegro execute  
+\t (00:03:34) Dbdoctor in progress - wait...
+\t (00:03:34) Checking db records
+\t (00:03:34)     checking for orphans...
+\t (00:03:34)     Checked 100 percent
+\t (00:03:34) Regenerating DRC
+\t (00:03:34)   Original DRC errors: 0
+\t (00:03:34) Performing DRC...
+\t (00:03:34) No DRC errors detected.
+\t (00:03:34)   Updated DRC errors:  0
+\t (00:03:34) Done dbdoctor.
+\t (00:03:34) Dbdoctor completed.
+\i (00:03:36) FORM dbdoctor_allegro close  
+\i (00:03:36) setwindow pcb
+\i (00:03:36) generaledit 
+\i (00:03:39) save 
+\i (00:03:41) fillin yes 
+   (00:03:41) Loading signal.cxt 
+\t (00:03:42) Symbol 'sw_pcm12smtr.psm' created.
+\i (00:03:42) generaledit 
+\i (00:03:46) exit 
+\t (00:03:46)     Journal end - Mon Dec 07 23:56:56 2020
