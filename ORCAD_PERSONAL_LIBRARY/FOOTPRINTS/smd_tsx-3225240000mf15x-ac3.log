@@ -1,18 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : smd_TSX-3225240000MF15X-AC3.dra               )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Mon Dec 07 11:23:00 2020                      )
+(    Date/Time        : Mon Dec 07 11:23:05 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = smd_tsx-3225240000mf15x-ac3.psm
+    User      = Andreaa
+    Machine   = PORTATILE-HP
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:00
 
-0 warnings, 0 errors detected, 0 errors  fixed.
+Create symbol started.
+ 
+
+Create symbol completed.
+
