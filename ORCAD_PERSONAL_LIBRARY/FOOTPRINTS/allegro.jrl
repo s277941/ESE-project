@@ -1,19 +1,43 @@
 \t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Mon Dec 07 23:57:05 2020
-\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=11096 CPUs=4
-\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\SW_PCM12SMTR.dra
+\t (00:00:03)     Journal start - Tue Dec 08 13:24:18 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=15308 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\SM02B-SRSS-TBLFSN.dra
 \t (00:00:03) 
    (00:00:03) Loading axlcore.cxt 
 \t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SW_PCM12SMTR
-\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SW_PCM12SMTR.dra
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SM02B-SRSS-TBLFSN
+\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SM02B-SRSS-TBLFSN.dra
 \t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:06) trapsize 1191
-\i (00:00:06) trapsize 1226
-\i (00:00:06) trapsize 1191
-\i (00:00:06) trapsize 987
-\t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:06) trapsize 987
+\i (00:00:06) trapsize 1149
+\i (00:00:06) trapsize 1183
+\i (00:00:06) trapsize 1149
+\i (00:00:07) trapsize 952
+\t (00:00:07) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:07) trapsize 952
 \i (00:00:07) generaledit 
-\i (00:00:22) exit 
-\t (00:00:22)     Journal end - Mon Dec 07 23:57:24 2020
+\i (00:00:09) dbdoctor 
+\i (00:00:10) setwindow form.dbdoctor_allegro
+\i (00:00:10) FORM dbdoctor_allegro shapes YES 
+\i (00:00:11) FORM dbdoctor_allegro drc YES 
+\i (00:00:11) FORM dbdoctor_allegro execute  
+\t (00:00:11) Dbdoctor in progress - wait...
+\t (00:00:11) Checking db records
+\t (00:00:11)     checking for orphans...
+\t (00:00:11)     Checked 100 percent
+\t (00:00:11) Regenerating DRC
+\t (00:00:11)   Original DRC errors: 0
+\t (00:00:11) Performing DRC...
+\t (00:00:11) No DRC errors detected.
+\t (00:00:11)   Updated DRC errors:  0
+\t (00:00:11) Done dbdoctor.
+\t (00:00:11) Dbdoctor completed.
+\i (00:00:12) FORM dbdoctor_allegro close  
+\i (00:00:13) setwindow pcb
+\i (00:00:13) generaledit 
+\i (00:00:14) save 
+\i (00:00:15) fillin yes 
+   (00:00:15) Loading signal.cxt 
+\t (00:00:15) Symbol 'sm02b-srss-tblfsn.psm' created.
+\i (00:00:15) generaledit 
+\i (00:00:19) exit 
+\t (00:00:20)     Journal end - Tue Dec 08 13:24:35 2020

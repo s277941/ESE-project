@@ -28,6 +28,11 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (SM02B-SRSS-TBLFSN
+      (FullPartName "SM02B-SRSS-TBLFSN.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
     (GND_SIGNAL
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -140,9 +145,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1356 52 387")
-        (Scroll "-229 200")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1330 26 361")
+        (Scroll "797 750")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
