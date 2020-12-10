@@ -13,11 +13,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\orcad_my_library.olb"))
+      (Path "Design Resources" ".\orcad_my_library.olb")
+      (Select "Design Resources" ".\orcad_my_library.olb" "ALRTn_17048"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
       (Tab 0)))
   (MPSSessionName "Andreaa"))

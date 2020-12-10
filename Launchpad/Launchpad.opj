@@ -28,13 +28,34 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Antenna
+      (FullPartName "Antenna.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (SM02B-SRSS-TBLFSN
       (FullPartName "SM02B-SRSS-TBLFSN.Normal")
       (LibraryName
          "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (GND_SIGNAL
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
@@ -46,12 +67,6 @@
       (LibraryName
          "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (FTSH-105-01-L-D-RA-K
       (FullPartName "FTSH-105-01-L-D-RA-K.Normal")
       (LibraryName
@@ -60,11 +75,6 @@
     (SMLP36
       (FullPartName "SMLP36.Normal")
       (LibraryName "C:\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
     (SC20S-7PF20PPM
       (FullPartName "SC20S-7PF20PPM.Normal")
@@ -80,11 +90,6 @@
       (FullPartName "TI-CC2640.Normal")
       (LibraryName
          "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (L
-      (FullPartName "L.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
     (BLM18HE152SN1D
       (FullPartName "BLM18HE152SN1D.Normal")
@@ -135,7 +140,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Power"))
+      (Select "Design Resources" ".\launchpad.dsn" "Design Cache" "AT42QT2160"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -145,12 +150,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1330 26 361")
-        (Scroll "797 750")
+        (Placement "44 2 3 -1 -1 -8 -31 130 1434 130 465")
+        (Scroll "675 242")
         (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Power")))
+      (Page "Peripherals")))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))

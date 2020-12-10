@@ -1,45 +1,19 @@
-\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Tue Dec 08 12:37:36 2020
-\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=6948 CPUs=4
-\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\BEADC1608X95N.dra
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BEADC1608X95N
-\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/BEADC1608X95N.dra
-\t (00:00:07) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
-\i (00:00:07) trapsize 344
-\i (00:00:07) trapsize 354
-\i (00:00:07) trapsize 344
-\i (00:00:07) trapsize 285
-\t (00:00:07) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
-\i (00:00:07) trapsize 429
-\i (00:00:07) generaledit 
-\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:15) dbdoctor 
-\i (00:00:17) setwindow form.dbdoctor_allegro
-\i (00:00:17) FORM dbdoctor_allegro drc YES 
-\i (00:00:17) FORM dbdoctor_allegro shapes YES 
-\i (00:00:18) FORM dbdoctor_allegro execute  
-\t (00:00:18) Dbdoctor in progress - wait...
-\t (00:00:19) Checking db records
-\t (00:00:19)     checking for orphans...
-\t (00:00:19)     Checked 100 percent
-\t (00:00:19) Regenerating DRC
-\t (00:00:19)   Original DRC errors: 0
-\t (00:00:19) Performing DRC...
-\t (00:00:19) No DRC errors detected.
-\t (00:00:19)   Updated DRC errors:  0
-\t (00:00:19) Done dbdoctor.
-\t (00:00:19) Dbdoctor completed.
-\i (00:00:21) FORM dbdoctor_allegro close  
-\i (00:00:21) setwindow pcb
-\i (00:00:21) generaledit 
-\i (00:00:22) save 
-\i (00:00:23) fillin yes 
-   (00:00:23) Loading signal.cxt 
-\t (00:00:23) Symbol 'beadc1608x95n.psm' created.
-\i (00:00:24) generaledit 
-\i (00:00:25) exit 
-\t (00:00:25)     Journal end - Tue Dec 08 12:37:57 2020
+\t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Dec 09 16:38:10 2020
+\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=2132 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\CAPC0603X33N.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CAPC0603X33N
+\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/CAPC0603X33N.dra
+\t (00:00:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:05) trapsize 181
+\i (00:00:05) trapsize 187
+\i (00:00:05) trapsize 181
+\i (00:00:05) trapsize 150
+\t (00:00:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:05) trapsize 150
+\i (00:00:06) generaledit 
+\i (00:00:10) exit 
+\t (00:00:11)     Journal end - Wed Dec 09 16:38:19 2020
