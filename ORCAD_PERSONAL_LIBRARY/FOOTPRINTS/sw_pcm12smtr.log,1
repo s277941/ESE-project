@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW_PCM12SMTR.dra                              )
+(    Software Version : 17.2S071                                      )
+(    Date/Time        : Mon Dec 07 23:56:52 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = sw_pcm12smtr.psm
+    User      = Andreaa
+    Machine   = PORTATILE-HP
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

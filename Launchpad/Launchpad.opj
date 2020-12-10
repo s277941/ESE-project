@@ -28,6 +28,11 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (FerriteBead
+      (FullPartName "FerriteBead.Normal")
+      (LibraryName
+         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
     (GND_SIGNAL
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -140,7 +145,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\launchpad.dsn" "Design Cache" "AT42QT2160"))
+      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -150,12 +155,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1434 130 465")
-        (Scroll "675 242")
+        (Placement "44 2 3 -1 -1 -8 -31 104 1408 104 439")
+        (Scroll "513 400")
         (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Peripherals")))
+      (Page "Touch-sensor")))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))

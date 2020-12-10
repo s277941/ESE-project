@@ -1,19 +1,83 @@
 \t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Wed Dec 09 16:38:10 2020
-\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=2132 CPUs=4
-\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\CAPC0603X33N.dra
+\t (00:00:02)     Journal start - Thu Dec 10 23:07:32 2020
+\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=21396 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\SW_PCM12SMTR.dra
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CAPC0603X33N
-\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/CAPC0603X33N.dra
-\t (00:00:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
-\i (00:00:05) trapsize 181
-\i (00:00:05) trapsize 187
-\i (00:00:05) trapsize 181
-\i (00:00:05) trapsize 150
-\t (00:00:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
-\i (00:00:05) trapsize 150
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SW_PCM12SMTR
+\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SW_PCM12SMTR.dra
+\t (00:00:05) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:05) trapsize 1191
+\i (00:00:05) trapsize 1226
+\i (00:00:05) trapsize 1191
+\i (00:00:05) trapsize 987
+\t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:06) trapsize 987
 \i (00:00:06) generaledit 
-\i (00:00:10) exit 
-\t (00:00:11)     Journal end - Wed Dec 09 16:38:19 2020
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 0.7100 1.5541
+\i (00:00:08) trapsize 494
+\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:00:10) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:12) move 
+\t (00:00:12) Select element(s) to move.
+\i (00:00:13) pick grid -5.5895 0.9913
+\t (00:00:13) last pick:  -5.6000 1.0000
+\t (00:00:13) last pick:  -3.6500 0.9650
+\t (00:00:13) Pick new location for the element(s).
+\i (00:00:13) prepopup -5.5895 0.9913
+\i (00:00:14) oops 
+\t (00:00:14) last pick:  -5.6000 1.0000
+\i (00:00:17) setwindow form.find
+\i (00:00:17) FORM find all_off  
+\i (00:00:18) FORM find text YES 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid -5.2044 1.2974
+\t (00:00:19) last pick:  -5.2000 1.3000
+\t (00:00:19) last pick:  -4.9200 0.9650
+\t (00:00:19) Pick new location for the element(s).
+\i (00:00:22) pick grid -3.4172 0.6852
+\t (00:00:22) last pick:  -3.4000 0.7000
+\i (00:00:23) pick grid -5.0563 -0.8452
+\t (00:00:23) last pick:  -5.0500 -0.8500
+\t (00:00:23) last pick:  -4.9200 -0.9650
+\t (00:00:23) Pick new location for the element(s).
+\i (00:00:24) pick grid -3.6246 -1.2007
+\t (00:00:24) last pick:  -3.6000 -1.2000
+\i (00:00:25) pick grid -3.7529 2.0676
+\t (00:00:25) last pick:  -3.7500 2.0500
+\t (00:00:25) last pick:  -3.5200 1.7500
+\t (00:00:25) Pick new location for the element(s).
+\i (00:00:25) pick grid -2.0842 1.6134
+\t (00:00:25) last pick:  -2.1000 1.6000
+\i (00:00:27) pick grid -0.7216 1.8800
+\t (00:00:27) last pick:  -0.7000 1.9000
+\t (00:00:27) last pick:  -0.5200 1.7500
+\t (00:00:27) Pick new location for the element(s).
+\i (00:00:27) pick grid 0.7792 1.4850
+\t (00:00:27) last pick:  0.8000 1.5000
+\i (00:00:28) pick grid 0.8384 2.0873
+\t (00:00:28) last pick:  0.8500 2.1000
+\t (00:00:28) last pick:  0.9800 1.7500
+\t (00:00:28) Pick new location for the element(s).
+\i (00:00:29) pick grid 2.4282 1.8010
+\t (00:00:29) last pick:  2.4500 1.8000
+\i (00:00:29) pick grid 2.3097 1.1197
+\t (00:00:29) last pick:  2.3000 1.1000
+\t (00:00:29) last pick:  2.3800 0.9650
+\t (00:00:29) Pick new location for the element(s).
+\i (00:00:30) pick grid 3.9487 0.6655
+\t (00:00:30) last pick:  3.9500 0.6500
+\i (00:00:31) pick grid 2.1122 -0.7564
+\t (00:00:31) last pick:  2.1000 -0.7500
+\t (00:00:31) last pick:  2.3800 -0.9650
+\t (00:00:31) Pick new location for the element(s).
+\i (00:00:31) pick grid 4.0277 -1.2402
+\t (00:00:31) last pick:  4.0500 -1.2500
+\i (00:00:33) exit 
+\e (00:00:33) Do you want to save the changes you made to SW_PCM12SMTR.dra?
+\i (00:00:34) fillin yes 
+\t (00:00:35) Symbol 'sw_pcm12smtr.psm' created.
+\t (00:00:35)     Journal end - Thu Dec 10 23:08:05 2020
