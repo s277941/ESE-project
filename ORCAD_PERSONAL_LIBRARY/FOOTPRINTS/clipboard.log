@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : My_Q-Matrix-Button.dra                        )
+(    Software Version : 17.2S071                                      )
+(    Date/Time        : Fri Dec 11 22:50:37 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "ETCH/MIDLAYER2"
+*WARNING* (axlDBCreateOpenShape): No match for subclass name - "ETCH/MIDLAYER2"
+Unable to paste object of type "shape" on layer ETCH/MIDLAYER2 at (-6.2452 5.56)
+
+
+Clipboard Paste Session Completed at Dec 11 22:50:39 2020

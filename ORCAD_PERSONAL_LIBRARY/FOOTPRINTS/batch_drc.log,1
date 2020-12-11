@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : SAMTEC_FTSH-105-01-L-D-K.dra                  )
+(    Drawing          : Q-Matrix-Button.dra                           )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Tue Dec 08 12:35:09 2020                      )
+(    Date/Time        : Fri Dec 11 22:55:32 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  1
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

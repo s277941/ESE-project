@@ -1,41 +1,19 @@
 \t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Thu Dec 10 23:10:20 2020
-\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=19172 CPUs=4
-\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\smd_cc2640r2f_rgz_48.dra
+\t (00:00:02)     Journal start - Sat Dec 12 00:05:24 2020
+\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=7556 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\Q-Matrix-Button.dra
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
 \t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged smd_cc2640r2f_rgz_48
-\d (00:00:04) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_cc2640r2f_rgz_48.dra
-\t (00:00:05) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:05) trapsize 845
-\i (00:00:05) trapsize 870
-\i (00:00:05) trapsize 845
-\i (00:00:05) trapsize 700
-\t (00:00:05) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:05) trapsize 700
-\i (00:00:05) generaledit 
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in 4.4539 1.5897
-\i (00:00:47) trapsize 350
-\i (00:00:48) zoom out 1 
-\i (00:00:48) setwindow pcb
-\i (00:00:48) zoom out 0.8545 1.7368
-\i (00:00:48) trapsize 700
-\i (00:00:48) zoom out 1 
-\i (00:00:48) setwindow pcb
-\i (00:00:48) zoom out -2.7730 1.6948
-\t (00:00:48) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:48) trapsize 1401
-\i (00:00:49) zoom in 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in -1.3445 1.7927
-\t (00:00:49) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:49) trapsize 700
-\i (00:00:49) zoom in 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in -5.7423 1.7928
-\i (00:00:49) trapsize 350
-\i (00:00:52) exit 
-\t (00:00:52)     Journal end - Thu Dec 10 23:11:10 2020
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Q-Matrix-Button
+\d (00:00:04) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/Q-Matrix-Button.dra
+\t (00:00:05) Grids are drawn 0.2048, 0.2048 apart for enhanced viewing.
+\i (00:00:05) trapsize 2154
+\i (00:00:05) trapsize 2218
+\i (00:00:05) trapsize 2154
+\i (00:00:05) trapsize 1786
+\t (00:00:05) Grids are drawn 0.2048, 0.2048 apart for enhanced viewing.
+\i (00:00:05) trapsize 1786
+\i (00:00:06) shapeedit 
+\i (00:00:20) exit 
+\t (00:00:20)     Journal end - Sat Dec 12 00:05:42 2020

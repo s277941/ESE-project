@@ -14,7 +14,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "QMatrix_Button"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
