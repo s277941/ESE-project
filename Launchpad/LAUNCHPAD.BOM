@@ -1,0 +1,53 @@
+Launchpad - Microcontroller  Revised: Saturday, December 12, 2020
+Andrea Russo - Gianmarco Mongelli - Francesco Rota          Revision: 1.0
+
+
+
+
+
+
+
+Bill Of Materials       December 12,2020      16:31:46	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	A1	TI AN043
+2	16	B1,B2,B3,B4,B5,B6,B7,B8,	QMatrix_Button
+		B9,B10,B11,B12,B13,B14,
+		B15,B16
+3	3	C1,C2,C13	12pF
+4	9	C3,C6,C7,C8,C9,C10,C12,	100nF
+		C17,C22
+5	1	C4	1uF
+6	4	C5,C11,C18,C19	10uF
+7	2	C14,C15	1.2pF
+8	1	C16	330nF
+9	2	C20,C21	1u
+10	2	C23,C24	4.7 nF
+11	1	IC1	SC20S-7PF20PPM
+12	1	J1	FTSH-105-01-L-D-RA-K
+13	1	J2	1051640001
+14	1	J3	SM02B-SRSS-TBLFSN
+15	1	LED1	SMLP36
+16	1	L1	BLM18EG121SH1D
+17	1	L2	10uH
+18	1	L3	15nH
+19	1	L4	2nH
+20	1	R1	100kOhm
+21	6	R2,R3,R4,R12,R13,R14	3.3kOhm
+22	1	R5	240 Ohm 
+23	2	R6,R7	33kOhm
+24	2	R8,R11	33k
+25	1	R9	270 Ohm
+26	1	R10	82 Ohm
+27	10	R15,R16,R17,R18,R19,R20,	1kOhm
+		R21,R22,R23,R24
+28	2	R25,R26	1MOhm
+29	1	SW1	PCM12SMTR
+30	1	U1	TI-CC2640
+31	1	U2	MAX1759
+32	1	U3	MAX17048
+33	1	U4	MAXIM MAX1555
+34	1	U5	AT42QT2160
+35	1	Y1	TSX-3225240000MF15X-AC3

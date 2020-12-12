@@ -1,19 +1,44 @@
-\t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Sat Dec 12 00:05:24 2020
-\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=7556 CPUs=4
-\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\Q-Matrix-Button.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Q-Matrix-Button
-\d (00:00:04) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/Q-Matrix-Button.dra
-\t (00:00:05) Grids are drawn 0.2048, 0.2048 apart for enhanced viewing.
-\i (00:00:05) trapsize 2154
-\i (00:00:05) trapsize 2218
-\i (00:00:05) trapsize 2154
-\i (00:00:05) trapsize 1786
-\t (00:00:05) Grids are drawn 0.2048, 0.2048 apart for enhanced viewing.
-\i (00:00:05) trapsize 1786
-\i (00:00:06) shapeedit 
-\i (00:00:20) exit 
-\t (00:00:20)     Journal end - Sat Dec 12 00:05:42 2020
+\t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Dec 12 15:52:43 2020
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=4520 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\Qmatrix_Button.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Qmatrix_Button
+\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/Qmatrix_Button.dra
+\t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:06) trapsize 1093
+\i (00:00:06) trapsize 1135
+\i (00:00:06) trapsize 1181
+\i (00:00:06) trapsize 1135
+\i (00:00:06) trapsize 941
+\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:06) trapsize 1401
+\i (00:00:07) shapeedit 
+\i (00:00:14) dbdoctor 
+\i (00:00:15) setwindow form.dbdoctor_allegro
+\i (00:00:15) FORM dbdoctor_allegro drc YES 
+\i (00:00:15) FORM dbdoctor_allegro shapes YES 
+\i (00:00:16) FORM dbdoctor_allegro execute  
+\t (00:00:16) Dbdoctor in progress - wait...
+\t (00:00:16) Checking db records
+\t (00:00:16)     checking for orphans...
+\t (00:00:16)     Checked 100 percent
+\t (00:00:16) Regenerating DRC
+\t (00:00:16)   Original DRC errors: 2
+\t (00:00:16) Performing DRC...
+\t (00:00:16) DRC done; 2 errors detected.
+\t (00:00:16)   Updated DRC errors:  2
+\t (00:00:16) Done dbdoctor.
+\t (00:00:16) Dbdoctor completed.
+\i (00:00:18) FORM dbdoctor_allegro close  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) shapeedit 
+\i (00:00:19) save 
+\i (00:00:20) fillin yes 
+   (00:00:20) Loading signal.cxt 
+\t (00:00:20) Symbol 'qmatrix_button.psm' created.
+\i (00:00:20) shapeedit 
+\i (00:00:21) exit 
+\t (00:00:22)     Journal end - Sat Dec 12 15:53:02 2020

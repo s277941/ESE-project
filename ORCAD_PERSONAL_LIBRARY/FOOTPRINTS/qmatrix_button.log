@@ -1,18 +1,24 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : Qmatrix_Button.dra                            )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Sat Dec 12 15:52:56 2020                      )
+(    Date/Time        : Sat Dec 12 15:53:00 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = qmatrix_button.psm
+    User      = Andreaa
+    Machine   = PORTATILE-HP
 
-Regenerating DRC
-  Original DRC errors:   2
-  Updated DRC errors:    2
-  DRC elapsed time:      00:00:00
 
-0 warnings, 0 errors detected, 0 errors  fixed.
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : Q-Matrix-Button.dra                           )
+(    Drawing          : my_Qmatrix_Button.dra                         )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Fri Dec 11 23:08:48 2020                      )
+(    Date/Time        : Sat Dec 12 13:11:56 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  1
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
