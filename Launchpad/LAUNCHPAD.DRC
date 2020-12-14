@@ -1,11 +1,25 @@
-Date and Time : 12/14/20 17:58:41
+Date and Time : 12/14/20 21:18:58
 
 --------------------------------------------------
 Checking Schematic:  Launchpad
 --------------------------------------------------
 Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_6  Bidirectional Connected to Output
+                    Launchpad, Microcontroller  (2.50, 0.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,ALRTn  Output Connected to Bidirectional
+                    Launchpad, Power  (7.49, 1.50) 
 WARNING(ORCAP-1829): Possible pin type conflict GND_SIGNAL  Power Connected to Bidirectional
-                    Launchpad, Power  (2.01, 6.61) 
+                    Launchpad, Microcontroller  (1.80, 4.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VSS  Power Connected to Bidirectional
+                    Launchpad, Microcontroller  (2.50, 4.10) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,2  Bidirectional Connected to Power
+                    Launchpad, Power  (6.80, 4.50) 
+WARNING(ORCAP-1829): Possible pin type conflict LED1,CR  Bidirectional Connected to Power
+                    Launchpad, Power  (4.91, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict LED1,CG  Bidirectional Connected to Power
+                    Launchpad, Power  (4.91, 6.30) 
+WARNING(ORCAP-1829): Possible pin type conflict J3,1  Bidirectional Connected to Power
+                    Launchpad, Power  (6.80, 4.60) 
 WARNING(ORCAP-1829): Possible pin type conflict U2,FB  Bidirectional Connected to Power
                     Launchpad, Power  (2.90, 1.60) 
 WARNING(ORCAP-1829): Possible pin type conflict U2,GND  Bidirectional Connected to Power
@@ -14,40 +28,20 @@ WARNING(ORCAP-1829): Possible pin type conflict U2,PGND  Bidirectional Connected
                     Launchpad, Power  (2.90, 1.40) 
 WARNING(ORCAP-1829): Possible pin type conflict U4,GND  Bidirectional Connected to Power
                     Launchpad, Power  (3.36, 4.71) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,CTG  Bidirectional Connected to Power
+                    Launchpad, Power  (5.59, 1.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,GND  Power Connected to Bidirectional
+                    Launchpad, Power  (5.59, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,Vdd  Power Connected to Bidirectional
+                    Launchpad, Power  (5.59, 1.50) 
 WARNING(ORCAP-1829): Possible pin type conflict U4,BAT  Bidirectional Connected to Power
                     Launchpad, Power  (4.36, 4.21) 
-WARNING(ORCAP-1829): Possible pin type conflict LED1,CR  Bidirectional Connected to Power
-                    Launchpad, Power  (4.91, 6.00) 
-WARNING(ORCAP-1829): Possible pin type conflict LED1,CG  Bidirectional Connected to Power
-                    Launchpad, Power  (4.91, 6.30) 
-WARNING(ORCAP-1829): Possible pin type conflict U3,GND  Bidirectional Connected to Power
-                    Launchpad, Power  (5.79, 2.10) 
-WARNING(ORCAP-1829): Possible pin type conflict U3,CTG  Bidirectional Connected to Power
-                    Launchpad, Power  (5.79, 1.90) 
-WARNING(ORCAP-1829): Possible pin type conflict U3,Vdd  Bidirectional Connected to Power
-                    Launchpad, Power  (5.79, 1.50) 
-WARNING(ORCAP-1829): Possible pin type conflict U3,CELL  Bidirectional Connected to Power
-                    Launchpad, Power  (5.79, 1.70) 
-WARNING(ORCAP-1829): Possible pin type conflict J3,2  Bidirectional Connected to Power
-                    Launchpad, Power  (6.80, 4.50) 
-WARNING(ORCAP-1829): Possible pin type conflict J3,1  Bidirectional Connected to Power
-                    Launchpad, Power  (6.80, 4.60) 
-WARNING(ORCAP-1829): Possible pin type conflict U5,Vref  Power Connected to Bidirectional
-                    Launchpad, Touch-sensor  (3.80, 3.90) 
 WARNING(ORCAP-1829): Possible pin type conflict U5,Vss  Power Connected to Bidirectional
                     Launchpad, Touch-sensor  (3.80, 3.50) 
 WARNING(ORCAP-1829): Possible pin type conflict U5,Vss  Power Connected to Bidirectional
                     Launchpad, Touch-sensor  (3.80, 3.60) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,VSS  Power Connected to Bidirectional
-                    Launchpad, Microcontroller  (2.50, 4.10) 
-WARNING(ORCAP-1829): Possible pin type conflict U5,SDA  Output Connected to Bidirectional
-                    Launchpad, Touch-sensor  (3.80, 2.40) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_10  Bidirectional Connected to Output
-                    Launchpad, Microcontroller  (2.50, 1.30) 
-WARNING(ORCAP-1829): Possible pin type conflict U5,SCL  Output Connected to Bidirectional
-                    Launchpad, Touch-sensor  (3.80, 2.50) 
-WARNING(ORCAP-1829): Possible pin type conflict U1,DIO_11  Bidirectional Connected to Output
-                    Launchpad, Microcontroller  (2.50, 1.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,Vref  Power Connected to Bidirectional
+                    Launchpad, Touch-sensor  (3.80, 3.90) 
 
 Checking For Single Node Nets
 WARNING(ORCAP-1600): Net has fewer than two connections N02962 
@@ -57,9 +51,9 @@ WARNING(ORCAP-1600): Net has fewer than two connections N02954
 WARNING(ORCAP-1600): Net has fewer than two connections N19710 
                     Launchpad, Power  (2.78, 5.06) 
 WARNING(ORCAP-1600): Net has fewer than two connections VDD 
-                    Launchpad, Peripherals  (2.10, 2.00) 
+                    Launchpad, Peripherals  (1.80, 1.80) 
 WARNING(ORCAP-1600): Net has fewer than two connections VDD 
-                    Launchpad, Microcontroller  (1.10, 5.40) 
+                    Launchpad, Microcontroller  (0.70, 5.10) 
 WARNING(ORCAP-1600): Net has fewer than two connections GND 
                     Launchpad, Power  (0.88, 5.21) 
 WARNING(ORCAP-1600): Net has fewer than two connections VBUS 
@@ -67,8 +61,8 @@ WARNING(ORCAP-1600): Net has fewer than two connections VBUS
 
 Checking For Unconnected Bus Nets
 WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector VDD 
-                    Launchpad, Touch-sensor  (2.40, 1.80) 
+                    Launchpad, Touch-sensor  (4.80, 1.00) 
 WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector VDD 
-                    Launchpad, Peripherals  (2.10, 2.00) 
+                    Launchpad, Peripherals  (1.80, 1.80) 
 WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector VDD 
-                    Launchpad, Microcontroller  (1.10, 5.40) 
+                    Launchpad, Microcontroller  (0.70, 5.10) 

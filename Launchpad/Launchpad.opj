@@ -104,10 +104,10 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
-    (OFFPAGELEFT-L
+    (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (OFFPAGELEFT-R
+    (OFFPAGELEFT-L
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (QMatrix_Button
@@ -226,7 +226,8 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\launchpad.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -234,4 +235,5 @@
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
       (Tab 0)))
   (MPSSessionName "Andreaa")
-  (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY"))
+  (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY")
+  (ISPCBBASICLICENSE "false"))
