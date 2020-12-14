@@ -1,0 +1,308 @@
+\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Dec 14 21:34:04 2020
+\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=23676 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession Andreaa C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro\LAUNCHPAD.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LAUNCHPAD
+\d (00:00:05) Design opened: C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd
+\i (00:00:05) trapsize 8564
+\i (00:00:05) trapsize 8816
+\i (00:00:06) trapsize 8564
+\i (00:00:06) trapsize 6604
+\i (00:00:06) trapsize 11905
+\i (00:00:07) shapeedit 
+\i (00:02:06) prmed 
+\i (00:02:08) setwindow form.prmedit
+\i (00:02:08) FORM prmedit design  
+\i (00:02:13) FORM prmedit width 100.00 
+\i (00:02:13) FORM prmedit display  
+\i (00:02:14) FORM prmedit design  
+\i (00:02:16) FORM prmedit units Millimeter 
+   (00:02:16) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:02:17) fillin confirm
+\e (00:02:17) Change may cause round-off; run dbcheck.
+\i (00:02:19) FORM prmedit width 100.0000 
+\i (00:02:21) FORM prmedit height 100.0000 
+\i (00:02:41) FORM prmedit x -50.0000 
+\i (00:02:46) FORM prmedit y -50.0000 
+\i (00:02:59) FORM prmedit apply  
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:59) setwindow pcb
+\i (00:02:59) trapsize 7003
+\t (00:02:59) Performing DRC...
+\t (00:02:59) Multithreaded DRC update (4 threads).
+\t (00:03:00) No DRC errors detected.
+\i (00:03:01) setwindow form.prmedit
+\i (00:03:01) FORM prmedit text  
+\i (00:03:02) FORM prmedit design  
+\i (00:03:02) FORM prmedit display  
+\i (00:03:04) FORM prmedit display_plated_holes YES 
+\i (00:03:04) FORM prmedit display_backdrill_holes YES 
+\i (00:03:04) FORM prmedit display_non_plated_holes YES 
+\i (00:03:05) FORM prmedit display_thermal YES 
+\i (00:03:06) FORM prmedit display_grid YES 
+\i (00:03:07) FORM prmedit view_grids_button  
+\t (00:03:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:11) setwindow form.grid
+\i (00:03:11) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:03:12) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:03:13) FORM grid all_etch all_etch_x_grids 0.05 
+\i (00:03:14) FORM grid all_etch all_etch_y_grids 0.05 
+\i (00:03:14) FORM grid top subclass_x_grids 0.0500 
+\i (00:03:17) FORM grid top subclass_y_grids 0.0500 
+\i (00:03:17) FORM grid done  
+\t (00:03:17) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:03:18) setwindow form.prmedit
+\i (00:03:18) FORM prmedit apply  
+\i (00:03:25) FORM prmedit done  
+\i (00:03:25) setwindow pcb
+\i (00:03:25) shapeedit 
+\i (00:06:28) shape add rect 
+\i (00:06:33) setwindow form.mini
+\i (00:06:33) FORM mini class BOARD GEOMETRY 
+\i (00:06:39) FORM mini subclass DESIGN_OUTLINE 
+\i (00:06:41) FORM mini one_click YES 
+\i (00:06:47) FORM mini rec_width 8.5000 
+\i (00:06:49) FORM mini rec_height 12.0000 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in -3.2213 4.7619
+\t (00:06:53) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:06:53) trapsize 3501
+\i (00:06:54) zoom in 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom in -7.8432 6.1625
+\t (00:06:54) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:06:54) trapsize 1751
+\i (00:06:59) setwindow form.mini
+\i (00:06:59) FORM mini rec_width 85.0000 
+\i (00:07:02) FORM mini rec_height 120.0000 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out -13.2003 12.3951
+\t (00:07:03) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:07:03) trapsize 3501
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out -18.5574 12.3950
+\t (00:07:03) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:07:03) trapsize 7003
+\i (00:07:04) zoom out 1 
+\i (00:07:04) setwindow pcb
+\i (00:07:04) zoom out -41.7367 45.7983
+\i (00:07:04) trapsize 7003
+\i (00:07:07) zoom out 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom out -41.8767 46.7787
+\i (00:07:07) trapsize 7003
+\i (00:07:07) zoom out 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom out -41.8767 46.7787
+\i (00:07:07) trapsize 7003
+\i (00:07:21) setwindow form.mini
+\i (00:07:21) FORM mini rec_height 100.0000 
+\i (00:07:45) setwindow pcb
+\i (00:07:45) prmed 
+\i (00:07:47) setwindow form.prmedit
+\i (00:07:47) FORM prmedit design  
+\i (00:07:52) FORM prmedit width 200.0000 
+\i (00:07:55) FORM prmedit height 200.0000 
+\i (00:07:57) FORM prmedit x -100.0000 
+\i (00:08:02) FORM prmedit y -100.0000 
+\i (00:08:03) FORM prmedit apply  
+\i (00:08:03) setwindow pcb
+\i (00:08:03) trapsize 7003
+\i (00:08:03) setwindow form.prmedit
+\i (00:08:03) FORM prmedit done  
+\i (00:08:03) setwindow pcb
+\i (00:08:03) shapeedit 
+\i (00:08:06) shape add rect 
+\i (00:08:22) setwindow form.mini
+\i (00:08:22) FORM mini rec_height 120.0000 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom out 1 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom out -39.2157 46.7787
+\t (00:08:25) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:08:25) trapsize 14006
+\i (00:08:27) zoom in 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom in -40.3361 61.6247
+\t (00:08:27) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:08:27) trapsize 7003
+\i (00:08:39) setwindow form.mini
+\i (00:08:39) FORM mini rec_width 90.0000 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) pick -45 y 60 
+\t (00:08:52) last pick:  -45.0000 60.0000
+\i (00:08:53) zoom out 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 66.2465 49.8600
+\t (00:08:53) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:08:53) trapsize 14006
+\i (00:08:55) prepopup -57.7031 9.2437
+\i (00:08:56) done 
+\i (00:08:56) shapeedit 
+\i (00:08:58) zoom in 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom in 21.0084 -1.1204
+\t (00:08:58) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:08:58) trapsize 7003
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out -6.8627 -3.2213
+\t (00:08:58) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:08:58) trapsize 14006
+\i (00:09:34) zoom in 1 
+\i (00:09:34) setwindow pcb
+\i (00:09:34) zoom in -11.4846 -21.0084
+\t (00:09:34) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:09:35) trapsize 7003
+\i (00:09:35) zoom out 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom out -21.8487 -19.4678
+\t (00:09:35) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:09:35) trapsize 14006
+\i (00:09:36) zoom in 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom in 8.4034 -36.1344
+\t (00:09:36) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:09:36) trapsize 7003
+\i (00:09:37) zoom out 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom out -21.9888 -35.5742
+\t (00:09:37) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:09:37) trapsize 14006
+\i (00:11:42) zoom in 1 
+\i (00:11:42) setwindow pcb
+\i (00:11:42) zoom in 34.1737 -0.2801
+\t (00:11:42) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:11:42) trapsize 7003
+\i (00:11:46) roam y -96 
+\i (00:11:46) roam y -96
+\i (00:11:46) roam y -96 
+\i (00:11:46) roam y -96
+\i (00:11:46) roam y -96 
+\i (00:11:46) roam y -96
+\i (00:11:47) roam y 96 
+\i (00:11:47) roam y 96
+\t (00:11:56) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:11:56) trapsize 10031
+\i (00:11:58) trapsize 15924
+\i (00:12:10) trapsize 15873
+\i (00:12:10) trapsize 14837
+\i (00:12:10) trapsize 14388
+\i (00:12:10) trapsize 14205
+\i (00:12:17) zoom in 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom in 9.3750 5.6818
+\t (00:12:17) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:12:17) trapsize 7102
+\i (00:12:17) zoom in 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom in 14.0625 3.9773
+\t (00:12:17) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:12:17) trapsize 3551
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in 14.0625 3.8352
+\t (00:12:18) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:12:18) trapsize 1776
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out 10.2273 3.0185
+\t (00:12:18) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:12:18) trapsize 3551
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out 10.2273 3.0185
+\t (00:12:18) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:12:18) trapsize 7102
+\i (00:12:19) zoom out 1 
+\i (00:12:19) setwindow pcb
+\i (00:12:19) zoom out 10.2274 3.0185
+\t (00:12:19) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:12:19) trapsize 14205
+\i (00:12:20) zoom in 1 
+\i (00:12:20) setwindow pcb
+\i (00:12:20) zoom in 30.6818 5.6818
+\t (00:12:20) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:12:20) trapsize 7102
+\i (00:12:53) done 
+\i (00:12:53) place manual 
+\i (00:12:53) FORM plc_manual placement_list 
+\i (00:12:53) FORM plc_manual categories Components by refdes 
+\i (00:12:53) trapsize 7102
+\i (00:12:56) setwindow form.plc_manual
+\i (00:12:56) FORM plc_manual tree 'MULTISEL YES' A1 'Components by refdes' 
+\e (00:12:56) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:12:56) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:12:56) Cannot load symbol 'AN043_PATCH_ANTENNA'
+\e (00:12:56)   because WARNING(SPMHUT-127): Could not find padstack SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS.
+\i (00:12:56) FORM plc_manual tree  A1 'Components by refdes' 
+\i (00:12:59) FORM plc_manual tree 'MULTISEL NO' A1 'Components by refdes' 
+\i (00:13:02) FORM plc_manual tree 'MULTISEL YES' A1 'Components by refdes' 
+\e (00:13:02) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:13:02) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:13:02) Cannot load symbol 'AN043_PATCH_ANTENNA'
+\e (00:13:02)   because WARNING(SPMHUT-127): Could not find padstack SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS.
+\i (00:13:08) FORM plc_manual done  
+\i (00:13:08) setwindow pcb
+\i (00:13:08) shapeedit 
+\i (00:13:11) done 
+\i (00:13:11) place manual 
+\i (00:13:11) FORM plc_manual placement_list 
+\i (00:13:11) FORM plc_manual categories Components by refdes 
+\i (00:13:11) trapsize 7102
+\i (00:13:13) setwindow form.plc_manual
+\i (00:13:13) FORM plc_manual tree 'MULTISEL YES' A1 'Components by refdes' 
+\e (00:13:13) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:13:13) ERROR(SPMHSY-24): 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', not found in search path.
+\e (00:13:13) Cannot load symbol 'AN043_PATCH_ANTENNA'
+\e (00:13:13)   because WARNING(SPMHUT-127): Could not find padstack SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS.
+\i (00:13:13) FORM plc_manual tree  A1 'Components by refdes' 
+\i (00:13:46) FORM plc_manual done  
+\i (00:13:46) setwindow pcb
+\i (00:13:46) shapeedit 
+\i (00:13:50) save 
+\i (00:13:51) fillin yes 
+\i (00:13:51) shapeedit 
+\i (00:13:53) done 
+\i (00:13:53) place manual 
+\i (00:13:54) FORM plc_manual placement_list 
+\i (00:13:54) FORM plc_manual categories Components by refdes 
+\i (00:13:54) trapsize 7102
+\i (00:13:55) setwindow form.plc_manual
+\i (00:13:55) FORM plc_manual tree 'MULTISEL YES' B2 'Components by refdes' 
+\t (00:13:55) Placing B2 / QMATRIX_BUTTON_QMATRIX_BUTTON_T / QMATRIX_BUTTON_TOP on Top.
+\i (00:13:55) FORM plc_manual tree  B2 'Components by refdes' 
+\i (00:13:59) FORM plc_manual tree 'MULTISEL NO' B2 'Components by refdes' 
+\i (00:14:00) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\e (00:14:00) ERROR(SPMHSY-24): 'SMD_RECT_0D7_0D95_0603', not found in search path.
+\e (00:14:00) ERROR(SPMHSY-24): 'SMD_RECT_0D7_0D95_0603', not found in search path.
+\e (00:14:00) Cannot load symbol '0603_C'
+\e (00:14:00)   because WARNING(SPMHUT-127): Could not find padstack SMD_RECT_0D7_0D95_0603.
+\i (00:14:00) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:14:10) FORM plc_manual tree 'MULTISEL NO' C1 'Components by refdes' 
+\i (00:14:13) FORM plc_manual tree 'MULTISEL YES' C17 'Components by refdes' 
+\e (00:14:13) ERROR(SPMHSY-24): 'SMD_RECT_0D7_0D95_0603', not found in search path.
+\e (00:14:13) ERROR(SPMHSY-24): 'SMD_RECT_0D7_0D95_0603', not found in search path.
+\e (00:14:13) Cannot load symbol '0603_C'
+\e (00:14:13)   because WARNING(SPMHUT-127): Could not find padstack SMD_RECT_0D7_0D95_0603.
+\i (00:14:13) FORM plc_manual tree  C17 'Components by refdes' 
+\i (00:14:18) FORM plc_manual cancel  
+\i (00:14:19) setwindow pcb
+\i (00:14:19) shapeedit 
+\i (00:14:20) zoom out 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom out 3.6932 13.4943
+\t (00:14:20) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:14:20) trapsize 14205
+\i (00:14:23) exit 
+\e (00:14:23) Do you want to save the changes you made to C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd?
+\i (00:14:27) fillin yes 
+\t (00:14:27)     Journal end - Mon Dec 14 21:48:27 2020

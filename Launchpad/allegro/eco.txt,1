@@ -1,0 +1,575 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ALRTN_17048  pins ADDED TO this new net
+                                 R2.1           U1.11          U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CHANGE_N     pins ADDED TO this new net
+                                 R12.1          U1.18          U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCDC_SW      pins ADDED TO this new net
+                                 L2.1           U1.33          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DCOUPL       pins ADDED TO this new net
+                                 C4.2           U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_SIGNAL   pins ADDED TO this new net
+                                 A1.1           C1.1           C2.1           
+                                 C3.1           C4.1           C5.1           
+                                 C6.1           C7.1           C8.1           
+                                 C9.1           C10.1          C11.1          
+                                 C12.1          C14.1          C15.1          
+                                 C17.1          C17.2          C18.1          
+                                 C19.1          C20.1          C20.2          
+                                 C21.1          C22.2          J1.3           
+                                 J1.5           J1.9           J3.1           
+                                 J3.2           LED1.4         LED1.5         
+                                 R6.1           R7.1           R8.2           
+                                 R11.2          SW1.1          U1.49          
+                                 U2.5           U2.6           U2.10          
+                                 U3.1           U3.3           U3.4           
+                                 U3.9           U4.2           U4.5           
+                                 U5.4           U5.8           U5.18          
+                                 Y1.2           Y1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2CA0_QT2160 pins ADDED TO this new net
+                                 U1.19          U5.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2CA1_QT2160 pins ADDED TO this new net
+                                 U1.20          U5.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_BLUE     pins ADDED TO this new net
+                                 LED1.1         R5.1           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_GREEN    pins ADDED TO this new net
+                                 R10.1          U1.9           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LED_RED      pins ADDED TO this new net
+                                 R9.1           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01048       pins ADDED TO this new net
+                                 C16.1          U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01939       pins ADDED TO this new net
+                                 C21.2          U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02954       pins ADDED TO this new net
+                                 R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02962       pins ADDED TO this new net
+                                 R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N007970      pins ADDED TO this new net
+                                 C16.2          U2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09779       pins ADDED TO this new net
+                                 R15.1          U5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09783       pins ADDED TO this new net
+                                 R16.1          U5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09795       pins ADDED TO this new net
+                                 R17.1          U5.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09799       pins ADDED TO this new net
+                                 R18.1          U5.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09803       pins ADDED TO this new net
+                                 R19.1          U5.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09807       pins ADDED TO this new net
+                                 R20.1          U5.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09811       pins ADDED TO this new net
+                                 R21.1          U5.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09815       pins ADDED TO this new net
+                                 R22.1          U5.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11484       pins ADDED TO this new net
+                                 C23.2          R23.1          U5.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N11551       pins ADDED TO this new net
+                                 C23.1          C24.1          R25.2          
+                                 R26.2          U5.19          U5.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11691       pins ADDED TO this new net
+                                 C24.2          R24.1          U5.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11800       pins ADDED TO this new net
+                                 R25.1          R26.1          U5.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16165       pins ADDED TO this new net
+                                 U1.47          Y1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16180       pins ADDED TO this new net
+                                 U1.46          Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16326       pins ADDED TO this new net
+                                 C1.2           IC1.1          U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16335       pins ADDED TO this new net
+                                 C2.2           IC1.2          U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19710       pins ADDED TO this new net
+                                 R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20124       pins ADDED TO this new net
+                                 LED1.6         U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20418       pins ADDED TO this new net
+                                 LED1.3         R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20445       pins ADDED TO this new net
+                                 LED1.2         R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N41051       pins ADDED TO this new net
+                                 R7.2           SW1.S1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N45879       pins ADDED TO this new net
+                                 R6.2           SW1.S3         SW1.S4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N47314       pins ADDED TO this new net
+                                 C13.1          C15.2          L4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N47318       pins ADDED TO this new net
+                                 A1.2           C13.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  RF_N         pins ADDED TO this new net
+                                 L3.1           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_P         pins ADDED TO this new net
+                                 C14.2          L3.2           L4.1           
+                                 U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RST          pins ADDED TO this new net
+                                 C3.2           J1.10          R1.1           
+                                 U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL_17048    pins ADDED TO this new net
+                                 R4.1           U1.14          U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL_QT2160   pins ADDED TO this new net
+                                 R13.1          U1.17          U5.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA_17048    pins ADDED TO this new net
+                                 R3.1           U1.12          U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA_QT2160   pins ADDED TO this new net
+                                 R14.1          U1.16          U5.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SW_OUT       pins ADDED TO this new net
+                                 C18.2          SW1.2          U2.2           
+                                 U2.3           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TCKC         pins ADDED TO this new net
+                                 J1.4           U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TDI          pins ADDED TO this new net
+                                 J1.8           U1.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TDO          pins ADDED TO this new net
+                                 J1.6           U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TMSC         pins ADDED TO this new net
+                                 J1.2           U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBUS         pins ADDED TO this new net
+                                 J2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD          pins ADDED TO this new net
+                                 L1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VDDR         pins ADDED TO this new net
+                                 C7.2           C8.2           C9.2           
+                                 L2.2           U1.45          U1.48          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDS         pins ADDED TO this new net
+                                 C5.2           C6.2           C10.2          
+                                 C11.2          C12.2          L1.2           
+                                 R1.2           U1.13          U1.22          
+                                 U1.34          U1.44          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_797      pins ADDED TO this new net
+                                 C19.2          R2.2           R3.2           
+                                 R4.2           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_9243     pins ADDED TO this new net
+                                 C22.1          R12.2          R13.2          
+                                 R14.2          U5.3           U5.16          
+                                 U5.17          U5.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_29695    pins ADDED TO this new net
+                                 J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X0           pins ADDED TO this new net
+                                 B1.1           B9.1           R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X1           pins ADDED TO this new net
+                                 B2.1           B10.1          R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X2           pins ADDED TO this new net
+                                 B3.1           B11.1          R17.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X3           pins ADDED TO this new net
+                                 B4.1           B12.1          R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X4           pins ADDED TO this new net
+                                 B5.1           B13.1          R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X5           pins ADDED TO this new net
+                                 B6.1           B14.1          R20.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X6           pins ADDED TO this new net
+                                 B7.1           B15.1          R21.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X7           pins ADDED TO this new net
+                                 B8.1           B16.1          R22.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  Y0           pins ADDED TO this new net
+                                 B1.2           B2.2           B3.2           
+                                 B4.2           B5.2           B6.2           
+                                 B7.2           B8.2           R23.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  Y1           pins ADDED TO this new net
+                                 B9.2           B10.2          B11.2          
+                                 B12.2          B13.2          B14.2          
+                                 B15.2          B16.2          R24.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1051640001_MOLEX_105164-0001_10
+ ANTENNA_AN043_PATCH_ANTENNA_TI
+ AT42QT2160_QFN45P400X400X90-29N
+ C_0603_C_1.2PF
+ C_0603_C_1U
+ C_0603_C_1UF
+ C_0603_C_4.7 NF
+ C_0603_C_10UF
+ C_0603_C_12PF
+ C_0603_C_100NF
+ C_0603_C_330NF
+ FERRITEBEAD_0603_L_BLM18EG121SH
+ FTSH-105-01-L-D-RA-K_SAMTEC_FTS
+ L_0603_L_2NH
+ L_0603_L_10UH
+ L_0603_L_15NH
+ MAX1555_SMD_MAX1555_MAXIM MAX15
+ MAX1759_SMD_MAX1759_MAX1759
+ MAX17048_SMD_MAX17048_MAX17048
+ PCM12SMTR_SW_PCM12SMTR_PCM12SMT
+ QMATRIX_BUTTON_QMATRIX_BUTTON_T
+ R_0603_R_1KOHM
+ R_0603_R_1MOHM
+ R_0603_R_3.3KOHM
+ R_0603_R_33K
+ R_0603_R_33KOHM
+ R_0603_R_82 OHM
+ R_0603_R_100KOHM
+ R_0603_R_240 OHM
+ R_0603_R_270 OHM
+ SC20S-7PF20PPM_SMD_SC20S-7PF20P
+ SM02B-SRSS-TBLFSN_SM02B-SRSS-TB
+ SMLP36_SMD_SMLP36_SMLP36
+ TI-CC2640_SMD_CC2640R2F_RGZ_48_
+ TSX-3225240000MF15X-AC3_SMD_TSX
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ A1                  ANTENNA_AN043_PATCH_ANTENNA_TI 
+ B1                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B2                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B3                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B4                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B5                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B6                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B7                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B8                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B9                  QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B10                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B11                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B12                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B13                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B14                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B15                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ B16                 QMATRIX_BUTTON_QMATRIX_BUTTON_T 
+ C1                  C_0603_C_12PF         
+ C2                  C_0603_C_12PF         
+ C3                  C_0603_C_100NF        
+ C4                  C_0603_C_1UF          
+ C5                  C_0603_C_100NF        
+ C6                  C_0603_C_100NF        
+ C7                  C_0603_C_10UF         
+ C8                  C_0603_C_100NF        
+ C9                  C_0603_C_100NF        
+ C10                 C_0603_C_100NF        
+ C11                 C_0603_C_10UF         
+ C12                 C_0603_C_100NF        
+ C13                 C_0603_C_12PF         
+ C14                 C_0603_C_1.2PF        
+ C15                 C_0603_C_1.2PF        
+ C16                 C_0603_C_330NF        
+ C17                 C_0603_C_100NF        
+ C18                 C_0603_C_10UF         
+ C19                 C_0603_C_10UF         
+ C20                 C_0603_C_1U           
+ C21                 C_0603_C_1U           
+ C22                 C_0603_C_100NF        
+ C23                 C_0603_C_4.7 NF       
+ C24                 C_0603_C_4.7 NF       
+ IC1                 SC20S-7PF20PPM_SMD_SC20S-7PF20P 
+ J1                  FTSH-105-01-L-D-RA-K_SAMTEC_FTS 
+ J2                  1051640001_MOLEX_105164-0001_10 
+ J3                  SM02B-SRSS-TBLFSN_SM02B-SRSS-TB 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L1                  FERRITEBEAD_0603_L_BLM18EG121SH 
+ L2                  L_0603_L_10UH         
+ L3                  L_0603_L_15NH         
+ L4                  L_0603_L_2NH          
+ LED1                SMLP36_SMD_SMLP36_SMLP36 
+ R1                  R_0603_R_100KOHM      
+ R2                  R_0603_R_3.3KOHM      
+ R3                  R_0603_R_3.3KOHM      
+ R4                  R_0603_R_3.3KOHM      
+ R5                  R_0603_R_240 OHM      
+ R6                  R_0603_R_33KOHM       
+ R7                  R_0603_R_33KOHM       
+ R8                  R_0603_R_33K          
+ R9                  R_0603_R_270 OHM      
+ R10                 R_0603_R_82 OHM       
+ R11                 R_0603_R_33K          
+ R12                 R_0603_R_3.3KOHM      
+ R13                 R_0603_R_3.3KOHM      
+ R14                 R_0603_R_3.3KOHM      
+ R15                 R_0603_R_1KOHM        
+ R16                 R_0603_R_1KOHM        
+ R17                 R_0603_R_1KOHM        
+ R18                 R_0603_R_1KOHM        
+ R19                 R_0603_R_1KOHM        
+ R20                 R_0603_R_1KOHM        
+ R21                 R_0603_R_1KOHM        
+ R22                 R_0603_R_1KOHM        
+ R23                 R_0603_R_1KOHM        
+ R24                 R_0603_R_1KOHM        
+ R25                 R_0603_R_1MOHM        
+ R26                 R_0603_R_1MOHM        
+ SW1                 PCM12SMTR_SW_PCM12SMTR_PCM12SMT 
+ U1                  TI-CC2640_SMD_CC2640R2F_RGZ_48_ 
+ U2                  MAX1759_SMD_MAX1759_MAX1759 
+ U3                  MAX17048_SMD_MAX17048_MAX17048 
+ U4                  MAX1555_SMD_MAX1555_MAXIM MAX15 
+ U5                  AT42QT2160_QFN45P400X400X90-29N 
+ Y1                  TSX-3225240000MF15X-AC3_SMD_TSX 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ A1.1                           PRIM_FILE      .\pstchip.dat
+ B1.2                           PRIM_FILE      .\pstchip.dat
+ B2.2                           PRIM_FILE      .\pstchip.dat
+ B3.2                           PRIM_FILE      .\pstchip.dat
+ B4.2                           PRIM_FILE      .\pstchip.dat
+ B5.2                           PRIM_FILE      .\pstchip.dat
+ B6.2                           PRIM_FILE      .\pstchip.dat
+ B7.2                           PRIM_FILE      .\pstchip.dat
+ B8.2                           PRIM_FILE      .\pstchip.dat
+ B9.2                           PRIM_FILE      .\pstchip.dat
+ B10.2                          PRIM_FILE      .\pstchip.dat
+ B11.2                          PRIM_FILE      .\pstchip.dat
+ B12.2                          PRIM_FILE      .\pstchip.dat
+ B13.2                          PRIM_FILE      .\pstchip.dat
+ B14.2                          PRIM_FILE      .\pstchip.dat
+ B15.2                          PRIM_FILE      .\pstchip.dat
+ B16.2                          PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ IC1.2                          PRIM_FILE      .\pstchip.dat
+ J1.9                           PRIM_FILE      .\pstchip.dat
+ J2.1                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ L4.2                           PRIM_FILE      .\pstchip.dat
+ LED1.5                         PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ SW1.S4                         PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U3.1                           PRIM_FILE      .\pstchip.dat
+ U4.1                           PRIM_FILE      .\pstchip.dat
+ U5.20                          PRIM_FILE      .\pstchip.dat
+ Y1.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd                        |
+|                                                    Mon Dec 14 22:28:42 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     248                                        |
+|       Comp definitions added:      35                                        |
+|       Components added      :      83                                        |
+|       Slot property added   :      83                                        |
+|                                                                              |
+|   Total ECO changes reported:     449                                        |
+|------------------------------------------------------------------------------|

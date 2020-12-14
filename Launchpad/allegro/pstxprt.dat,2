@@ -1,0 +1,840 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-14-2020 at 22:21:55 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LAUNCHPAD';
+ POST_TIME='Sep 27 2020 03:58:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTENNA_AN043_PATCH_ANTENNA_TI':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS50574@ORCAD_MY_LIBRARY.ANTENNA.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins50574@orcad_my_library.\antenna.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins50574@orcad_my_library.\antenna.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B1 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55676@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55676@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55676@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B10 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56020@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56020@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56020@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B11 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56044@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56044@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56044@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B12 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56068@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56068@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56068@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B13 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56196@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56196@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56196@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B14 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56220@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56220@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56220@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B15 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56244@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56244@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56244@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B16 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS56268@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins56268@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins56268@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B2 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55700@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55700@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55700@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B3 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55724@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55724@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55724@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B4 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55748@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55748@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55748@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B5 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55844@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55844@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55844@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B6 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55868@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55868@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55868@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B7 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55892@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55892@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55892@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B8 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55916@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55916@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55916@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ B9 'QMATRIX_BUTTON_QMATRIX_BUTTON_T':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS55996@ORCAD_MY_LIBRARY.QMATRIX_BUTTON.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins55996@orcad_my_library.\qmatrix_button.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page4_ins55996@orcad_my_library.\qmatrix_button.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'C_0603_C_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS16395@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins16395@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins16395@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS25939@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins25939@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins25939@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_0603_C_10UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12926@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins12926@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins12926@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12942@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins12942@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins12942@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_0603_C_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47298@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins47298@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins47298@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_0603_C_1.2PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47077@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins47077@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins47077@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_0603_C_1.2PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47261@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins47261@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins47261@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_0603_C_330NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS1028@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins1028@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins1028@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS4054@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins4054@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins4054@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_0603_C_10UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS484@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins484@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins484@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_0603_C_10UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS1293@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins1293@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins1293@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_0603_C_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS16417@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins16417@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins16417@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_0603_C_1U':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS1952@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins1952@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins1952@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_0603_C_1U':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS1968@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins1968@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins1968@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11199@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11199@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11199@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C_0603_C_4.7 NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11530@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11530@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11530@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C_0603_C_4.7 NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11693@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11693@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11693@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS17257@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins17257@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins17257@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_0603_C_1UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS14793@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins14793@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins14793@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12894@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins12894@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins12894@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12910@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins12910@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins12910@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0603_C_10UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13497@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins13497@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins13497@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13513@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins13513@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins13513@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13529@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins13529@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins13529@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'SC20S-7PF20PPM_SMD_SC20S-7PF20P':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS16278@ORCAD_MY_LIBRARY.SC20S-7PF20PPM.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins16278@orcad_my_library.\sc20s-7pf20ppm.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins16278@orcad_my_library.\sc20s-7pf20ppm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'FTSH-105-01-L-D-RA-K_SAMTEC_FTS':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS29669@ORCAD_MY_LIBRARY.FTSH-105-01-L-D-RA-K.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins29669@orcad_my_library.\ftsh-105-01-l-d-ra-k.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins29669@orcad_my_library.\ftsh-105-01-l-d-ra-k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 '1051640001_MOLEX_105164-0001_10':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS2330@ORCAD_MY_LIBRARY.1051640001.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins2330@orcad_my_library.\1051640001.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins2330@orcad_my_library.\1051640001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'SM02B-SRSS-TBLFSN_SM02B-SRSS-TB':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS42900@ORCAD_MY_LIBRARY.SM02B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins42900@orcad_my_library.\sm02b-srss-tblfsn.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins42900@orcad_my_library.\sm02b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'FERRITEBEAD_0603_L_BLM18EG121SH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS51746@ORCAD_MY_LIBRARY.FERRITEBEAD.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins51746@orcad_my_library.\ferritebead.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins51746@orcad_my_library.\ferritebead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'L_0603_L_10UH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13457@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins13457@analog.\l.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins13457@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'L_0603_L_15NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47061@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins47061@analog.\l.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins47061@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'L_0603_L_2NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47216@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins47216@analog.\l.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins47216@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'SMLP36_SMD_SMLP36_SMLP36':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS19106@ORCAD_MY_LIBRARY.SMLP36.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins19106@orcad_my_library.\smlp36.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins19106@orcad_my_library.\smlp36.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0603_R_100KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS14947@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins14947@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins14947@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0603_R_82 OHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS19895@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins19895@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins19895@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0603_R_33K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS2915@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins2915@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins2915@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10936@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10936@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10936@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10910@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10910@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10910@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10817@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10817@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10817@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS9828@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins9828@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins9828@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10024@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10024@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10024@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10052@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10052@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10052@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10080@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10080@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10080@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10108@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10108@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10108@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS4300@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins4300@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins4300@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10136@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10136@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10136@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10164@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10164@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10164@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10192@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins10192@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins10192@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11564@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11564@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11564@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0603_R_1KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11673@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11673@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11673@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0603_R_1MOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11739@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11739@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11739@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0603_R_1MOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS11764@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins11764@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins11764@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS4326@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins4326@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins4326@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0603_R_3.3KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS4352@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins4352@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins4352@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0603_R_240 OHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS19694@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins19694@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins19694@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0603_R_33KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS41097@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins41097@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins41097@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0603_R_33KOHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS41115@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins41115@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins41115@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0603_R_33K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS2931@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins2931@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins2931@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0603_R_270 OHM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS22222@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins22222@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins22222@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'PCM12SMTR_SW_PCM12SMTR_PCM12SMT':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS40838@ORCAD_MY_LIBRARY.PCM12SMTR.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins40838@orcad_my_library.\pcm12smtr.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins40838@orcad_my_library.\pcm12smtr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TI-CC2640_SMD_CC2640R2F_RGZ_48_':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS14228@ORCAD_MY_LIBRARY.TI-CC2640.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins14228@orcad_my_library.\ti-cc2640.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins14228@orcad_my_library.\ti-cc2640.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MAX1759_SMD_MAX1759_MAX1759':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS771@ORCAD_MY_LIBRARY.MAX1759.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins771@orcad_my_library.\max1759.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins771@orcad_my_library.\max1759.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MAX17048_SMD_MAX17048_MAX17048':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS3500@ORCAD_MY_LIBRARY.MAX17048.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins3500@orcad_my_library.\max17048.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins3500@orcad_my_library.\max17048.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MAX1555_SMD_MAX1555_MAXIM MAX15':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS1862@ORCAD_MY_LIBRARY.MAX1555.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins1862@orcad_my_library.\max1555.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page3_ins1862@orcad_my_library.\max1555.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'AT42QT2160_QFN45P400X400X90-29N':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS9175@ORCAD_MY_LIBRARY.AT42QT2160.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins9175@orcad_my_library.\at42qt2160.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page5_ins9175@orcad_my_library.\at42qt2160.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'TSX-3225240000MF15X-AC3_SMD_TSX':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS15329@ORCAD_MY_LIBRARY.TSX-3225240000MF15X-AC3.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins15329@orcad_my_library.\tsx-3225240000mf15x-ac3.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins15329@orcad_my_library.\tsx-3225240000mf15x-ac3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

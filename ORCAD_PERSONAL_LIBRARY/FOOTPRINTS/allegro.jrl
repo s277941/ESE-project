@@ -1,148 +1,22 @@
-\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Mon Dec 14 17:51:52 2020
-\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=10504 CPUs=4
-\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\Qmatrix_Button_top.dra
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
+\t (00:00:02) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Dec 14 22:26:30 2020
+\t (00:00:02)         Host=PORTATILE-HP User=Andreaa Pid=22712 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\QFN45P400X400X90-29N-D.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
 \t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Qmatrix_Button_top
-\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/Qmatrix_Button_top.dra
-\t (00:00:05) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:05) trapsize 1093
-\i (00:00:05) trapsize 1135
-\i (00:00:05) trapsize 1181
-\i (00:00:05) trapsize 1135
-\i (00:00:05) trapsize 941
-\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:06) trapsize 1401
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged QFN45P400X400X90-29N-D
+\d (00:00:05) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/QFN45P400X400X90-29N-D.dra
+\i (00:00:05) trapsize 570
+\i (00:00:05) trapsize 587
+\i (00:00:05) trapsize 570
+\i (00:00:05) trapsize 472
+\i (00:00:06) trapsize 472
 \i (00:00:06) shapeedit 
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in -0.0560 7.1429
-\t (00:00:09) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:09) trapsize 700
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in -5.0280 7.1429
-\i (00:00:09) trapsize 350
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out 0.0560 6.9118
-\i (00:00:11) trapsize 700
-\i (00:00:12) zoom out 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom out 0.8403 2.6962
-\t (00:00:12) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:12) trapsize 1401
-\i (00:00:14) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:00:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKT"
-\i (00:00:16) color -globvis off 
-\i (00:00:16) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:16) color -vis 'DRC ERROR CLASS/SOLDERMASK_TOP' 
-\i (00:00:16) color -vis PIN/SOLDERMASK_TOP 
-\i (00:00:16) color -vis 'VIA CLASS/SOLDERMASK_TOP' 
-\i (00:00:16) trapsize 1401
-\i (00:00:16) shapeedit 
-\i (00:00:18) zoom in 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom in 0.5882 -7.4790
-\t (00:00:18) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:18) trapsize 700
-\i (00:00:19) zoom out 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom out -0.7003 -6.2325
-\t (00:00:19) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:19) trapsize 1401
-\i (00:00:20) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:00:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SOLDERMASKB"
-\i (00:00:22) color -globvis off 
-\i (00:00:22) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:22) color -vis 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:00:22) color -vis PIN/SOLDERMASK_BOTTOM 
-\i (00:00:22) color -vis 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:00:22) trapsize 1401
-\i (00:00:22) shapeedit 
-\i (00:00:23) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:00:23) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ETCHB"
-\i (00:00:26) color -globvis off 
-\i (00:00:26) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:26) color -vis 'DRC ERROR CLASS/BOTTOM' 
-\i (00:00:26) color -vis ETCH/BOTTOM 
-\i (00:00:26) color -vis PIN/BOTTOM 
-\i (00:00:26) color -vis 'VIA CLASS/BOTTOM' 
-\i (00:00:26) color -vis 'ANTI ETCH/BOTTOM' 
-\i (00:00:26) color -vis BOUNDARY/BOTTOM 
-\i (00:00:27) color -vis CAVITY/BOTTOM 
-\i (00:00:27) trapsize 1401
-\i (00:00:27) shapeedit 
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in 1.6807 -6.5266
-\t (00:00:28) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:28) trapsize 700
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in -4.1597 -6.5266
-\i (00:00:28) trapsize 350
-\i (00:00:29) zoom out 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom out 0.1261 -5.9243
-\i (00:00:29) trapsize 700
-\i (00:00:30) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:00:30) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:31) zoom out 1 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) zoom out 5.4902 -1.1064
-\t (00:00:31) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:31) trapsize 1401
-\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILKSCREENB"
-\i (00:00:37) color -globvis off 
-\i (00:00:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:37) color -vis 'BOARD GEOMETRY/SILKSCREEN_BOTTOM' 
-\i (00:00:37) color -vis 'COMPONENT VALUE/SILKSCREEN_BOTTOM' 
-\i (00:00:37) color -vis 'DEVICE TYPE/SILKSCREEN_BOTTOM' 
-\i (00:00:37) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' 
-\i (00:00:37) color -vis 'REF DES/SILKSCREEN_BOTTOM' 
-\i (00:00:37) color -vis TOLERANCE/SILKSCREEN_BOTTOM 
-\i (00:00:37) color -vis 'USER PART NUMBER/SILKSCREEN_BOTTOM' 
-\i (00:00:37) trapsize 1401
-\i (00:00:37) shapeedit 
-\i (00:00:41) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILKSCREENT"
-\i (00:00:41) color -globvis off 
-\i (00:00:41) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:00:41) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
-\i (00:00:41) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
-\i (00:00:41) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
-\i (00:00:41) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:00:41) color -vis 'REF DES/SILKSCREEN_TOP' 
-\i (00:00:41) color -vis TOLERANCE/SILKSCREEN_TOP 
-\i (00:00:41) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
-\i (00:00:41) trapsize 1401
-\i (00:00:41) shapeedit 
-\i (00:00:45) delete 
-\i (00:00:59) pick grid 4.9860 7.5070
-\t (00:00:59) last pick:  5.0000 7.5000
-\t (00:00:59) Shape "Package Geometry/Silkscreen_Top"
-\i (00:01:01) delete 
-\i (00:01:04) pick grid 0.1961 2.9692
-\t (00:01:04) last pick:  0.2000 2.9500
-\t (00:01:04) Shape "Package Geometry/Silkscreen_Top"
-\i (00:01:05) pick grid 0.1961 2.9692
-\t (00:01:05) last pick:  0.2000 2.9500
-\i (00:01:08) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:01:09) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:01:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
-\i (00:01:10) color -globvis off 
-\i (00:01:10) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:01:10) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
-\i (00:01:10) color -vis 'REF DES/ASSEMBLY_TOP' 
-\i (00:01:10) trapsize 1401
-\i (00:01:11) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
-\i (00:01:12) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:01:13) save 
-\i (00:01:14) fillin yes 
-\t (00:01:15) Symbol 'qmatrix_button_top.psm' created.
-\i (00:01:15) shapeedit 
-\i (00:01:31) exit 
-\t (00:01:31)     Journal end - Mon Dec 14 17:53:19 2020
+\i (00:00:18) replace padstack 
+\i (00:00:19) pick grid 0.0687 0.4278
+\t (00:00:19) last pick:  0.0500 0.4500
+\i (00:00:25) exit 
+\e (00:00:26) Do you want to save the changes you made to QFN45P400X400X90-29N-D.dra?
+\i (00:00:27) fillin no 
+\t (00:00:27)     Journal end - Mon Dec 14 22:26:54 2020

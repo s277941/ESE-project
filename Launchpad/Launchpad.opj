@@ -86,14 +86,39 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\LAUNCHPAD.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
   (Folder "Outputs"
     (File ".\launchpad.xrf"
       (Type "Report"))
     (File ".\launchpad.bom"
       (Type "Report"))
     (File ".\launchpad.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"
@@ -227,13 +252,53 @@
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\launchpad.dsn"))
+      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-Matrix"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 640 52 295")
+        (Scroll "118 268")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Peripherals"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 692 104 347")
+        (Scroll "0 520")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Microcontroller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 319")
+        (Scroll "138 594")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Touch-sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 345")
+        (Scroll "-156 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Touch-Matrix")))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY")
   (ISPCBBASICLICENSE "false"))
