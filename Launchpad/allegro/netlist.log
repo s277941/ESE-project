@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 12:14:54 }
+{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 16:47:12 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: Launchpad, Power (3.46, 4.01). Connecting pin to net "N20124".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.2" ignored for U3: Launchpad, Power (5.89, 1.40). Connecting pin to net "BAT+".

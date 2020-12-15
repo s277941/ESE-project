@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 11:58:42 }
+{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 12:14:55 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='LAUNCHPAD';
@@ -378,17 +378,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C6 'C_0603_C_100NF':;
-
-SECTION_NUMBER 1
- '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS25939@ANALOG.C.NORMAL(CHIPS)':
- C_PATH='@launchpad.launchpad(sch_1):ins25939@analog.\c.normal\(chips)',
- P_PATH='@launchpad.launchpad(sch_1):page1_ins25939@analog.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C7 'C_0603_C_10UF':;
+ C6 'C_0603_C_10UF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13497@ANALOG.C.NORMAL(CHIPS)':
@@ -398,7 +388,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C8 'C_0603_C_100NF':;
+ C7 'C_0603_C_100NF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13513@ANALOG.C.NORMAL(CHIPS)':
@@ -408,12 +398,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C9 'C_0603_C_100NF':;
+ C8 'C_0603_C_100NF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS13529@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@launchpad.launchpad(sch_1):ins13529@analog.\c.normal\(chips)',
  P_PATH='@launchpad.launchpad(sch_1):page1_ins13529@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS25939@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins25939@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins25939@analog.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

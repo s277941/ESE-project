@@ -3,124 +3,53 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
-|                                                    Tue Dec 15 11:58:43 2020  |
+|                                                    Tue Dec 15 12:14:55 2020  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  DCOUPL       pins MOVED FROM this net (to net name listed on right)
-                                 C4.2            18.0500 46.2250
-                                                                           VDDS
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND_SIGNAL   pins MOVED FROM this net (to net name listed on right)
-                                 C12.1            8.7500 37.8250
-                                                                         N47314
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N47314       pins MOVED FROM this net (to net name listed on right)
-                                 C13.1           40.8250 39.0500
-                                                                     GND_SIGNAL
-                                 C15.2           37.8000 39.0750
-                                                                            RST
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N47318       pins MOVED FROM this net (to net name listed on right)
-                                 C13.2           42.1750 39.0500
-                                                                           RF_P
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RF_P         pins MOVED FROM this net (to net name listed on right)
-                                 C14.2           31.0500 39.0250
-                                                                         N47314
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RST          pins MOVED FROM this net (to net name listed on right)
-                                 C3.2             8.1750 50.4000
-                                                                         DCOUPL
+  N74059       pins MOVED FROM this net (to net name listed on right)
+                                 U3.2            -3.9000 54.8000
+                                                                           BAT+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   VDDR         pins MOVED FROM this net (to net name listed on right)
-                                 C10.2           19.4500 46.2750
+                                 C9.2            23.6500 37.5750
                                                                            VDDS
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   VDDS         pins MOVED FROM this net (to net name listed on right)
-                                 C7.2            12.1000 41.1750
+                                 C6.2            20.4500 37.4250
                                                                            VDDR
-                                 C12.2            8.7500 39.1750
-                                                                         N47318
-                                 R1.2             6.8250 48.7000
-                                                                            VDD
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VDD_9243     pins MOVED FROM this net (to net name listed on right)
-                                 C22.1           -11.350 38.7750
-                                                                            VDD
-                                 R12.2           -27.350 40.1750
-                                                                            VDD
-                                 R13.2           -30.050 40.0250
-                                                                            VDD
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
-|                                                    Tue Dec 15 11:58:43 2020  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 R14.2           -32.650 39.9250
-                                                                            VDD
-                                 U5.3            -15.500 43.7000
-                                                                            VDD
-                                 U5.16           -16.850 39.8000
-                                                                            VDD
-                                 U5.17           -16.400 39.8000
-                                                                            VDD
-                                 U5.25           -14.000 41.7500
-                                                                            VDD
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VDD_29695    pins MOVED FROM this net (to net name listed on right)
-                                 J1.1            16.1400 50.8350
-                                                                            VDD
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
-|                                                    Tue Dec 15 11:58:43 2020  |
+|                                                    Tue Dec 15 12:14:55 2020  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3                  C_0603_C_1UF           7.5000 50.4000 C_0603_C_100NF
- C4                  C_0603_C_100NF        18.0500 46.9000 C_0603_C_1UF
- C7                  C_0603_C_10UF         12.1000 40.5000 C_0603_C_100NF
- C8                  C_0603_C_100NF        22.1000 36.6500 C_0603_C_10UF
- C11                 C_0603_C_10UF         14.3000 39.1000 C_0603_C_100NF
- C12                 C_0603_C_12PF          8.7500 38.5000 C_0603_C_10UF
- C13                 C_0603_C_1.2PF        41.5000 39.0500 C_0603_C_12PF
- C15                 C_0603_C_100NF        37.8000 38.4000 C_0603_C_1.2PF
+ C6                  C_0603_C_10UF         20.4500 36.7500 C_0603_C_100NF
+ C7                  C_0603_C_100NF        12.1000 40.5000 C_0603_C_10UF
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
-|                                                    Tue Dec 15 11:58:43 2020  |
+|                                                    Tue Dec 15 12:14:55 2020  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C3.2            7.5000 50.4000 PRIM_FILE      .\pstchip.dat
- C4.2           18.0500 46.9000 PRIM_FILE      .\pstchip.dat
+ C6.2           20.4500 36.7500 PRIM_FILE      .\pstchip.dat
  C7.2           12.1000 40.5000 PRIM_FILE      .\pstchip.dat
- C8.2           22.1000 36.6500 PRIM_FILE      .\pstchip.dat
- C11.2          14.3000 39.1000 PRIM_FILE      .\pstchip.dat
- C12.2           8.7500 38.5000 PRIM_FILE      .\pstchip.dat
- C13.2          41.5000 39.0500 PRIM_FILE      .\pstchip.dat
- C15.2          37.8000 38.4000 PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|       Nets changed          :      20                                        |
-|       Components changed    :       8                                        |
-|       Slot property added   :       8                                        |
+|       Nets changed          :       3                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:      36                                        |
+|   Total ECO changes reported:       7                                        |
 |------------------------------------------------------------------------------|
