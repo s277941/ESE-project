@@ -16,7 +16,6 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Board_sim_option "VHDL_flow")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "0")
     (ANNOTATE_Action "1")
@@ -102,7 +101,10 @@
     ("Allegro Setup Part Type Length" "31")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\Andreaa\ESE\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\launchpad.xrf"
       (Type "Report"))
@@ -129,6 +131,9 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -238,11 +243,6 @@
     (0
       (LibraryName
          "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
-      (DeviceIndex "0"))
-    (MAX1759
-      (FullPartName "MAX1759.Normal")
-      (LibraryName
-         "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -252,53 +252,13 @@
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-Matrix"))
+      (Select "Design Resources" ".\launchpad.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 640 52 295")
-        (Scroll "118 268")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Peripherals"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 692 104 347")
-        (Scroll "0 520")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Microcontroller"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 319")
-        (Scroll "138 594")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Touch-sensor"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 345")
-        (Scroll "-156 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
-      (Schematic "Launchpad")
-      (Page "Touch-Matrix")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
+      (Tab 0)))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY")
   (ISPCBBASICLICENSE "false"))

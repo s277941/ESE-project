@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-14-2020 at 22:28:41}
+{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 11:58:42}
 primitive 'ANTENNA_AN043_PATCH_ANTENNA_TI';
   pin
     '+':
@@ -1014,6 +1014,9 @@ primitive 'AT42QT2160_QFN45P400X400X90-29N';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
+    'EP':
+      PIN_NUMBER='(29)';
+      PINUSE='POWER';
   end_pin;
   body
     PART_NAME='AT42QT2160';

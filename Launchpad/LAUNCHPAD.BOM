@@ -1,4 +1,4 @@
-Launchpad - Microcontroller  Revised: Monday, December 14, 2020
+Launchpad - Microcontroller  Revised: Tuesday, December 15, 2020
 Andrea Russo - Gianmarco Mongelli - Francesco Rota          Revision: 1.0
 
 
@@ -7,7 +7,7 @@ Andrea Russo - Gianmarco Mongelli - Francesco Rota          Revision: 1.0
 
 
 
-Bill Of Materials       December 14,2020      22:34:03	Page1
+Bill Of Materials       December 15,2020      12:13:42	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
@@ -16,12 +16,12 @@ ______________________________________________
 2	16	B1,B2,B3,B4,B5,B6,B7,B8,	QMatrix_Button
 		B9,B10,B11,B12,B13,B14,
 		B15,B16
-3	3	C1,C2,C13	12pF
-4	9	C3,C5,C6,C8,C9,C10,C12,	100nF
+3	3	C1,C2,C12	12pF
+4	1	C3	1uF
+5	9	C4,C5,C7,C8,C9,C10,C15,	100nF
 		C17,C22
-5	1	C4	1uF
-6	4	C7,C11,C18,C19	10uF
-7	2	C14,C15	1.2pF
+6	4	C6,C11,C18,C19	10uF
+7	2	C13,C14	1.2pF
 8	1	C16	330nF
 9	2	C20,C21	1u
 10	2	C23,C24	4.7 nF

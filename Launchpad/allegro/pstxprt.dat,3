@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-14-2020 at 22:28:41 }
+{ Using PSTWRITER 17.2.0 d001Dec-15-2020 at 11:58:42 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='LAUNCHPAD';
@@ -191,16 +191,6 @@ PART_NAME
  C10 'C_0603_C_100NF':;
 
 SECTION_NUMBER 1
- '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS25939@ANALOG.C.NORMAL(CHIPS)':
- C_PATH='@launchpad.launchpad(sch_1):ins25939@analog.\c.normal\(chips)',
- P_PATH='@launchpad.launchpad(sch_1):page1_ins25939@analog.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C11 'C_0603_C_10UF':;
-
-SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12926@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@launchpad.launchpad(sch_1):ins12926@analog.\c.normal\(chips)',
  P_PATH='@launchpad.launchpad(sch_1):page1_ins12926@analog.\c.normal\(chips)',
@@ -208,7 +198,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C12 'C_0603_C_100NF':;
+ C11 'C_0603_C_10UF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12942@ANALOG.C.NORMAL(CHIPS)':
@@ -218,7 +208,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C13 'C_0603_C_12PF':;
+ C12 'C_0603_C_12PF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47298@ANALOG.C.NORMAL(CHIPS)':
@@ -228,7 +218,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C14 'C_0603_C_1.2PF':;
+ C13 'C_0603_C_1.2PF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47077@ANALOG.C.NORMAL(CHIPS)':
@@ -238,12 +228,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C15 'C_0603_C_1.2PF':;
+ C14 'C_0603_C_1.2PF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS47261@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@launchpad.launchpad(sch_1):ins47261@analog.\c.normal\(chips)',
  P_PATH='@launchpad.launchpad(sch_1):page2_ins47261@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS75211@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins75211@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins75211@analog.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -348,17 +348,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C3 'C_0603_C_100NF':;
-
-SECTION_NUMBER 1
- '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS17257@ANALOG.C.NORMAL(CHIPS)':
- C_PATH='@launchpad.launchpad(sch_1):ins17257@analog.\c.normal\(chips)',
- P_PATH='@launchpad.launchpad(sch_1):page1_ins17257@analog.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C4 'C_0603_C_1UF':;
+ C3 'C_0603_C_1UF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS14793@ANALOG.C.NORMAL(CHIPS)':
@@ -368,7 +358,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C5 'C_0603_C_100NF':;
+ C4 'C_0603_C_100NF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12894@ANALOG.C.NORMAL(CHIPS)':
@@ -378,12 +368,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C6 'C_0603_C_100NF':;
+ C5 'C_0603_C_100NF':;
 
 SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS12910@ANALOG.C.NORMAL(CHIPS)':
  C_PATH='@launchpad.launchpad(sch_1):ins12910@analog.\c.normal\(chips)',
  P_PATH='@launchpad.launchpad(sch_1):page1_ins12910@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0603_C_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS25939@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins25939@analog.\c.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page1_ins25939@analog.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -511,9 +511,9 @@ PART_NAME
  R1 'R_0603_R_100KOHM':;
 
 SECTION_NUMBER 1
- '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS14947@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@launchpad.launchpad(sch_1):ins14947@analog.\r.normal\(chips)',
- P_PATH='@launchpad.launchpad(sch_1):page1_ins14947@analog.\r.normal\(chips)',
+ '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS75155@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@launchpad.launchpad(sch_1):ins75155@analog.\r.normal\(chips)',
+ P_PATH='@launchpad.launchpad(sch_1):page2_ins75155@analog.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
