@@ -1,4 +1,4 @@
-Launchpad - Microcontroller  Revised: Tuesday, December 15, 2020
+Launchpad - Microcontroller  Revised: Wednesday, December 16, 2020
 Andrea Russo - Gianmarco Mongelli - Francesco Rota          Revision: 1.0
 
 
@@ -7,7 +7,7 @@ Andrea Russo - Gianmarco Mongelli - Francesco Rota          Revision: 1.0
 
 
 
-Bill Of Materials       December 15,2020      12:13:42	Page1
+Bill Of Materials       December 17,2020      0:02:27	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
@@ -35,7 +35,7 @@ ______________________________________________
 18	1	L3	15nH
 19	1	L4	2nH
 20	1	R1	100kOhm
-21	6	R2,R3,R4,R12,R13,R14	3.3kOhm
+21	5	R2,R3,R4,R13,R14	3.3kOhm
 22	1	R5	240 Ohm 
 23	2	R6,R7	33kOhm
 24	2	R8,R11	33k

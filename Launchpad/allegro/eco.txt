@@ -2,22 +2,10 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/ESE-project/Launchpad/allegro/launchpad_checkpoint0.brd                  |
-|                                                    Wed Dec 16 16:47:34 2020  |
+|  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
+|                                                    Thu Dec 17 00:04:19 2020  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  LED_GREEN    pins MOVED FROM this net (to net name listed on right)
-                                 U1.9            27.5000 34.3500
-                                                                        LED_RED
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  LED_RED      pins MOVED FROM this net (to net name listed on right)
-                                 U1.8            27.5000 33.8500
-                                                                      LED_GREEN
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       2                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|
