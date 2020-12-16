@@ -103,7 +103,7 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     ("Allegro Netlist Input Board File"
-       "C:\Users\Andreaa\ESE\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd")
+       "C:\ESE-project\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd")
     (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\launchpad.xrf"
@@ -251,8 +251,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -262,33 +261,43 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1460 156 491")
-        (Scroll "-17 295")
-        (Zoom "126")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 373")
+        (Scroll "-156 10")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Microcontroller"))
+      (Page "Power"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1304 0 335")
-        (Scroll "-143 0")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399")
+        (Scroll "-156 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
       (Page "Peripherals"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1382 78 413")
-        (Scroll "-229 40")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425")
+        (Scroll "-156 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Microcontroller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 451")
+        (Scroll "-151 22")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
       (Page "Touch-sensor")))
-  (MPSSessionName "Andreaa")
+  (MPSSessionName "Gianmarco")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY")
   (ISPCBBASICLICENSE "false"))

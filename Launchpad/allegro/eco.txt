@@ -2,16 +2,22 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
-|                                                    Tue Dec 15 16:47:14 2020  |
+|  C:/ESE-project/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd                  |
+|                                                    Wed Dec 16 00:34:58 2020  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N47318       net RENAMED (to net name listed on right)           RF_ANTENNA   
+  N11551       pins MOVED FROM this net (to net name listed on right)
+                                 C24.1            9.3000 28.8750
+                                                                         N11716
+                                 R25.2            5.3000 25.6250
+                                                                         N11716
+                                 U5.20            4.4500 28.2500
+                                                                         N11716
 |------------------------------------------------------------------------------|
-|       Nets changed          :       1                                        |
+|       Nets changed          :       3                                        |
 |                                                                              |
-|   Total ECO changes reported:       1                                        |
+|   Total ECO changes reported:       3                                        |
 |------------------------------------------------------------------------------|
