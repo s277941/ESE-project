@@ -256,13 +256,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 296"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 373")
-        (Scroll "-156 10")
+        (Scroll "-156 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
@@ -291,8 +291,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 451")
-        (Scroll "-151 22")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
+        (Scroll "-78 95")
         (Zoom "116")
         (Occurrence "/"))
       (Path "C:\ESE-PROJECT\LAUNCHPAD\LAUNCHPAD.DSN")
