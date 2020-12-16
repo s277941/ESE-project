@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 14:34:27 }
+{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 16:47:32 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: Launchpad, Power (3.46, 4.01). Connecting pin to net "N20124".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "SCL_17048".
@@ -27,11 +27,11 @@
 #25 WARNING(ORCAP-36006): Part Name "TSX-3225240000MF15X-AC3_SMD_TSX-3225240000MF15X-AC3_TSX-3225240000MF15X-AC3" is renamed to "TSX-3225240000MF15X-AC3_SMD_TSX".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstxnet.dat
+Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstxnet.dat
 packaging the design view...
