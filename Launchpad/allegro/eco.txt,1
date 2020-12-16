@@ -2,22 +2,22 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/ESE-project/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd                  |
-|                                                    Wed Dec 16 00:34:58 2020  |
+|  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd            |
+|                                                    Wed Dec 16 14:03:21 2020  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N11551       pins MOVED FROM this net (to net name listed on right)
-                                 C24.1            9.3000 28.8750
-                                                                         N11716
-                                 R25.2            5.3000 25.6250
-                                                                         N11716
-                                 U5.20            4.4500 28.2500
-                                                                         N11716
+  CHANGE_N     pins MOVED FROM this net (to net name listed on right)
+                                 U1.37           21.3500 29.7000
+                                                                     SDA_QT2160
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA_QT2160   pins MOVED FROM this net (to net name listed on right)
+                                 U1.39           22.3500 29.7000
+                                                                       CHANGE_N
 |------------------------------------------------------------------------------|
-|       Nets changed          :       3                                        |
+|       Nets changed          :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       3                                        |
+|   Total ECO changes reported:       2                                        |
 |------------------------------------------------------------------------------|

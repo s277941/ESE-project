@@ -1,32 +1,37 @@
-{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 01:14:18 }
+{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 14:34:27 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: Launchpad, Power (3.46, 4.01). Connecting pin to net "N20124".
-#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.2" ignored for U3: Launchpad, Power (5.89, 1.40). Connecting pin to net "BAT+".
-#3 WARNING(ORCAP-36006): Part Name "ANTENNA_AN043_PATCH_ANTENNA_TI AN043" is renamed to "ANTENNA_AN043_PATCH_ANTENNA_TI".
-#4 WARNING(ORCAP-36006): Part Name "QMATRIX_BUTTON_QMATRIX_BUTTON_TOP_QMATRIX_BUTTON" is renamed to "QMATRIX_BUTTON_QMATRIX_BUTTON_T".
-#5 WARNING(ORCAP-36006): Part Name "SC20S-7PF20PPM_SMD_SC20S-7PF20PPM_SC20S-7PF20PPM" is renamed to "SC20S-7PF20PPM_SMD_SC20S-7PF20P".
-#6 WARNING(ORCAP-36006): Part Name "FTSH-105-01-L-D-RA-K_SAMTEC_FTSH-105-01-L-D-K_FTSH-105-01-L-D-RA-K" is renamed to "FTSH-105-01-L-D-RA-K_SAMTEC_FTS".
-#7 WARNING(ORCAP-36006): Part Name "1051640001_MOLEX_105164-0001_1051640001" is renamed to "1051640001_MOLEX_105164-0001_10".
-#8 WARNING(ORCAP-36006): Part Name "SM02B-SRSS-TBLFSN_SM02B-SRSS-TBLFSN_SM02B-SRSS-TBLFSN" is renamed to "SM02B-SRSS-TBLFSN_SM02B-SRSS-TB".
-#9 WARNING(ORCAP-36006): Part Name "FERRITEBEAD_0603_L_BLM18EG121SH1D" is renamed to "FERRITEBEAD_0603_L_BLM18EG121SH".
-#10 WARNING(ORCAP-36006): Part Name "R_0603_R_240 OHM " is renamed to "R_0603_R_240 OHM".
-#11 WARNING(ORCAP-36006): Part Name "PCM12SMTR_SW_PCM12SMTR_PCM12SMTR" is renamed to "PCM12SMTR_SW_PCM12SMTR_PCM12SMT".
-#12 WARNING(ORCAP-36006): Part Name "TI-CC2640_SMD_CC2640R2F_RGZ_48_TI-CC2640" is renamed to "TI-CC2640_SMD_CC2640R2F_RGZ_48_".
-#13 WARNING(ORCAP-36006): Part Name "MAX1555_SMD_MAX1555_MAXIM MAX1555" is renamed to "MAX1555_SMD_MAX1555_MAXIM MAX15".
-#14 WARNING(ORCAP-36006): Part Name "AT42QT2160_QFN45P400X400X90-29N-D_AT42QT2160" is renamed to "AT42QT2160_QFN45P400X400X90-29N".
-#15 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#3" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
-#16 WARNING(ORCAP-36042): Pin "Vss" is renamed to "VSS#4" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
-#17 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#16" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
-#18 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#17" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
-#19 WARNING(ORCAP-36042): Pin "Vss" is renamed to "VSS#18" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
-#20 WARNING(ORCAP-36006): Part Name "TSX-3225240000MF15X-AC3_SMD_TSX-3225240000MF15X-AC3_TSX-3225240000MF15X-AC3" is renamed to "TSX-3225240000MF15X-AC3_SMD_TSX".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "SCL_17048".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.38" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "SDA_QT2160".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.37" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "SCL_QT2160".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "I2CA0_QT2160".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: Launchpad, Microcontroller (2.80, 0.20). Connecting pin to net "I2CA1_QT2160".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.2" ignored for U3: Launchpad, Power (5.89, 1.40). Connecting pin to net "BAT+".
+#8 WARNING(ORCAP-36006): Part Name "ANTENNA_AN043_PATCH_ANTENNA_TI AN043" is renamed to "ANTENNA_AN043_PATCH_ANTENNA_TI".
+#9 WARNING(ORCAP-36006): Part Name "QMATRIX_BUTTON_QMATRIX_BUTTON_TOP_QMATRIX_BUTTON" is renamed to "QMATRIX_BUTTON_QMATRIX_BUTTON_T".
+#10 WARNING(ORCAP-36006): Part Name "SC20S-7PF20PPM_SMD_SC20S-7PF20PPM_SC20S-7PF20PPM" is renamed to "SC20S-7PF20PPM_SMD_SC20S-7PF20P".
+#11 WARNING(ORCAP-36006): Part Name "FTSH-105-01-L-D-RA-K_SAMTEC_FTSH-105-01-L-D-K_FTSH-105-01-L-D-RA-K" is renamed to "FTSH-105-01-L-D-RA-K_SAMTEC_FTS".
+#12 WARNING(ORCAP-36006): Part Name "1051640001_MOLEX_105164-0001_1051640001" is renamed to "1051640001_MOLEX_105164-0001_10".
+#13 WARNING(ORCAP-36006): Part Name "SM02B-SRSS-TBLFSN_SM02B-SRSS-TBLFSN_SM02B-SRSS-TBLFSN" is renamed to "SM02B-SRSS-TBLFSN_SM02B-SRSS-TB".
+#14 WARNING(ORCAP-36006): Part Name "FERRITEBEAD_0603_L_BLM18EG121SH1D" is renamed to "FERRITEBEAD_0603_L_BLM18EG121SH".
+#15 WARNING(ORCAP-36006): Part Name "R_0603_R_240 OHM " is renamed to "R_0603_R_240 OHM".
+#16 WARNING(ORCAP-36006): Part Name "PCM12SMTR_SW_PCM12SMTR_PCM12SMTR" is renamed to "PCM12SMTR_SW_PCM12SMTR_PCM12SMT".
+#17 WARNING(ORCAP-36006): Part Name "TI-CC2640_SMD_CC2640R2F_RGZ_48_TI-CC2640" is renamed to "TI-CC2640_SMD_CC2640R2F_RGZ_48_".
+#18 WARNING(ORCAP-36006): Part Name "MAX1555_SMD_MAX1555_MAXIM MAX1555" is renamed to "MAX1555_SMD_MAX1555_MAXIM MAX15".
+#19 WARNING(ORCAP-36006): Part Name "AT42QT2160_QFN45P400X400X90-29N-D_AT42QT2160" is renamed to "AT42QT2160_QFN45P400X400X90-29N".
+#20 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#3" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
+#21 WARNING(ORCAP-36042): Pin "Vss" is renamed to "VSS#4" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
+#22 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#16" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
+#23 WARNING(ORCAP-36042): Pin "Vdd" is renamed to "VDD#17" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
+#24 WARNING(ORCAP-36042): Pin "Vss" is renamed to "VSS#18" as visible power pin of same name already exists in Package AT42QT2160 , U5: Launchpad, Touch-sensor (4.10, 1.80).
+#25 WARNING(ORCAP-36006): Part Name "TSX-3225240000MF15X-AC3_SMD_TSX-3225240000MF15X-AC3_TSX-3225240000MF15X-AC3" is renamed to "TSX-3225240000MF15X-AC3_SMD_TSX".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstchip.dat
+Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstchip.dat
 
-Loading... C:\ESE-PROJECT\LAUNCHPAD\allegro/pstxnet.dat
+Loading... C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro/pstxnet.dat
 packaging the design view...

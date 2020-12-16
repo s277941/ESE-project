@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : LAUNCHPAD_checkpoint0.brd                     )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Wed Dec 16 01:14:19 2020                      )
+(    Date/Time        : Wed Dec 16 14:34:29 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,54 +17,52 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\ESE-PROJECT\LAUNCHPAD\allegro'
-Design Directory:            'C:/ESE-PROJECT/LAUNCHPAD/allegro'
-Old design name:             'C:/ESE-project/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd'
-New design name:             'C:/ESE-PROJECT/LAUNCHPAD/allegro/LAUNCHPAD.brd'
+Schematic directory:         'C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro'
+Design Directory:            'C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro'
+Old design name:             'C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd'
+New design name:             'C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd'
 
-CmdLine: netrev.exe -y 1 -i C:\ESE-PROJECT\LAUNCHPAD\allegro C:\ESE-project\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd C:\ESE-PROJECT\LAUNCHPAD\allegro\LAUNCHPAD.brd
+CmdLine: netrev.exe -y 1 -i C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro C:\Users\Andreaa\ESE\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro\LAUNCHPAD.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/ESE-PROJECT/LAUNCHPAD/allegro/pstchip.dat 
-   Finished reading C:/ESE-PROJECT/LAUNCHPAD/allegro/pstchip.dat (00:00:00.04)
-Starting to read C:/ESE-PROJECT/LAUNCHPAD/allegro/pstxprt.dat 
-   Finished reading C:/ESE-PROJECT/LAUNCHPAD/allegro/pstxprt.dat (00:00:00.01)
-Starting to read C:/ESE-PROJECT/LAUNCHPAD/allegro/pstxnet.dat 
-   Finished reading C:/ESE-PROJECT/LAUNCHPAD/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstchip.dat 
+   Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstchip.dat (00:00:00.05)
+Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxprt.dat 
+   Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxnet.dat 
+   Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/spb_17.2/share/local/pcb/modules 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
 
 PSMPATH =  . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/symbols 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
-           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
-           C:/ESE-project/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/padstacks 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
-           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
-           C:/ESE-project/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Dec 16 1:14:19 2020
+netrev run on Dec 16 14:34:29 2020
    DESIGN NAME : 'LAUNCHPAD'
    PACKAGING ON Sep 27 2020 03:58:55
 
@@ -89,6 +87,6 @@ netrev run on Dec 16 1:14:19 2020
  No oversight detected
  No warning detected
 
-cpu time      0:00:35
+cpu time      0:00:57
 elapsed time  0:00:00
 
