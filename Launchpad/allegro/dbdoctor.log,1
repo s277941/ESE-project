@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : LAUNCHPAD.brd                                 )
+(    Software Version : 17.2S071                                      )
+(    Date/Time        : Thu Dec 17 23:48:04 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (10.0000 -13.2500) on net Y1.
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+1 warnings, 0 errors detected, 0 errors  fixed.
