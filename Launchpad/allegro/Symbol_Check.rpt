@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : LAUNCHPAD.brd                                 )
+(    Software Version : 17.2S071                                      )
+(    Date/Time        : Fri Dec 18 00:32:04 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	c:/cadence/spb_17.2/share/local/pcb/symbols
+	c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols
+	c:/cadence/spb_17.2/share/pcb/allegrolib/symbols
+	C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/
+	C:/ESE-project/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/
+
+
+All Symbols Found
+
+Total symbols placed:      82 out of 82
+
+
