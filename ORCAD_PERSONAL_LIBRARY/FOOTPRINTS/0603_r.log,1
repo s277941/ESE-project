@@ -2,23 +2,22 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : Qmatrix_Button_top.dra                        )
+(    Drawing          : 0603_r.dra                                    )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Sun Dec 13 14:43:48 2020                      )
+(    Date/Time        : Thu Dec 10 22:32:20 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
-    Name      = qmatrix_button_top.psm
+    Name      = 0603_r.psm
     User      = Andreaa
     Machine   = PORTATILE-HP
 
 
 Create symbol started.
  
- WARNING(SPMHA1-301): Create symbol DRC errors exist. 
 
 Create symbol completed.
 
