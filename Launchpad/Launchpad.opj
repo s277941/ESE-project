@@ -252,7 +252,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
+      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Peripherals"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -262,13 +262,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1717 78 551")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1717 78 551")
         (Scroll "90 380")
         (Zoom "200")
         (Occurrence "/"))
       (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
       (Schematic "Launchpad")
-      (Page "Touch-sensor")))
+      (Page "Touch-sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 1769 130 603")
+        (Scroll "-435 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANDREAA\ESE\LAUNCHPAD\LAUNCHPAD.DSN")
+      (Schematic "Launchpad")
+      (Page "Peripherals")))
   (MPSSessionName "Andreaa")
   (LastUsedLibraryBrowseDirectory "C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY")
   (ISPCBBASICLICENSE "false"))
