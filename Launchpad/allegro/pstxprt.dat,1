@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 13:48:12 }
+{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 14:34:28 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='LAUNCHPAD';
@@ -534,16 +534,6 @@ SECTION_NUMBER 1
  '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS2915@ANALOG.R.NORMAL(CHIPS)':
  C_PATH='@launchpad.launchpad(sch_1):ins2915@analog.\r.normal\(chips)',
  P_PATH='@launchpad.launchpad(sch_1):page3_ins2915@analog.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R12 'R_0603_R_3.3KOHM':;
-
-SECTION_NUMBER 1
- '@LAUNCHPAD.LAUNCHPAD(SCH_1):INS10936@ANALOG.R.NORMAL(CHIPS)':
- C_PATH='@launchpad.launchpad(sch_1):ins10936@analog.\r.normal\(chips)',
- P_PATH='@launchpad.launchpad(sch_1):page5_ins10936@analog.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

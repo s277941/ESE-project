@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : LAUNCHPAD_checkpoint0.brd                     )
+(    Drawing          : checkpoint.brd                                )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Thu Dec 17 00:04:19 2020                      )
+(    Date/Time        : Mon Jan 18 16:55:53 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,15 +19,15 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro'
 Design Directory:            'C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro'
-Old design name:             'C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD_checkpoint0.brd'
+Old design name:             'C:/Users/Andreaa/ESE/Launchpad/allegro/checkpoint.brd'
 New design name:             'C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/LAUNCHPAD.brd'
 
-CmdLine: netrev.exe -y 1 -i C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro C:\Users\Andreaa\ESE\Launchpad\allegro\LAUNCHPAD_checkpoint0.brd C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro\LAUNCHPAD.brd
+CmdLine: netrev.exe -y 1 -i C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro C:\Users\Andreaa\ESE\Launchpad\allegro\checkpoint.brd C:\USERS\ANDREAA\ESE\LAUNCHPAD\allegro\LAUNCHPAD.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstchip.dat 
-   Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstchip.dat (00:00:00.06)
+   Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstchip.dat (00:00:00.10)
 Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxprt.dat 
    Finished reading C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/USERS/ANDREAA/ESE/LAUNCHPAD/allegro/pstxnet.dat 
@@ -62,7 +62,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 17 0:04:19 2020
+netrev run on Jan 18 16:55:53 2021
    DESIGN NAME : 'LAUNCHPAD'
    PACKAGING ON Sep 27 2020 03:58:55
 
@@ -87,6 +87,6 @@ netrev run on Dec 17 0:04:19 2020
  No oversight detected
  No warning detected
 
-cpu time      0:00:43
+cpu time      0:01:32
 elapsed time  0:00:00
 
