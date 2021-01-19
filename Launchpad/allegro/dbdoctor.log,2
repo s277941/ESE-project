@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : LAUNCHPAD.brd                                 )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Fri Dec 18 00:27:09 2020                      )
+(    Date/Time        : Tue Jan 19 22:59:19 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:01
-
-0 warnings, 0 errors detected, 0 errors  fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.

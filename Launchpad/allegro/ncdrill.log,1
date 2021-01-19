@@ -1,0 +1,84 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : LAUNCHPAD.brd                                 )
+(    Software Version : 17.2S071                                      )
+(    Date/Time        : Mon Dec 21 21:54:58 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.3
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		YES
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.3000  P        T01            0.000000     0.000000
+         0.7000  P        T02            0.000000     0.000000
+         0.7112  P        T03            0.000000     0.000000
+         0.8999  N        T04            0.000000     0.000000
+
+
+ Drill files being output to directory 'C:/Users/Andreaa/ESE/Launchpad/allegro' ...
+
+
+
+     'LAUNCHPAD-1-2.drl' created for holes connecting TOP and BOTTOM ; Plating = PLATED
+     ----------------------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.3000    0.0000/  0.0000      PLATED        127
+     T02    2.   0.7000    0.0000/  0.0000      PLATED          2
+     T03    3.   0.7112    0.0000/  0.0000      PLATED         10
+
+     ---- Total holes:                                        139
+
+     ---- Total head travel:              5.69 feet (1.73 meters)
+
+
+
+
+     'LAUNCHPAD-1-2-np.drl' created for holes connecting TOP and BOTTOM ; Plating = NON_PLATED
+     -----------------------------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T04    1.   0.8999    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                          2
+
+     ---- Total head travel:              0.01 feet (0.00 meters)
+
