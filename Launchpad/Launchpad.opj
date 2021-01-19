@@ -251,7 +251,8 @@
       (Path "Design Resources" ".\launchpad.dsn" "Launchpad")
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\launchpad.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
