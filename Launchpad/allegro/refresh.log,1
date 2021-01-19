@@ -1,9 +1,9 @@
-Tue Jan 19 23:10:47 2021				Page     1
+Tue Jan 19 23:20:05 2021				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Jan 19 23:10:47 2021
+	Tue Jan 19 23:20:05 2021
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : LAUNCHPAD.brd                                 )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Tue Jan 19 23:10:47 2021                      )
+(    Date/Time        : Tue Jan 19 23:20:05 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Jan 19 23:10:47 2021				Page     1
+Tue Jan 19 23:20:05 2021				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Andreaa/AppData/Local/Temp/#Taaaaak30784.tmp'
+Symbol list file                       = 'C:/Users/Andreaa/AppData/Local/Temp/#Taaaabg30784.tmp'
 
 
 ------ Library Paths ------
@@ -67,7 +67,7 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'SMD_MAX1555'  symbol refreshed successfully.
+'SMD_MAX17048'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----

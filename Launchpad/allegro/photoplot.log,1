@@ -4,10 +4,15 @@
 (                                                                     )
 (    Drawing          : LAUNCHPAD.brd                                 )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Tue Jan 19 22:49:47 2021                      )
+(    Date/Time        : Tue Jan 19 23:11:18 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -34,7 +39,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -50,6 +55,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.25000                                  DARK 
   CIRCLE     0.40000                                  DARK 
   CIRCLE     0.50010                                  DARK 
@@ -88,7 +94,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,800.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1250.0 270.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
@@ -98,7 +104,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -114,6 +120,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.25000                                  DARK 
   CIRCLE     0.40000                                  DARK 
   CIRCLE     0.60000                                  DARK 
@@ -123,7 +130,7 @@ Results from parameter file ...
   SQUARE     1.01600                     0.000 NO     DARK 
   OBLONG     2.41600     x 1.20800      90.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM created with warnings
 
 
 ================================================================
@@ -133,7 +140,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -143,10 +150,10 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: text composed 0 width line found at (-54.9000 -24.4000)
-           ... using undefined line width of 0.2500
+           ... using undefined line width of 0.1500
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... using undefined line width of 0.2500
+           ... using undefined line width of 0.1500
 
 
 
@@ -155,10 +162,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.15240                                  DARK 
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.22500                                  DARK 
-  CIRCLE     0.25000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
      SILK_TOP created with warnings
@@ -171,7 +178,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -186,9 +193,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
 
-     SILK_BOT created.
+     SILK_BOT created with warnings
 
 
 ================================================================
@@ -198,7 +205,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -213,9 +220,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
 
-     PM_BOT created.
+     PM_BOT created with warnings
 
 
 ================================================================
@@ -225,7 +232,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -240,7 +247,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   SQUARE     0.40000                     0.000 NO     DARK 
   RECTANGLE  0.24990     x 0.65000      90.000 NO     DARK 
   RECTANGLE  0.35000     x 0.40000       0.000 NO     DARK 
@@ -267,7 +274,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,632.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1001.0 270.000 NO     DARK 
 
-     PM_TOP created.
+     PM_TOP created with warnings
 
 
 ================================================================
@@ -277,7 +284,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -292,7 +299,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.40000                                  DARK 
   CIRCLE     0.60000                                  DARK 
   CIRCLE     0.90020                                  DARK 
@@ -301,7 +308,7 @@ Results from parameter file ...
   SQUARE     1.01600                     0.000 NO     DARK 
   OBLONG     2.41600     x 1.20800      90.000 NO     DARK 
 
-     SM_BOT created.
+     SM_BOT created with warnings
 
 
 ================================================================
@@ -311,7 +318,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -326,7 +333,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.40000                                  DARK 
   CIRCLE     0.50010                                  DARK 
   CIRCLE     0.60000                                  DARK 
@@ -361,7 +368,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,800.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1250.0 270.000 NO     DARK 
 
-     SM_TOP created.
+     SM_TOP created with warnings
 
 
 ================================================================
@@ -371,7 +378,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2500
+  Undefined line width                0.1500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -388,24 +395,24 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
   CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.15240                                  DARK 
   CIRCLE     0.20000                                  DARK 
-  CIRCLE     0.25000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
-     OUTLINE created.
+     OUTLINE created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
-        BOTTOM created.
+        TOP created with warnings
+        BOTTOM created with warnings
         SILK_TOP created with warnings
-        SILK_BOT created.
-        PM_BOT created.
-        PM_TOP created.
-        SM_BOT created.
-        SM_TOP created.
-        OUTLINE created.
+        SILK_BOT created with warnings
+        PM_BOT created with warnings
+        PM_TOP created with warnings
+        SM_BOT created with warnings
+        SM_TOP created with warnings
+        OUTLINE created with warnings
 
  ARTWORK had warnings

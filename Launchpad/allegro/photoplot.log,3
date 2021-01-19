@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : LAUNCHPAD.brd                                 )
 (    Software Version : 17.2S071                                      )
-(    Date/Time        : Tue Jan 19 23:11:18 2021                      )
+(    Date/Time        : Wed Jan 20 00:06:53 2021                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
-
-
- ******************************************
- WARNING: DRC OUT OF DATE on this layout.
- ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -94,7 +89,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,800.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1250.0 270.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -130,7 +125,7 @@ Results from parameter file ...
   SQUARE     1.01600                     0.000 NO     DARK 
   OBLONG     2.41600     x 1.20800      90.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
@@ -195,7 +190,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.15000                                  DARK 
 
-     SILK_BOT created with warnings
+     SILK_BOT created.
 
 
 ================================================================
@@ -222,7 +217,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.15000                                  DARK 
 
-     PM_BOT created with warnings
+     PM_BOT created.
 
 
 ================================================================
@@ -274,7 +269,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,632.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1001.0 270.000 NO     DARK 
 
-     PM_TOP created with warnings
+     PM_TOP created.
 
 
 ================================================================
@@ -308,7 +303,7 @@ Results from parameter file ...
   SQUARE     1.01600                     0.000 NO     DARK 
   OBLONG     2.41600     x 1.20800      90.000 NO     DARK 
 
-     SM_BOT created with warnings
+     SM_BOT created.
 
 
 ================================================================
@@ -368,7 +363,7 @@ Results from parameter file ...
   PAD SHAPE  ROUNDED_RECTANGLE ,800.00 269.946 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,1250.0 270.000 NO     DARK 
 
-     SM_TOP created with warnings
+     SM_TOP created.
 
 
 ================================================================
@@ -400,19 +395,19 @@ Results from parameter file ...
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
-     OUTLINE created with warnings
+     OUTLINE created.
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
-        BOTTOM created with warnings
+        TOP created.
+        BOTTOM created.
         SILK_TOP created with warnings
-        SILK_BOT created with warnings
-        PM_BOT created with warnings
-        PM_TOP created with warnings
-        SM_BOT created with warnings
-        SM_TOP created with warnings
-        OUTLINE created with warnings
+        SILK_BOT created.
+        PM_BOT created.
+        PM_TOP created.
+        SM_BOT created.
+        SM_TOP created.
+        OUTLINE created.
 
  ARTWORK had warnings

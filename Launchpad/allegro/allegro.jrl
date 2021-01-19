@@ -1,261 +1,69 @@
-\t (00:00:28) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:28)     Journal start - Tue Jan 19 23:10:23 2021
-\t (00:00:28)         Host=PORTATILE-HP User=Andreaa Pid=30784 CPUs=4
-\t (00:00:28) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:28) 
-\d (00:00:28) Design opened: C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd
-\i (00:00:28) placementedit 
-\i (00:00:29) zoom out 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom out -30.2916 40.5531
-\t (00:00:29) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:29) trapsize 1696
-\i (00:00:29) zoom out 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom out -30.2916 40.5531
-\t (00:00:29) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:00:29) trapsize 3392
-\i (00:00:43) refresh symbol 
-\i (00:00:49) setwindow form.upd_element
-\i (00:00:49) FORM upd_element tree 'MULTISEL YES' SMD_MAX1555 'Package symbols' 
-\i (00:00:49) FORM upd_element tree  SMD_MAX1555 'Package symbols' 
-\i (00:00:52) FORM upd_element refresh  
-\t (00:00:52) Starting Refresh Symbol...
-\t (00:00:52) Opening existing design...
-\t (00:00:52) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
-\t (00:00:53) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:00:53) setwindow pcb
-\i (00:00:53) trapsize 3392
-\i (00:00:55) setwindow form.upd_element
-\i (00:00:55) FORM upd_element close  
-\i (00:00:55) setwindow pcb
-\i (00:00:55) placementedit 
-\i (00:00:58) zoom in 1 
+\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jan 20 00:10:39 2021
+\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=25016 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\w (00:00:06) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LAUNCHPAD
+\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd
+\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:07) trapsize 10672
+\i (00:00:07) trapsize 11074
+\i (00:00:07) trapsize 11507
+\i (00:00:07) trapsize 11074
+\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\t (00:00:07) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:07) trapsize 9090
+\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:07) trapsize 13569
+\i (00:00:08) placementedit 
+\i (00:00:13) artwork 
+\i (00:00:26) setwindow form.film_control
+\i (00:00:26) FORM film_control undefined_line_width 0.125 
+\i (00:00:27) FORM film_control filmtree  OUTLINE 
+\i (00:00:29) FORM film_control undefined_line_width 0.125 
+\i (00:00:29) FORM film_control filmtree  PM_BOT 
+\i (00:00:31) FORM film_control undefined_line_width 0.125 
+\i (00:00:31) FORM film_control filmtree  PM_TOP 
+\i (00:00:33) FORM film_control undefined_line_width 0.125 
+\i (00:00:34) FORM film_control filmtree  SILK_BOT 
+\i (00:00:36) FORM film_control undefined_line_width 0.125 
+\i (00:00:36) FORM film_control filmtree  SILK_TOP 
+\i (00:00:38) FORM film_control undefined_line_width 0.125 
+\i (00:00:38) FORM film_control filmtree  SM_BOT 
+\i (00:00:40) FORM film_control undefined_line_width 0.125 
+\i (00:00:41) FORM film_control filmtree  SM_TOP 
+\i (00:00:43) FORM film_control undefined_line_width 0.125 
+\i (00:00:43) FORM film_control filmtree  TOP 
+\i (00:00:45) FORM film_control undefined_line_width 0.125 
+\i (00:00:46) FORM film_control filmtree  SM_TOP 
+\i (00:00:46) FORM film_control filmtree  SM_BOT 
+\i (00:00:47) FORM film_control filmtree  TOP 
+\i (00:00:48) FORM film_control filmtree  SILK_TOP 
+\i (00:00:48) FORM film_control filmtree  SILK_BOT 
+\i (00:00:48) FORM film_control filmtree  PM_TOP 
+\i (00:00:49) FORM film_control filmtree  PM_BOT 
+\i (00:00:52) FORM film_control select_all  
+\i (00:00:53) FORM film_control create  
+\t (00:00:53) Checking db records
+\t (00:00:53)     checking for orphans...
+\t (00:00:53)     Checked 100 percent
+\t (00:00:54) Done dbdoctor.
+\t (00:00:54) Starting Create artwork films...
+\w (00:00:54) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:55) Artwork generated with warnings.
+\i (00:00:57) setwindow pcb
+\i (00:00:57) setwindow text
+\i (00:00:57) close
+\i (00:00:58) setwindow form.film_control
+\i (00:00:58) FORM film_control ok  
 \i (00:00:58) setwindow pcb
-\i (00:00:58) zoom in -34.5656 42.3170
-\t (00:00:58) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:58) trapsize 1696
-\i (00:00:58) zoom in 1 
-\i (00:00:58) setwindow pcb
-\i (00:00:58) zoom in -34.5656 42.3170
-\t (00:00:58) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:58) trapsize 848
-\i (00:01:02) zoom in 1 
-\i (00:01:02) setwindow pcb
-\i (00:01:02) zoom in -34.8539 42.1644
-\i (00:01:02) trapsize 424
-\i (00:01:02) zoom in 1 
-\i (00:01:02) setwindow pcb
-\i (00:01:02) zoom in -34.8539 42.1645
-\i (00:01:02) trapsize 212
-\i (00:01:03) zoom out 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom out -35.2864 42.1645
-\i (00:01:03) trapsize 424
-\i (00:01:03) zoom out 1 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) zoom out -35.2609 42.1475
-\i (00:01:03) trapsize 848
-\i (00:01:07) zoom out 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom out -32.2927 40.3157
-\t (00:01:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:01:07) trapsize 1696
-\i (00:01:07) zoom out 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom out -32.1910 40.2140
-\t (00:01:07) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:01:07) trapsize 3392
-\i (00:01:09) save 
-\i (00:01:11) fillin yes 
-\i (00:01:11) placementedit 
-\i (00:01:19) artwork 
-\i (00:01:22) setwindow form.film_control
-\i (00:01:22) FORM film_control select_all  
-\i (00:01:23) FORM film_control create  
-\t (00:01:23) Checking db records
-\t (00:01:23)     checking for orphans...
-\t (00:01:23)     Checked 100 percent
-\w (00:01:23) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:01:23) Done dbdoctor.
-\t (00:01:23) Starting Create artwork films...
-\w (00:01:23) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:01:24) Artwork generated with warnings.
-\i (00:01:27) setwindow pcb
-\i (00:01:27) setwindow text
-\i (00:01:27) close
-\i (00:01:29) setwindow form.film_control
-\i (00:01:29) FORM film_control cancel  
-\i (00:01:29) setwindow pcb
-\i (00:01:29) placementedit 
-\i (00:08:25) zoom out 1 
-\i (00:08:25) setwindow pcb
-\i (00:08:25) zoom out -6.4108 41.1639
-\t (00:08:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:08:25) trapsize 6784
-\i (00:08:27) zoom in 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom in 17.6391 28.9010
-\t (00:08:27) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:08:27) trapsize 3392
-\i (00:08:29) zoom in 1 
-\i (00:08:29) setwindow pcb
-\i (00:08:29) zoom in -3.1207 44.8440
-\t (00:08:29) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:08:29) trapsize 1696
-\i (00:08:29) zoom in 1 
-\i (00:08:29) setwindow pcb
-\i (00:08:29) zoom in -3.1206 44.8440
-\t (00:08:29) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:08:29) trapsize 848
-\i (00:09:49) xhilite 
-\i (00:09:49) xname_flush 
-\i (00:09:49) done 
-\i (00:09:49) placementedit 
-\i (00:09:54) zoom out 1 
-\i (00:09:54) setwindow pcb
-\i (00:09:54) zoom out -3.0697 45.4038
-\t (00:09:54) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:09:54) trapsize 1696
-\i (00:09:54) zoom out 1 
-\i (00:09:54) setwindow pcb
-\i (00:09:54) zoom out -2.7983 45.2341
-\t (00:09:54) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:09:54) trapsize 3392
-\i (00:09:54) zoom out 1 
-\i (00:09:54) setwindow pcb
-\i (00:09:54) zoom out -2.6626 45.0985
-\t (00:09:54) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:09:54) trapsize 6784
-\i (00:10:04) refresh symbol 
-\i (00:10:08) setwindow form.upd_element
-\i (00:10:08) FORM upd_element tree 'MULTISEL YES' SMD_MAX17048 'Package symbols' 
-\i (00:10:08) FORM upd_element tree  SMD_MAX17048 'Package symbols' 
-\i (00:10:10) FORM upd_element refresh  
-\t (00:10:10) Starting Refresh Symbol...
-\t (00:10:10) Opening existing design...
-\t (00:10:10) Grids are drawn 6.4000, 6.4000 apart for enhanced viewing.
-\t (00:10:11) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:10:11) setwindow pcb
-\i (00:10:11) trapsize 6784
-\i (00:10:19) setwindow form.upd_element
-\i (00:10:19) FORM upd_element close  
-\i (00:10:19) setwindow pcb
-\i (00:10:19) placementedit 
-\i (00:10:31) zoom in 1 
-\i (00:10:31) setwindow pcb
-\i (00:10:31) zoom in 32.9715 28.5449
-\t (00:10:31) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:10:31) trapsize 3392
-\i (00:10:31) zoom in 1 
-\i (00:10:31) setwindow pcb
-\i (00:10:31) zoom in 32.9716 28.5449
-\t (00:10:31) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:10:31) trapsize 1696
-\i (00:10:32) zoom in 1 
-\i (00:10:32) setwindow pcb
-\i (00:10:32) zoom in 30.2240 26.3739
-\t (00:10:32) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:10:32) trapsize 848
-\i (00:12:17) xhilite 
-\i (00:12:18) xname_flush 
-\i (00:12:18) done 
-\i (00:12:18) placementedit 
-\i (00:12:22) refresh symbol 
-\i (00:12:28) setwindow form.upd_element
-\i (00:12:28) FORM upd_element tree 'MULTISEL YES' SMD_TSX-3225240000MF15X-AC3 'Package symbols' 
-\i (00:12:28) FORM upd_element tree  SMD_TSX-3225240000MF15X-AC3 'Package symbols' 
-\i (00:12:30) FORM upd_element refresh  
-\t (00:12:30) Starting Refresh Symbol...
-\t (00:12:30) Opening existing design...
-\t (00:12:30) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\t (00:12:30) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:12:30) setwindow pcb
-\i (00:12:30) trapsize 848
-\i (00:12:32) setwindow form.upd_element
-\i (00:12:32) FORM upd_element close  
-\i (00:12:32) setwindow pcb
-\i (00:12:32) placementedit 
-\i (00:12:33) zoom out 1 
-\i (00:12:33) setwindow pcb
-\i (00:12:33) zoom out 36.7030 26.5266
-\t (00:12:33) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:12:33) trapsize 1696
-\i (00:12:35) zoom in 1 
-\i (00:12:35) setwindow pcb
-\i (00:12:35) zoom in 31.7505 32.9378
-\t (00:12:35) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:12:35) trapsize 848
-\i (00:13:36) xhilite 
-\i (00:13:36) xname_flush 
-\i (00:13:36) done 
-\i (00:13:36) placementedit 
-\i (00:13:40) zoom out 1 
-\i (00:13:40) setwindow pcb
-\i (00:13:40) zoom out 16.8421 35.7532
-\t (00:13:40) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:13:40) trapsize 1696
-\i (00:13:40) zoom out 1 
-\i (00:13:40) setwindow pcb
-\i (00:13:40) zoom out 16.9100 35.6515
-\t (00:13:40) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:13:40) trapsize 3392
-\i (00:13:40) zoom out 1 
-\i (00:13:40) setwindow pcb
-\i (00:13:40) zoom out 9.6336 35.5159
-\t (00:13:40) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:13:40) trapsize 6784
-\i (00:13:42) refresh symbol 
-\i (00:13:48) setwindow form.upd_element
-\i (00:13:48) FORM upd_element tree 'MULTISEL YES' SMD_SC20S-7PF20PPM 'Package symbols' 
-\i (00:13:48) FORM upd_element tree  SMD_SC20S-7PF20PPM 'Package symbols' 
-\i (00:13:49) FORM upd_element refresh  
-\t (00:13:49) Starting Refresh Symbol...
-\t (00:13:49) Opening existing design...
-\t (00:13:49) Grids are drawn 6.4000, 6.4000 apart for enhanced viewing.
-\t (00:13:49) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:13:49) setwindow pcb
-\i (00:13:49) trapsize 6784
-\i (00:13:51) setwindow form.upd_element
-\i (00:13:51) FORM upd_element close  
-\i (00:13:51) setwindow pcb
-\i (00:13:51) placementedit 
-\i (00:13:53) save 
-\i (00:13:54) fillin yes 
-   (00:13:54) Loading signal.cxt 
-\i (00:13:54) placementedit 
-\i (00:13:57) status 
-\i (00:13:57) placementedit 
-\i (00:13:59) setwindow form.status
-\i (00:13:59) FORM status drc_update  
-\t (00:13:59) Running DRC, wait...
-\t (00:13:59) Performing DRC...
-\t (00:13:59) Multithreaded DRC update (4 threads).
-\t (00:13:59) No DRC errors detected.
-\t (00:13:59) DRC done.
-\i (00:14:02) FORM status done  
-\i (00:14:07) setwindow pcb
-\i (00:14:07) artwork 
-\i (00:14:11) setwindow form.film_control
-\i (00:14:11) FORM film_control select_all  
-\i (00:14:12) FORM film_control create  
-\t (00:14:12) Checking db records
-\t (00:14:12)     checking for orphans...
-\t (00:14:12)     Checked 100 percent
-\t (00:14:12) Done dbdoctor.
-\t (00:14:12) Starting Create artwork films...
-\w (00:14:12) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:14:13) Artwork generated with warnings.
-\i (00:14:16) setwindow pcb
-\i (00:14:16) setwindow text
-\i (00:14:16) close
-\i (00:14:18) setwindow form.film_control
-\i (00:14:18) FORM film_control ok  
-\i (00:14:18) setwindow pcb
-\i (00:14:18) placementedit 
-\i (00:14:19) save 
-\i (00:14:20) fillin yes 
-\i (00:14:21) placementedit 
-\i (00:33:10) exit 
-\t (00:33:10)     Journal end - Tue Jan 19 23:43:05 2021
+\i (00:00:58) placementedit 
+\i (00:09:19) save 
+\i (00:09:20) fillin yes 
+   (00:09:20) Loading signal.cxt 
+\i (00:09:20) placementedit 
+\i (00:09:21) exit 
+\t (00:09:21)     Journal end - Wed Jan 20 00:19:57 2021

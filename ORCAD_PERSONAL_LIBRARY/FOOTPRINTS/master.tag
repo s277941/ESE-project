@@ -1,1 +1,1 @@
-smd_SC20S-7PF20PPM.dra
+0603_r.dra
