@@ -3,7 +3,7 @@ G04 Layout Name:  C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd*
 G04 Film Name:    TOP*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 17.2-S071*
-G04 Origin Date:  Wed Jan 20 00:06:54 2021*
+G04 Origin Date:  Wed Jan 20 00:11:29 2021*
 G04 *
 G04 Layer:  VIA CLASS/TOP*
 G04 Layer:  PIN/TOP*
@@ -15,7 +15,7 @@ G04 Mirror:    No*
 G04 Mode:      Positive*
 G04 Rotation:  0*
 G04 FullContactRelief:  No*
-G04 UndefLineWidth:     0.1500*
+G04 UndefLineWidth:     0.1250*
 G04 ================== end FILE IDENTIFICATION RECORD ====================*
 %FSLAX25Y25*MOMM*%
 %IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
@@ -302,7 +302,7 @@ G04 ================== end FILE IDENTIFICATION RECORD ====================*
 %ADD40MACRO40*%
 %ADD46C,.25*%
 %ADD47C,.127*%
-%ADD48C,.15*%
+%ADD48C,.125*%
 G75*
 %LPD*%
 G75*

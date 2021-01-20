@@ -1,29 +1,52 @@
-\t (00:00:08) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:08)     Journal start - Wed Jan 20 00:00:34 2021
-\t (00:00:08)         Host=PORTATILE-HP User=Andreaa Pid=31292 CPUs=4
-\t (00:00:08) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:08) 
-   (00:00:08) Loading axlcore.cxt 
-\t (00:00:10) Opening existing design...
-\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 0603_r
-\d (00:00:10) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603_r.dra
-\i (00:00:10) trapsize 196
-\i (00:00:11) trapsize 202
-\i (00:00:11) trapsize 196
-\i (00:00:11) trapsize 173
-\i (00:00:11) trapsize 173
-\i (00:00:14) open 
-\i (00:00:24) fillin "C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd"
-\i (00:00:24) cd "C:/Users/Andreaa/ESE/Launchpad/allegro"
-\t (00:00:25) Opening existing design...
-\w (00:00:25) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
-\t (00:00:25) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
-\t (00:00:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:00:25) trapsize 7125
-\i (00:00:25) trapsize 7293
-\i (00:00:25) trapsize 7125
-\t (00:00:25) Grids are drawn 6.4000, 6.4000 apart for enhanced viewing.
-\t (00:00:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:00:25) trapsize 6784
-\i (00:00:25) trapsize 6784
-\t (00:00:25)     Journal end - Wed Jan 20 00:00:51 2021
+\t (00:00:03) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jan 20 13:38:54 2021
+\t (00:00:03)         Host=PORTATILE-HP User=Andreaa Pid=33060 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Andreaa\ESE\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\0603_l.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 0603_l
+\d (00:00:03) Design opened: C:/Users/Andreaa/ESE/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603_l.dra
+\i (00:00:03) trapsize 196
+\i (00:00:03) trapsize 202
+\i (00:00:03) trapsize 196
+\i (00:00:03) trapsize 173
+\i (00:00:03) trapsize 173
+\i (00:00:09) delete 
+\i (00:00:11) pick grid 1.1471 0.5528
+\t (00:00:11) last pick:  1.1500 0.5500
+\t (00:00:11) Shape "Board Geometry/Silkscreen_Top"
+\i (00:00:11) pick grid 1.1471 0.5528
+\t (00:00:11) last pick:  1.1500 0.5500
+\i (00:00:12) prepopup 1.1471 0.5528
+\i (00:00:14) oops 
+\t (00:00:14) last pick:  1.1500 0.5500
+\i (00:00:18) pick grid -1.1467 0.5459
+\t (00:00:18) last pick:  -1.1500 0.5500
+\t (00:00:18) Shape "Board Geometry/Silkscreen_Top"
+\i (00:00:19) pick grid dbl -1.1467 0.5459
+\t (00:00:19) last pick:  -1.1500 0.5500
+\i (00:00:19) prepopup -1.1467 0.5459
+\i (00:00:20) done 
+\i (00:00:21) shape add rect 
+\i (00:00:22) shape add rect 
+\i (00:00:26) setwindow form.mini
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:30) FORM mini dyns_fill_type Unfilled 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) pick grid -1.1640 0.5424
+\t (00:00:37) last pick:  -1.1500 0.5500
+\i (00:00:39) pick grid -1.1640 0.5424
+\t (00:00:39) last pick:  -1.1500 0.5500
+\w (00:00:39) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\t (00:00:39) last pick:  -1.1500 0.5500
+\i (00:00:44) pick grid 1.1678 -0.5733
+\t (00:00:44) last pick:  1.1500 -0.5500
+\i (00:00:45) prepopup 1.3099 -0.4451
+\i (00:00:46) done 
+\i (00:00:47) save 
+\i (00:00:49) fillin yes 
+\t (00:00:49) Symbol '0603_l.psm' created.
+\i (00:00:51) exit 
+\t (00:00:51)     Journal end - Wed Jan 20 13:39:43 2021
