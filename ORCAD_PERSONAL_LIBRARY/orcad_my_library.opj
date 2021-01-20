@@ -14,19 +14,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb" "1051640001"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "MAX1555"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 296"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1382 78 413"))
-      (Path "C:\USERS\ANDREAA\ESE\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "1051640001")
-      (PartType "1")))
+      (Tab 0)))
   (MPSSessionName "Andreaa")
   (ISPCBBASICLICENSE "false"))

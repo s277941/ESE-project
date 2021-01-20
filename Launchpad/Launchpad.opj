@@ -252,7 +252,7 @@
       (Path "Design Resources" ".\launchpad.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\launchpad.dsn"))
+      (Select "Design Resources" ".\launchpad.dsn" "Launchpad" "Touch-sensor"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
