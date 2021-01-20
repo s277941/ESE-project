@@ -1,69 +1,129 @@
-\t (00:00:04) allegro 17.2 S071 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Wed Jan 20 00:10:39 2021
-\t (00:00:04)         Host=PORTATILE-HP User=Andreaa Pid=25016 CPUs=4
-\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\w (00:00:06) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LAUNCHPAD
-\d (00:00:06) Design opened: C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd
-\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
-\i (00:00:07) trapsize 10672
-\i (00:00:07) trapsize 11074
-\i (00:00:07) trapsize 11507
-\i (00:00:07) trapsize 11074
-\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
-\t (00:00:07) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:00:07) trapsize 9090
-\t (00:00:07) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
-\i (00:00:07) trapsize 13569
-\i (00:00:08) placementedit 
-\i (00:00:13) artwork 
-\i (00:00:26) setwindow form.film_control
-\i (00:00:26) FORM film_control undefined_line_width 0.125 
-\i (00:00:27) FORM film_control filmtree  OUTLINE 
-\i (00:00:29) FORM film_control undefined_line_width 0.125 
-\i (00:00:29) FORM film_control filmtree  PM_BOT 
-\i (00:00:31) FORM film_control undefined_line_width 0.125 
-\i (00:00:31) FORM film_control filmtree  PM_TOP 
-\i (00:00:33) FORM film_control undefined_line_width 0.125 
-\i (00:00:34) FORM film_control filmtree  SILK_BOT 
-\i (00:00:36) FORM film_control undefined_line_width 0.125 
-\i (00:00:36) FORM film_control filmtree  SILK_TOP 
-\i (00:00:38) FORM film_control undefined_line_width 0.125 
-\i (00:00:38) FORM film_control filmtree  SM_BOT 
-\i (00:00:40) FORM film_control undefined_line_width 0.125 
-\i (00:00:41) FORM film_control filmtree  SM_TOP 
-\i (00:00:43) FORM film_control undefined_line_width 0.125 
-\i (00:00:43) FORM film_control filmtree  TOP 
-\i (00:00:45) FORM film_control undefined_line_width 0.125 
-\i (00:00:46) FORM film_control filmtree  SM_TOP 
-\i (00:00:46) FORM film_control filmtree  SM_BOT 
-\i (00:00:47) FORM film_control filmtree  TOP 
-\i (00:00:48) FORM film_control filmtree  SILK_TOP 
-\i (00:00:48) FORM film_control filmtree  SILK_BOT 
-\i (00:00:48) FORM film_control filmtree  PM_TOP 
-\i (00:00:49) FORM film_control filmtree  PM_BOT 
-\i (00:00:52) FORM film_control select_all  
-\i (00:00:53) FORM film_control create  
-\t (00:00:53) Checking db records
-\t (00:00:53)     checking for orphans...
-\t (00:00:53)     Checked 100 percent
-\t (00:00:54) Done dbdoctor.
-\t (00:00:54) Starting Create artwork films...
-\w (00:00:54) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:55) Artwork generated with warnings.
-\i (00:00:57) setwindow pcb
-\i (00:00:57) setwindow text
-\i (00:00:57) close
-\i (00:00:58) setwindow form.film_control
-\i (00:00:58) FORM film_control ok  
-\i (00:00:58) setwindow pcb
-\i (00:00:58) placementedit 
-\i (00:09:19) save 
-\i (00:09:20) fillin yes 
-   (00:09:20) Loading signal.cxt 
-\i (00:09:20) placementedit 
-\i (00:09:21) exit 
-\t (00:09:21)     Journal end - Wed Jan 20 00:19:57 2021
+\t (00:00:09) allegro 17.2 S071 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Wed Jan 20 12:11:35 2021
+\t (00:00:09)         Host=PORTATILE-HP User=Andreaa Pid=18356 CPUs=4
+\t (00:00:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:09) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LAUNCHPAD
+\d (00:00:10) Design opened: C:/Users/Andreaa/ESE/Launchpad/allegro/LAUNCHPAD.brd
+\t (00:00:11) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:11) trapsize 10672
+\i (00:00:11) trapsize 11074
+\i (00:00:11) trapsize 11507
+\i (00:00:11) trapsize 11074
+\t (00:00:11) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\t (00:00:11) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:11) trapsize 9090
+\t (00:00:11) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:11) trapsize 13569
+\i (00:00:12) placementedit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -54.4098 -13.7042
+\t (00:00:13) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:13) trapsize 6784
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -10.8548 -7.5984
+\t (00:00:14) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:14) trapsize 13569
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -13.7042 -58.7517
+\t (00:00:17) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:17) trapsize 6784
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 20.4885 38.3990
+\t (00:00:25) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:25) trapsize 3392
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 20.1493 37.7884
+\t (00:00:25) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:25) trapsize 1696
+\i (00:00:25) roam y 96 
+\i (00:00:25) roam y 96
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 7.4967 30.4614
+\t (00:00:27) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:27) trapsize 3392
+\i (00:00:34) roam x -96 
+\i (00:00:34) roam x -96
+\i (00:00:34) roam x -96 
+\i (00:00:34) roam x -96
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:35) roam x -96 
+\i (00:00:35) roam x -96
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out -9.7693 25.1696
+\t (00:00:36) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:36) trapsize 6784
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:39) roam y -96 
+\i (00:00:39) roam y -96
+\i (00:00:39) roam y -96 
+\i (00:00:39) roam y -96
+\i (00:00:39) roam y -96 
+\i (00:00:39) roam y -96
+\i (00:00:39) roam y -96 
+\i (00:00:39) roam y -96
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 23.6092 47.3542
+\t (00:00:42) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:42) trapsize 3392
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 23.4735 47.2863
+\t (00:00:43) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:43) trapsize 1696
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 41.9607 46.0991
+\t (00:00:45) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:45) trapsize 3392
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 41.7571 46.0312
+\t (00:00:46) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:46) trapsize 6784
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 96.8793 46.0312
+\t (00:00:46) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:00:46) trapsize 13569
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 102.1709 2.0353
+\t (00:00:47) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:47) trapsize 6784
+\i (00:00:48) roam y 96 
+\i (00:00:48) roam y 96
+\i (00:00:48) roam y 96 
+\i (00:00:48) roam y 96
+\i (00:00:55) exit 
+\t (00:00:55)     Journal end - Wed Jan 20 12:12:21 2021
